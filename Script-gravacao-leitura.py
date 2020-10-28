@@ -1,3 +1,5 @@
+# Script para manipulação de arquivos TXT
+# Leitura, escrita, adição de escrita e reset de arquivo.
 import os
 
 while True:
