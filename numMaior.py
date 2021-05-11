@@ -1,4 +1,4 @@
-# Atribuir valores de escolha do usuário, encontrar o número máxio
+# Atribuir valores de escolha do usuário, encontrar o número máximo
 # E contar quantas vezes o mesmo aparece
 num = []
 numSoma = 0
