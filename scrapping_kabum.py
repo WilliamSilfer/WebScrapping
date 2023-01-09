@@ -1,4 +1,7 @@
 # William silva
+# WebScrapping do site: https://www.kabum.com.br
+# Dados extraídos: Cadeiras gamer e Preços
+# Informações extraídas e armazenadas em um arquivo CSV
 
 import requests
 from bs4 import BeautifulSoup
