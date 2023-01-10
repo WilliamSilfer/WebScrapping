@@ -1,3 +1,8 @@
+# William silva
+# WebScrapping do site: https://www.kabum.com.br
+# Dados extraídos: Cadeiras gamer e Preços
+# Informações extraídas e armazenadas em um arquivo CSV
+
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -31,6 +36,6 @@ for i in range(1, ultima_pagina + 1):
         dict_produtos['marca'].append(marca)
         dict_produtos['preco'].append(preco)
 
-print(dict_produtos['marca'][:1], dict_produtos['preco'][:1])
+print(dict_produtos['marca'][:1], dict_produtos['preco'][:10])
 df = pd.DataFrame(dict_produtos)
 df.to_csv('C:/Users/walli/Documents/WebScrapping/WebScrapping com site dinamico/lista_cadeiras.csv', encoding='utf-8', sep= ';')
