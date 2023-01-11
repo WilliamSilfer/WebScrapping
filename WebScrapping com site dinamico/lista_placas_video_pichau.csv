@@ -1,0 +1,1729 @@
+;Marca;Preco;Preco Boleto
+0;Placa de Video MSI GeForce RTX 4070 Ti Ventus 3x OC, 12GB, GDDR6X, 192-bits, 912-V513-001; 8,470.58;7,199.99
+1;Placa de Video MSI GeForce RTX 4070 Ti Gaming X Trio, 12GB, GDDR6X, 192-bits, 912-V513-008; 8,705.87;7,399.99
+2;Placa de Video PNY GeForce GTX 1660 Ti, 6GB, GDDR6, 192-bit, VCG1660T6DFPPB1-NAC; 1,882.34;1,599.99
+3;Placa de Video Gigabyte GeForce RTX 4070 Ti Gaming OC, 12GB, GDDR6X, 192-bits, GV-N407TGAMING OC-12GD; 8,587.06;7,299.00
+4;Placa de Video Gigabyte GeForce GTX 1660 Super Windforce OC, 6GB, GDDR6, 192-bit, GV-N166SOC-6GD-NAC; 2,117.64;1,799.99
+5;Placa de Video ASRock Radeon RX 7900 XT, 20GB, GDDR6, 320-bit, 90-GA43ZZ-00UANL; 9,175.28;7,798.99
+6;Placa de Video Sapphire Radeon RX 7900 XT Gaming, 20GB, GDDR6, 320-bit, 21323-01-20G; 8,823.52;7,499.99
+7;Placa de Video Galax Geforce RTX 3060 Ti SG 1-Click OC Plus, 8GB, GDDR6X, 256-Bit, 36ISM6MD1GSP; 3,834.11;3,258.99
+8;Placa de Video Asus GeForce RTX 2060 Dual EVO, 12GB, GDDR6, 192-bit, DUAL-RTX2060-12G-EVO; 2,470.58;2,099.99
+9;Placa de Video Asus GeForce GTX 1650 Phoenix V2 OC, 4GB, GDDR6, 128-bit, PH-GTX1650-O4GD6-P-V2; 1,482.34;1,259.99
+10;Placa de Video ASRock Intel ARC A380 Challenger ITX, 6GB, GDDR6, 96-bit, A380 CLI 6GO; 1,764.69;1,499.99
+11;Placa de Video ASRock Intel ARC A750 Challenger D OC, 8GB, GDDR6, 256-bit, A750 CLD 8GO; 2,705.87;2,299.99
+12;Placa de Video Zotac GeForce RTX 3060 Ti AMP White Edition LHR, 8GB, GDDR6, 256-Bit, ZT-A30610F-10PLHR; 5,243.64;4,457.09
+13;Placa de Video Zotac GeForce RTX 4080 Gaming AMP Extreme AIRO, 16GB, GDDR6X, 256-bits, ZT-D40810B-10P; 12,470.58;10,599.99
+14;Placa de Video Gigabyte GeForce RTX 4080 Gaming OC, 16GB, GDDR6X, 256-bits, GV-N4080GAMING OC-16GD; 12,117.64;10,299.99
+15;Placa de Video Gigabyte GeForce RTX 4080 Eagle OC, 16GB, GDDR6X, 256-bits, GV-N4080EAGLE-OC-16GD-G10; 12,588.22;10,699.99
+16;Placa de Video MSI GeForce RTX 4080 Ventus 3X OC, 16GB, GDDR6X, 256-bits, 912-V511-013; 12,940.00;10,999.00
+17;Placa de Video Afox GeForce GTX 750TI, 2GB, GDDR5, 128-bit, AF750TI-2048D5H5-V2; 764.59;649.90
+18;Placa de Video Asus GeForce RTX 3050 Dual OC, 8GB, GDDR6, 128-bit, DUAL-RTX3050-O8G-NAC; 2,630.58;2,235.99
+19;Placa de Video Zotac GeForce RTX 4090 Trinity OC, 24GB, GDDR6X, 384-bit, ZT-D40900J-10P; 16,445.87;13,978.99
+20;Placa de Video Zotac GeForce RTX 4090 AMP Extreme AIRO, 24GB, GDDR6X, 384-bit, ZT-D40900B-10P; 16,816.46;14,293.99
+21;Placa de Video Gainward GeForce GT 1030, 2GB, DDR4, 64-bit, NEC103000646-1082F; 588.22;499.99
+22;Placa de Video Afox GeForce GT 710, 2GB, DDR3, 64-bit, AF710-2048D3L5; 423.41;359.90
+23;Placa de Video Afox Radeon R5 230, 1GB, DDR3, 64-bit, AFR5230-1024D3L9-V2; 235.18;199.90
+24;Placa de Video Afox GeForce GT240, 1GB, DDR3, 128-Bit, AF240-1024D3L2-V2; 243.41;206.90
+25;Placa de Video Afox GeForce GT 610, 2GB, DDR3, 64-Bit, AF610-2048D3L7-V6; 258.71;219.90
+26;Placa de Video Afox GeForce GT610, 1GB, DDR3, 64-Bit, AF610-1024D3L5; 223.41;189.90
+27;Placa de Video XFX Radeon RX 6400 Speedster, 4GB, GDDR6, 64-bit, RX-64XL4SFG2; 1,082.34;919.99
+28;Placa de Video Afox GeForce GT220, 1GB, DDR3, 128-Bit, AF220-1024D3L2; 218.71;185.90
+29;Placa de Video ASRock Radeon RX 6500 XT Challenger ITX OC, 4GB, GDDR6, 64-Bit, 90-GA3BZZ-00UANF; 1,763.53;1,499.00
+30;Placa de Video ASRock Radeon RX 6650 XT Challenger D OC, 8GB, GDDR6, 128-bit, 90-GA3RZZ-00UANF; 3,294.11;2,799.99
+31;Placa de Video Gigabyte GeForce RTX 3050 Eagle OC, 8GB, GDDR6, 128-bit, GV-N3050EAGLE-OC-8GD; 2,588.22;2,199.99
+32;Placa de Video Asus GeForce RTX 3050 TUF Gaming OC, 8GB, GDDR6, 128-bit, TUF-RTX3050-O8G-GAMING; 2,597.64;2,207.99
+33;Placa de Video Afox GeForce GT730, 4GB, DDR3, 128-bit, AF730-4096D3L6; 505.76;429.90
+34;Placa de Video MSI GeForce RTX 3060 Ventus 3X OC, LHR, 12GB, GDDR6, 192-bit, 912-V397-227-NAC; 3,462.34;2,942.99
+35;Placa de Video PowerColor Radeon RX 6400 Low Profile, 4GB, GDDR6, 64-bit, AXRX-6400-LP-4GBD6-DH; 1,081.18;919.00
+36;Placa de Video PNY Quadro RTX A4500, 20GB, GDDR6, 320-bit, VCNRTXA4500-PB; 13,857.64;11,778.99
+37;Placa de Video PNY Quadro RTX A2000, 12GB, GDDR6, 192-bit, VCNRTXA200012GB-PB; 6,235.28;5,299.99
+38;Placa de Video PNY Quadro RTX A2000, 6GB, GDDR6, 192-bit, VCNRTXA2000-PB; 3,411.75;2,899.99
+39;Placa de Video PNY Quadro T1000, 4GB, GDDR6, 128-bit, VCNT1000-PB; 2,470.58;2,099.99
+40;Placa de Video PNY Quadro T1000, 8GB, GDDR6, 128-bit, VCNT10008GB-PB; 3,599.99;3,059.99
+41;Placa de Video Gigabyte GeForce RTX 3050 Gaming OC, 8GB, GDDR6, 128-bit, GV-N3050GAMING OC-8GD; 3,058.81;2,599.99
+42;Placa de Video ASRock Radeon RX 6650 XT Phantom Gaming D OC, 8GB, GDDR6, 128-bit, 90-GA3MZZ-00UANF; 3,411.75;2,899.99
+43;Placa de Video ASRock Radeon RX 6400 Challenger ITX, 4GB, GDDR6, 64-Bit, 90-GA3CZZ-00UANF; 1,292.94;1,099.00
+44;Placa de Video AMD Radeon PRO W6600, 8GB, GDDR6, 128-bit, 100-506208; 5,175.29;4,399.00
+45;Placa de Video Asus GeForce RTX 3050 Phoenix , 8GB, GDDR6, 128-bit, PH-RTX3050-8G; 2,470.58;2,099.99
+46;Placa de Video Galax GeForce RTX 3050 EX 1-Click OC, 8GB, GDDR6, 128-bit, 35NSL8MD6YEX; 3,077.06;2,615.50
+47;Placa de Video Gigabyte Radeon RX 6500 XT Gaming OC, 4GB, GDDR6, 64-Bit, GV-R65XTGAMING OC-4GD; 1,952.93;1,659.99
+48;Placa de Video Asus GeForce RTX 2060 Dual OC Edition, 12GB, GDDR6, 192-bit, DUAL-RTX2060-O12G-EVO; 2,541.17;2,159.99
+49;Placa de Video ASRock Radeon RX 6600 Challenger D, 8GB, GDDR6, 128-Bit, 90-GA2RZZ-00UANF; 2,588.22;2,199.99
+50;Placa de Video PNY Quadro RTX A5000, 24GB, GDDR6, 384-bit, VCNRTXA5000-PB; 22,880.86;19,448.73
+51;Placa de Video PNY Quadro RTX A4000, 16GB, GDDR6, 256-bit, VCNRTXA4000-PB; 9,411.75;7,999.99
+52;Placa de Video Gigabyte GeForce RTX 3070 Aorus Master, LHR, 8GB, GDDR6, 256-bit, GV-N3070AORUS M-8GD REV 2.0; 6,182.34;5,254.99
+53;Placa de Video Galax GeForce GTX 1650 EX -Click OC, 4GB, GDDR6, 128-bit, 65SQL8DS66E6-NAC; 1,529.40;1,299.99
+54;Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC, LHR, 8GB, GDDR6, 256-bit, GV-N306TGAMING OC-8GD REV 2.0; 4,070.58;3,459.99
+55;Placa de Video ASRock Radeon RX 6600 XT Phantom Gaming D OC, 8GB, GDDR6, 128-Bit, 90-GA2QZZ-00UANF; 3,176.46;2,699.99
+56;Placa de Video ASRock Radeon RX 6600 XT Challenger D OC, 8GB, GDDR6, 128-Bit, 90-GA2TZZ-00UANF; 2,941.17;2,499.99
+57;Placa de Video Asus GeForce RTX 3060 Ti V2 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3060TI-O8G-V2; 4,470.58;3,799.99
+58;Placa De Video Duex Geforce GT 730 4GB DDR3 128Bit, DX GT730LP-4GD3; 541.06;459.90
+59;Placa de Video Afox Radeon R5 220 2GB DDR3 64-bit, AFR5220-2048D3L5-V2; 258.71;219.90
+60;Placa de Video Asus GeForce RTX 2060 Dual OC Edition 6GB GDDR6 192-bit, DUAL-RTX2060-O6G-EVO; 2,352.93;1,999.99
+61;Placa de Video Gigabyte GeForce GT 1030 2GB DDR4 Low Profile D4 64-bit, GV-N1030D4-2GL; 618.81;525.99
+62;Placa de Video Galax GeForce GT 1030 2GB GDDR5 64-bit, 30NPH4HVQ4ST; 741.17;629.99
+63;Placa de Video Gigabyte GeForce GT 1030 2GB GDDR5 Low Profile 64-bit, GV-N1030D5-2GL; 656.46;557.99
+64;Placa de Video Gigabyte GeForce RTX 4070 Ti Eagle OC, 12GB, GDDR6X, 192-bits, GV-N407TEAGLE OC-12GD;0;0
+65;Placa de Video Gigabyte GeForce RTX 2060 WindForce OC, 12GB, GDDR6, 192-bit, GV-N2060WF2OC-12GD-NAC;0;0
+66;Placa de Video Gigabyte GeForce GTX 1660 OC, 6GB, GDDR5, 192-bit, GV-N1660OC-6GD-NAC;0;0
+67;Placa de Video ASRock Radeon RX 7900 XTX, 24GB, GDDR6, 384-bit, 90-GA44ZZ-00UANL;0;0
+68;Placa de Video Sapphire Radeon RX 7900 XTX Gaming, 24GB, GDDR6, 384-bit, 21322-01-20G;0;0
+69;Placa de Video Galax Geforce RTX 3060 Ti 1-Click OC Plus, 8GB, GDDR6X, 256-Bit, 36ISM6MD2KCV;0;0
+70;Placa de Video Galax Geforce RTX 3060 1-Click OC, 8GB, GDDR6, 128-Bit, 36NSL8MD6OCC;0;0
+71;Placa de Video Gigabyte GeForce RTX 4090 Gaming OC, 24GB, GDDR6X, 384-bit, GV-N4090GAMING OC-24GD;0;0
+72;Placa de Video Duex Radeon RX550, 4GB, GDDR5, 128-bit, DX RX550-4GB;0;0
+73;Placa de Video Gigabyte GeForce RTX 3050 Eagle, 8GB, GDDR6, 128-bit, GV-N3050EAGLE-8GD;0;0
+74;Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle OC, LHR, 8GB, GDDR6, 256-bit, GV-N306TEAGLE OC-8GD REV 2.0;0;0
+75;Placa de Video Gigabyte GeForce RTX 3070 Vision OC, LHR, 8GB, GDDR6, 256-bit, GV-N3070VISION OC-8GD REV 2.0;0;0
+76;Placa de Video Gigabyte GeForce RTX 3060 Vision OC, 12GB, GDDR6, 192-bit, GV-N3060VISION OC-12GD REV 2.0;0;0
+77;Placa de Video Asus GeForce RTX 3060 Dual OC, 8GB, GDDR6, 128-bit, DUAL-RTX3060-O8G;0;0
+78;Placa de Video Asus GeForce RTX 3060 Ti TUF Gaming OC, LHR, 8GB, GDDR6X, 256-bit, TUF-RTX3060TI-O8GD6X-GAMING;0;0
+79;Placa de Video Asus GeForce RTX 3080 TUF Gaming, LHR, 10GB, GDDR6X, 320-bit, TUF-RTX3080-10G-V2-GAMING-NAC;0;0
+80;Placa de Video Asus GeForce RTX 3080 Ti TUF Gaming, LHR, 12GB, GDDR6X, 384-bit, TUF-RTX3080TI-12G-GAMING-NAC;0;0
+81;Placa de Video Asus GeForce RTX 3070 Ti ROG Strix OC, 8GB, GDDR6X, 256-bit, ROG-STRIX-RTX3070TI-O8G-GAMING-NAC;0;0
+82;Placa de Video Asus GeForce GTX 1660 Super Phoenix OC, 6GB, GDDR6, 192-bit, PH-GTX1660S-O6G-NAC;0;0
+83;Placa de Video Asus GeForce RTX 3060 Ti Dual V2 OC, LHR, 8GB, GDDR6, 256-bit, DUAL-RTX3060TI-O8G-V2-NAC;0;0
+84;Placa de Video Asus GeForce GTX 1660 Super TUF Gaming OC, 6GB, 192-bit, TUF-GTX1660S-O6G-GAMING-NAC;0;0
+85;Placa de Video Zotac GeForce RTX 3090 Trinity OC, 24GB, GDDR6X, 384-bit, ZT-A30900J-10P;0;0
+86;Placa de Video Zotac GeForce RTX 3090 AMP Extreme Holo, 24GB, GDDR6X, 384-bit, ZT-A30900B-10P;0;0
+87;Placa de Video Zotac GeForce RTX 3080 Ti AMP Extreme Holo, 12GB, GDDR6X, 384-bit, ZT-A30810B-10P;0;0
+88;Placa de Video Zotac GeForce RTX 3080 Trinity OC White Edition LHR, 10GB, GDDR6X, 320-bit, ZT-A30800K-10PLHR;0;0
+89;Placa de Video Zotac GeForce RTX 3070 Ti AMP Extreme Holo, 8GB, GDDR6X, 256-Bit, ZT-A30710B-10P;0;0
+90;Placa de Video Zotac GeForce RTX 3070 AMP Holo LHR, 8GB, GDDR6, 256-Bit, ZT-A30700F-10PLHR;0;0
+91;Placa de Video Zotac GeForce RTX 3070 Twin Edge OC LHR, 8GB, GDDR6, 256-Bit, ZT-A30700H-10PLHR;0;0
+92;Placa de Video Zotac GeForce RTX 3070 Twin Edge OC White Edition LHR, 8GB, GDDR6, 256-Bit, ZT-A30700J-10PLHR;0;0
+93;Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge OC LHR, 8GB, GDDR6, 256-Bit, ZT-A30610H-10MLHR;0;0
+94;Placa de Video Zotac GeForce RTX 3050 Twin Edge OC, 8GB, GDDR6, 128-bit, ZT-A30500H-10M;0;0
+95;Placa de Video Zotac GeForce GTX 1630, 4GB, GDDR6, 64-bit, ZT-T16300F-10L;0;0
+96;Placa de Video Galax Geforce RTX 4080 SG 1-Click OC, 16GB, GDDR6X, 256-bit, 48NZM6MD6LSG;0;0
+97;Placa de Video Zotac GeForce RTX 4080 Gaming Trinity, 16GB, GDDR6X, 256-bits, ZT-D40810D-10P;0;0
+98;Placa de Video Zotac GeForce RTX 4080 Gaming Trinity OC, 16GB, GDDR6X, 256-bits, ZT-D40810J-10P;0;0
+99;Placa de Video Asus GeForce RTX 4080 ROG Strix Gaming OC Edition, 16GB, GDDR6X, 256-bits, ROG-STRIX-RTX4080-O16G-GAMING;0;0
+100;Placa de Video Asus GeForce RTX 4080 TUF Gaming OC Edition, 16GB, GDDR6X, 256-bits, TUF-RTX4080-O16G-GAMING;0;0
+101;Placa de Video MSI GeForce RTX 4080 Gaming X Trio, 16GB, GDDR6X, 256-bits, 912-V511-005;0;0
+102;Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD-NAC;0;0
+103;Placa de Video Galax GeForce RTX 3050 1-Click OC, 8GB, GDDR6, 128-bit, 35NSL8MD6ZOC-NAC;0;0
+104;Placa de Video ASRock Intel ARC A770 Phantom Gaming D OC, 8GB, GDDR6, 256-bit, A770 PGD 8GO;0;0
+105;Placa de Video Galax GeForce GTX 1630 EX 1-Click OC, 4GB, GDDR6, 64-Bit, 63NQL4HP66EX;0;0
+106;Placa de Video Galax Geforce RTX 4090 SG 1-Click OC, 24GB, GDDR6X, 384-bit, 49NXM5MD6DSG;0;0
+107;Placa de Video Asus GeForce RTX 4090 TUF Gaming OC, 24GB, GDDR6X, 384-bit, TUF-RTX4090-O24G-GAMING;0;0
+108;Placa de Video Asus GeForce RTX 4090 ROG Strix OC, 24GB, GDDR6X, 384-bit, ROG-STRIX-RTX4090-O24G-GAMING;0;0
+109;Placa de Video MSI GeForce RTX 4090 Gaming Trio, 24GB, GDDR6X, 384-bits, 912-V510-014;0;0
+110;Placa de Video MSI GeForce RTX 4090 Suprim Liquid, 24GB, GDDR6X, 384-bits, 912-V510-007;0;0
+111;Placa De Video Duex Geforce GT 610, 1GB, DDR3, 64Bit, DX GT610LP-1GD3;0;0
+112;Placa de Video PNY Geforce RTX 3060, 12GB, GDDR6, 192-Bit, VCG306012DFBPB1;0;0
+113;Placa de Video Afox GeForce GTX 750TI, 4GB, GDDR5, 128-bit, AF750TI-4096D5H1;0;0
+114;Placa de Video Afox GeForce GT 610, 2GB, DDR3, 64-Bit, AF610-2048D3L7-V8;0;0
+115;Placa de Video Asus GeForce RTX 3080 Ti ROG Strix, 12GB, GDDR6X, 384-bit, ROG-STRIX-RTX3080TI-12G-GAMING;0;0
+116;Placa de Video Asus Radeon RX 6750 XT Dual OC Edition, 12GB, GDDR6, 192-bit, DUAL-RX6750XT-O12G;0;0
+117;Placa de Video Afox GeForce GT240, 1GB, DDR3, 128-Bit, AF240-1024D3L2;0;0
+118;Placa de Video EVGA GeForce GTX 1660 Super SC Ultra, 6GB, 192-bit, 06G-P4-1068-KR;0;0
+119;Placa de Video EVGA GeForce RTX 3060 XC, 12GB, GDDR6, 192-bit, 12G-P5-3657-KR;0;0
+120;Placa de Video EVGA GeForce RTX 3070 Ti FTW3 Ultra, LHR, 8GB, GDDR6X, 256-bit, 08G-P5-3797-KL;0;0
+121;Placa de Video MSI GeForce GTX 1050 TI 4GT OC, 4GB, GDDR5, 128-bit, 912-V809-2272-NAC;0;0
+122;Placa de Video Afox Radeon R5 230 1GB DDR3 64-bit, AFR5230-1024D3L4;0;0
+123;Placa de Video PNY GeForce GTX 1650, 4GB, GDDR6, 128-bit, VCG16504D6SFMPB1;0;0
+124;Placa de Video XFX Radeon RX 6800 XT Speedster, 16GB, GDDR6, 256-bit, RX-68XTALFD9;0;0
+125;Placa de Video XFX Radeon RX 6750 XT Speedster, 12GB, GDDR6, 192-bit, RX-675XYTBDP;0;0
+126;Placa de Video XFX Radeon RX 6750 XT Ultra Speedster, 12GB, GDDR6, 192-bit, RX-675XYLUDP;0;0
+127;Placa de Video XFX Radeon RX 6650 XT Speedster, 8GB, GDDR6, 128-bit, RX-665X8TBDY;0;0
+128;Placa de Video XFX Radeon RX 6600 XT, 8GB, GDDR6, 128-bit, RX-66XT8DFDQ;0;0
+129;Placa de Video XFX Radeon RX 6600, 8GB, GDDR6, 128-bit, RX-66XL8LFDQ;0;0
+130;Placa de Video XFX Radeon RX 6500 XT, 4GB, GDDR6, 64-bit, RX-65XT4DBDQ;0;0
+131;Placa de Video PNY Quadro T400, 4GB, GDDR6, 64-bit, VCNT4004GB-PB;0;0
+132;Placa de Video MSI GeForce RTX 3070 Suprim LHR, 8GB, GDDR6, 256-bit, 912-V390-412;0;0
+133;Placa de Video MSI GeForce RTX 2060 Ventus GP OC, 6GB, GDDR6, 192-bit, 912-V375-804;0;0
+134;Placa de Video MSI GeForce RTX 2060 Ventus GP, 6GB, GDDR6, 192-bit, 912-V375-824;0;0
+135;Placa de Video MSI GeForce RTX 3070 TI Gaming X Trio, 8GB, GDDR6X, 256-bits, 912-V505-009;0;0
+136;Placa de Video MSI GeForce RTX 3070 Ti Suprim X, 8GB, GDDR6X, 256-bit, 912-V505-008;0;0
+137;Placa de Video MSI GeForce GTX 1660 Super Ventus XS OC, 6GB, GDDR6, 192-bit, 912-V375-644;0;0
+138;Placa de Video Asus GeForce RTX 3060 TI V2 Mini OC Edition, 8GB, GDDR6, 256-bit, DUAL-RTX3060TI-O8G-MINI-V2;0;0
+139;Placa de Video Asus Radeon RX 550 Phoenix EVO, 4GB, GDDR5, 128-bit, PH-RX550-4G-EVO;0;0
+140;Placa de Video MSI GeForce GTX 1050 Ti Gaming X, 4GB, GDDR5, 128-bit, 912-V335-001;0;0
+141;Placa de Video PowerColor Radeon RX 6650 XT Hellhound Spectral Edition OC, 8GB, GDDR6, 128-bit, AXRX-6650XT-8GBD6-3DHLV2/OC;0;0
+142;Placa de Video Afox Radeon R5 230, 2GB, DDR3, 64-bit, AFR5230-2048D3L9-V2;0;0
+143;Placa de Video PNY Quadro RTX A4000, 16GB, GDDR6, 256-bit, VCNRTXA4000-PB-NAC;0;0
+144;Placa de Video Mancer GTX 1650 Amorth X, 4GB, GDDR6, 128-bit, MCR-1650AMT-X1;0;0
+145;Placa de Video MSI Radeon RX 6400 Aero ITX, 4GB, GDDR6, 64-bit, 912-V508-006;0;0
+146;Placa de Video MSI GeForce RTX 3090 Ventus 3X OC BV, 24GB, GDDR6X, 384-bit, 912-V388-016;0;0
+147;Placa de Video MSI GeForce RTX 3090 Ventus 3X OC, 24GB, GDDR6X, 384-bit, 912-V388-064;0;0
+148;Placa de Video MSI GeForce RTX 3090 Ventus 3X, 24GB, GDDR6X, 384-bit, 912-V388-019;0;0
+149;Placa de Video MSI GeForce RTX 3060 Ti Ventus 2X OCV1, LHR, 8GB, GDDR6, 256-bit, 912-V397-233;0;0
+150;Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-602;0;0
+151;Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-600;0;0
+152;Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-483;0;0
+153;Placa de Video MSI GeForce RTX 3060 Gaming Z Trio, 12GB, GDDR6, 192-bit, 912-V390-245;0;0
+154;Placa de Video MSI GeForce RTX 3060 Gaming X, 12GB, GDDR6, 192-bit, 912-V397-633;0;0
+155;Placa de Video MSI GeForce RTX 3060 Gaming X, 12GB, GDDR6, 192-bit, 912-V397-632;0;0
+156;Placa de Video MSI GeForce GTX 1650 Ventus XS OCV1, 4GB, GDDR5, 128-bit, 912-V809-3466;0;0
+157;Placa de Video MSI GeForce RTX 3070 Ventus 2X OC, LHR, 8GB, GDDR6, 256-bit, 912-V390-280;0;0
+158;Placa de Video PNY GeForce RTX 3050 XLR8 Epic-X RGB, 8GB, GDDR6, 128-Bit, VCG30508DFXPPB;0;0
+159;Placa de Video Asus GeForce RTX 3060 ROG Strix, LHR, 12GB, GDDR6, 192-bit, ROG-STRIX-RTX3060-12G-V2-GAMING;0;0
+160;Placa de Video Galax GeForce RTX 2060 Plus 1-Click OC, 12GB, GDDR6, 192-bit, 26NRL7HP68NC;0;0
+161;Placa de Video MSI GeForce RTX 3050 Gaming X, 8GB, GDDR6, 128-bit, 312-V397-463;0;0
+162;Placa de Video MSI GeForce RTX 3050 Ventus 2X, 8GB, GDDR6, 128-bit, 912-V397-448;0;0
+163;Placa de Video MSI GeForce GTX 1650 D6 Ventus XS, 4GB, GDDR6, 128-bit, 912-V809-3470;0;0
+164;Placa de Video MSI GeForce GTX 1650 D6 Ventus XS OCV1, 4GB, GDDR6, 128-bit, 912-V809-4057-NAC;0;0
+165;Placa de Video Sapphire Radeon RX 6650 XT Pulse, 8GB, GDDR6, 128-bit, 11319-03-20G;0;0
+166;Placa de Video Sapphire Radeon RX 6650 XT Nitro+, 8GB, GDDR6, 128-bit, 11319-01-20G;0;0
+167;Placa de Video Sapphire Radeon RX 6750 XT Nitro+, 12GB, GDDR6, 192-bit, 11318-01-20G;0;0
+168;Placa de Video Sapphire Radeon RX 6950 XT Nitro+, 16GB, GDDR6, 256-bit, 11317-02-20G;0;0
+169;Placa de Video Sapphire Radeon RX 6750 XT Pulse, 12GB, GDDR6, 192-bit, 11318-03-20G;0;0
+170;Placa de Video Sapphire Radeon RX 6950 XT Nitro+ Pure, 16GB, GDDR6, 256-bit, 11317-04-20G;0;0
+171;Placa de Video EVGA GeForce RTX 3070 Ti XC3 Ultra Gaming, LHR, 8GB, GDDR6X, 256-bit, 08G-P5-3785-KL;0;0
+172;Placa de Video EVGA GeForce RTX 3070 XC3 Black Gaming, 8GB, GDDR6, 256-bit, 08G-P5-3751-KL;0;0
+173;Placa de Video EVGA GeForce RTX 3060 Ti XC Gaming, LHR, 8GB, GDDR6, 256-bit, 08G-P5-3663-KL;0;0
+174;Placa de Video EVGA GeForce RTX 3060 XC Black Gaming, 12GB, GDDR6, 192-bit, 12G-P5-3655-KR;0;0
+175;Placa de Video EVGA RTX 3050 XC Gaming, 8GB, GDDR6, 128-bit, 08G-P5-3553-KR;0;0
+176;Placa de Video EVGA GeForce RTX 3050 XC Black Gaming, 8GB, GDDR6, 128-bit, 08G-P5-3551-KR;0;0
+177;Placa de Video MSI GeForce RTX 2060 Ventus GP OC, 6GB, GDDR6, 192-bit, 912-V375-693;0;0
+178;Placa de Video MSI GeForce RTX 2060 Ventus GP OC, 6GB, GDDR6, 192-bit, 912-V375-808;0;0
+179;Placa de Video MSI GeForce RTX 2060 Ventus GP OC, 6GB, GDDR6, 192-bit, 912-V375-665;0;0
+180;Placa de Video MSI GeForce RTX 2060 Ventus OC, 12GB, GDDR6, 192-bit, 912-V375-684;0;0
+181;Placa de Video MSI GeForce RTX 2060 Ventus OC, 12GB, GDDR6, 192-bit, 912-V375-689;0;0
+182;Placa de Video PowerColor Radeon RX 6400 ITX, 4GB, GDDR6, 64-bit, AXRX-6400-4GBD6-DH;0;0
+183;Placa de Video PowerColor Radeon RX 6500 XT ITX, 4GB, GDDR6, 64-bit, AXRX-6500XT-4GBD6-DH;0;0
+184;Placa de Video PowerColor Radeon RX 6500 XT Fighter OC, 4GB, GDDR6, 64-bit, AXRX-6500XT-4GBD6-DH/OC;0;0
+185;Placa de Video PowerColor Radeon RX 6650 XT Hellhound OC, 8GB, GDDR6, 128-bit, AXRX-6650XT-8GBD6-3DHL/OC;0;0
+186;Placa de Video PowerColor Radeon RX 6750 XT Red Devil OC, 12GB, GDDR6, 192-bit, AXRX-6750XT-12GBD6-3DHE/OC;0;0
+187;Placa de Video PowerColor Radeon RX 6950 XT Red Devil OC, 16GB, GDDR6, 256-bit, AXRX-6950XT-16GBD6-3DHE/OC;0;0
+188;Placa de Video Asus RTX 3070 Rog Strix V2 Gaming, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3070-8G-V2-GAMING;0;0
+189;Placa de Video Galax GeForce RTX 3070 EX V3 1-Click OC, LHR, 8GB, GDDR6, 256-bit, 37NSL6MD2VXI;0;0
+190;Placa de Video MSI Radeon RX 6950 XT Gaming X Trio, 16GB, GDDR6, 256-bit, 912-V395-041;0;0
+191;Placa de Video MSI Radeon RX 6800 XT Gaming Z Trio, 16GB, GDDR6, 256-bit, 912-V395-013;0;0
+192;Placa de Video MSI Radeon RX 6800 Gaming X Trio, 16GB, GDDR6, 256-bit, 912-V396-002;0;0
+193;Placa de Video MSI Radeon RX 6750 XT Mech 2X, 12GB, GDDR6, 192-bit, 912-V399-002;0;0
+194;Placa de Video MSI Radeon RX 6750 XT Gaming X Trio, 12GB, GDDR6, 192-bit, 912-V399-001;0;0
+195;Placa de Video MSI Radeon RX 6700 XT Mech 2X, 12GB, GDDR6, 256-bit, 912-V398-002;0;0
+196;Placa de Video MSI Radeon RX 6650 XT Mech 2X, 8GB, GDDR6, 128-bit, 912-V502-062;0;0
+197;Placa de Video MSI Radeon RX 6650 XT Gaming X, 8GB, GDDR6, 128-bit, 912-V502-061;0;0
+198;Placa de Video MSI Radeon RX 6600 XT Mech 2X, 8GB, GDDR6, 128-bit, 912-V502-015;0;0
+199;Placa de Video MSI Radeon RX 6400 Aero ITX, 4GB, GDDR6, 64-bit, 912-V508-004;0;0
+200;Placa de Video PNY Geforce RTX 3060 XLR8 Revel Epic-X RGB, 12GB, GDDR6, 192-Bit, VCG306012DFXPPB-NAC;0;0
+201;Placa de Video Sapphire Radeon RX 6400 Pulse, 4GB, GDDR6, 64-Bit, 11315-01-20G;0;0
+202;Placa de Video Sapphire Radeon RX 6600 Pulse, 8GB, GDDR6, 128-Bit, 11310-04-20G;0;0
+203;Placa de Video Gigabyte GeForce RTX 3080 Turbo, LHR, 10GB, GDDR6X, 320-bit, GV-N3080TURBO-10GD-REV2.0;0;0
+204;Placa de Video Gigabyte GeForce RTX 3080 Aorus Xtreme Waterforce WB, 12GB, GDDR6X, 384-bit, GV-N3080AORUSXWB-12GD;0;0
+205;Placa de Video Gigabyte GeForce RTX 3080 Aorus Xtreme Waterforce, LHR, 10GB, GDDR6X, 320-bit, GV-N3080AORUSXW-10GD-REV2.0;0;0
+206;Placa de Video Gigabyte GeForce RTX 3080 Aorus Master, 12GB, GDDR6X, 384-bit, GV-N3080AORUSM-12GD;0;0
+207;Placa de Video Gigabyte GeForce GT 730, 2GB, DDR3, 64-Bit, GV-N730D3-2GI-REV3.0;0;0
+208;Placa de Video Gigabyte GeForce RTX 3090 Ti Aorus Xtreme Waterforce, 24GB, GDDR6X, 384-bit, GV-N309TAORUSXW-24GD;0;0
+209;Placa de Video Gigabyte Radeon RX 6750 XT Aorus Elite, 12GB, GDDR6, 192-bit, GV-R675XTAORUSE-12GD;0;0
+210;Placa de Video Gigabyte Radeon RX 6750 XT Gaming OC, 12GB, GDDR6, 192-bit, GV-R675XTGAMINGOC-12GD;0;0
+211;Placa de Video Gigabyte Radeon RX 6650 XT Eagle, 8GB, GDDR6, 128-Bit, GV-R665XTEAGLE-8GD;0;0
+212;Placa de Video Gigabyte Radeon RX 6650 XT Gaming OC, 8GB, GDDR6, 128-Bit, GV-R665XTGAMINGOC-8GD;0;0
+213;Placa de Video Gigabyte GeForce RTX 3090 Ti Gaming OC, 24GB, GDDR6X, 384-bit, GV-N309TGAMINGOC-24GD;0;0
+214;Placa de Video Gigabyte GeForce RTX 3090 Ti Gaming, 24GB, GDDR6X, 384-bit, GV-N309TGAMING-24GD;0;0
+215;Placa de Video Galax GeForce RTX 2060 Plus 1-Click OC, 6GB, GDDR6, 192-bit, 26NRL7HP68CX;0;0
+216;Placa de Video Galax GeForce RTX 3050 1-Click OC v2, 8GB, GDDR6, 128-bit, 35NSL8MD5YBP;0;0
+217;Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-484;0;0
+218;Placa de Video MSI GeForce GTX 1660 Super Gaming X, 6GB, GDDR6, 192-bit, 912-V375-446;0;0
+219;Placa de Video MSI GeForce RTX 3060 Gaming X, 12GB, GDDR6, 192-bit, 912-V397-019;0;0
+220;Placa de Video MSI GeForce RTX 3070 Ti Ventus 3X OC, 8GB, GDDR6X, 256-bit, 912-V505-007;0;0
+221;Placa de Video MSI GeForce RTX 3080 Ventus 3x Plus, LHR, 10GB, GDDR6X, 320-bit, 912-V389-263;0;0
+222;Placa de Video MSI GeForce RTX 3080 Ventus 3x Plus, LHR, 12GB, GDDR6X, 384-bit, 912-V389-428;0;0
+223;Placa de Video MSI GeForce RTX 3080 Ti Ventus 3x OC, 12GB, GDDR6X, 384-bit, 912-V389-059;0;0
+224;Placa de Video MSI Radeon RX 6600 Mech 2x, 8GB, GDDR6, 128-bit, RX6600-MECH2x;0;0
+225;Placa de Video Gigabyte GeForce RTX 3080 Gaming OC, 12GB, GDDR6X, 384-bit, GV-N3080GAMING OC-12GD;0;0
+226;Placa de Video Gigabyte GeForce RTX 3060 Ti Vision OC, LHR, 8GB, GDDR6, 256-bit, GV-N306TVISION OC-8GD REV2.0;0;0
+227;Placa de Video Asus GeForce RTX 3070 Dual, LHR, 8GB, GDDR6, 256-bit, DUAL-RTX3070-8G-V2;0;0
+228;Placa de Video ASRock Radeon RX 6750 XT Phantom Gaming D OC, 12GB, GDDR6, 192-Bit, 90-GA3NZZ-00UANF;0;0
+229;Placa de Video Galax Geforce RTX 3080 SG 1-Click OC, LHR, 12GB, GDDR6X, 384-bit, 38NOM5MD99SS;0;0
+230;Placa de Video Mancer Radeon RX 550, 4GB, GDDR5, 128-bit, MCR-RX5504GD5-V4;0;0
+231;Placa de Video Mancer Radeon RX 550, 4GB, GDDR5, 128-bit, MCR-RX5504GDDR5-V3;0;0
+232;Placa de Video Mancer Radeon RX 560, 4GB, GDDR5, 128-bit, MCR-RX5604GDDR5-V2;0;0
+233;Placa de Video Mancer GeForce GTX 1060, 3GB, GDDR5, 192-bit, MCR-10603GDDR5-V1;0;0
+234;Placa de Video Gigabyte GeForce RTX 3080 Ti Eagle OC, 12GB, GDDR6X, 384-bit, GV-N308TEAGLE OC-12GD;0;0
+235;Placa de Video Gigabyte Radeon RX 6700 XT Eagle, 12GB, GDDR6, 192-bit, GV-R67XTEAGLE-12GD;0;0
+236;Placa de Video Gigabyte GeForce RTX 3070 Ti Vision OC, 8GB, GDDR6X, 256-bit, GV-N307TVISION OC-8GD;0;0
+237;Placa de Video Gigabyte GeForce RTX 3070 Ti Gaming OC, 8GB, GDDR6X, 256-bit, GV-N307TGAMING OC-8GD;0;0
+238;Placa de Video Asus GeForce RTX 3080 TUF Gaming OC, LHR, 12GB, GDDR6X, 384-bit, TUF-RTX3080-O12G-GAMING;0;0
+239;Placa de Video Asus GeForce RTX 3070 Ti ROG Strix OC, 8GB, GDDR6X, 256-bit, ROG-STRIX-RTX3070TI-8G-GAMING;0;0
+240;Placa de Video Gigabyte GeForce RTX 2060 Super Windforce OC, 8GB, GDDR6, 256-bit, GV-N206SWF2OC-8GD rev 1.1;0;0
+241;Placa de Video Gigabyte Radeon RX 6900 XT Aorus Master, 16GB, GDDR6, 256-bit, GV-R69XTAORUS M-16GD;0;0
+242;Placa de Video Sapphire Radeon RX 6500 XT Pulse OC, 4GB, GDDR6, 64-Bit, 11314-01-20G;0;0
+243;Placa de Video Asus GeForce RTX 3070 Noctua OC, LHR, 8GB, GDDR6, 256-bit, RTX3070-O8G-NOCTUA;0;0
+244;Placa de Video PCYES Radeon RX 550, 4GB, GDDR5, 128-bits, PJRX550DR5128B;0;0
+245;Placa de Video MSI GeForce RTX 3050 Gaming X, 8GB, GDDR6, 128-bit, 912-V397-423;0;0
+246;Placa de Video MSI GeForce RTX 3050 Ventus 2x OC, 8GB, GDDR6, 128-bit, 912-V397-418;0;0
+247;Placa de Video MSI Radeon RX 6500 XT Mech 2x OC, 4GB, GDDR6, 64-bit, 912-V508-003;0;0
+248;Placa de Video Asus GeForce GTX 1650 Dual Mini OC, 4GB, GDDR6, 128-bit, DUAL-GTX1650-O4GD6-MINI;0;0
+249;Placa de Video Asus GeForce RTX 3050 Dual OC, 8GB, GDDR6, 128-bit, DUAL-RTX3050-O8G;0;0
+250;Placa de Video Gigabyte GeForce GTX 1650 D6 OC, 4GB, GDDR6, 128-bit, GV-N1656OC-4GD REV 2.0-IMP;0;0
+251;Placa de Video Asus GeForce RTX 3080 ROG Strix OC, LHR, 12GB, GDDR6X, 384-bit, ROG-STRIX-RTX3080-O12G-GAMING;0;0
+252;Placa de Video Asus GeForce RTX 3080 TUF Gaming, LHR, 12GB, GDDR6X, 384-bit, TUF-RTX3080-12G-GAMING;0;0
+253;Placa de Video MSI GeForce RTX 3060 Ventus 3X OC, 12GB, GDDR6, 192-bit, 912-V397-051;0;0
+254;Placa de Video PNY Quadro RTX A2000, 6GB, GDDR6, 192-bit, VCNRTXA2000-PB-NAC;0;0
+255;Placa de Video Galax Geforce RTX 3060 Ti 1-Click OC, LHR, 8GB, GDDR6, 256-Bit, 36ISL6MD1VQW-NAC;0;0
+256;Placa de Video Galax GeForce RTX 2060 1-Click OC, 6GB, GDDR6, 192-bit, 26NRL7HPX7OC-NAC;0;0
+257;Placa de Video Afox Radeon R5 220, 1GB, GDDR3, 64-bit, AFR5220-1024D3L5-V2;0;0
+258;Placa de Video Gigabyte Radeon RX 6700 XT Gaming OC, 12GB, GDDR6, 192-bit, GV-R67XTGAMING OC-12GD;0;0
+259;Placa de Video Gigabyte GeForce RTX 3070 Gaming OC, LHR, 8GB, GDDR6, 256-bit, GV-N3070GAMING OC-8GD REV 2.0;0;0
+260;Placa de Video Gigabyte GeForce RTX 3080 Vision OC, LHR, 10GB, GDDR6X, 320-bit, GV-N3080VISION OC-10GD REV 2.0;0;0
+261;Placa de Video Gigabyte GeForce RTX 3070 Ti Eagle OC, 8GB, GDDR6X, 256-bit, GV-N307TEAGLE OC-8GD;0;0
+262;Placa de Video Zotac GeForce RTX 3050 Twin Edge, 8GB, GDDR6, 128-bit, ZT-A30500E-10M;0;0
+263;Placa de Video Galax GeForce RTX 3050 1-Click OC, 8GB, GDDR6, 128-bit, 35NSL8MD6ZOC;0;0
+264;Placa de Video Gigabyte GeForce RTX 2060 D6, 6GB, GDDR6, 192-bit, GV-N2060D6-6GD-REV2.0-NAC;0;0
+265;Placa de Video Gainward GeForce RTX 3070 Ti Phoenix, 8GB, GDDR6X, 256-bit, NED307T019P2-1046X-NAC;0;0
+266;Placa de Video ASRock Radeon RX 6500 XT Phantom Gaming D OC, 4GB, GDDR6, 64-Bit, 90-GA3DZZ-00UANF;0;0
+267;Placa de Video Gigabyte Radeon RX 6500 XT Eagle, 4GB, GDDR6, 64-Bit, GV-R65XTEAGLE-4GD;0;0
+268;Placa de Video PCYES Radeon RX 550, 4GB, GDDR5, 128-bit, PAJRX550DR5DF;0;0
+269;Placa de Video Galax GeForce RTX 3070 Ti 1-Click OC, 8GB, GDDR6X, 256-bit, 37ISM6MD4COC-NAC;0;0
+270;Placa de Video Asus GeForce RTX 3080 TUF Gaming, LHR, 10GB, GDDR6X, 320-bit, TUF-RTX3080-10G-V2-GAMING;0;0
+271;Placa de Video Gainward GeForce RTX 3080 Ti Phantom, 12GB, GDDR6X, 384-bit, NED308T019KB-1020M;0;0
+272;Placa de Video Gainward GeForce RTX 3080 Ti Phoenix, 12GB, GDDR6X, 384-bit, NED308T019KB-132AX;0;0
+273;Placa de Video Gainward GeForce RTX 3080 Phantom+, LHR, 10GB, GDDR6, 320-bit, NED3080U19IA-1020M;0;0
+274;Placa de Video Gainward GeForce RTX 3070 Ti Phoenix, 8GB, GDDR6X, 256-bit, NED307T019P2-1046X;0;0
+275;Placa de Video Gainward GeForce RTX 3070 Phantom+, LHR, 8GB, GDDR6, 256-bit, NE63070019P2-1040M;0;0
+276;Placa de Video Gainward GeForce RTX 3060 Ti Ghost V1, LHR, 8GB, GDDR6, 256-bit, NE6306T019P2-190AB;0;0
+277;Placa de Video Gainward GeForce RTX 3060 Ghost, 12GB, GDDR6, 192-bit, NE63060019K9-190AU;0;0
+278;Placa de Video Gainward GeForce RTX 3060 Pegasus, 12GB, GDDR6, 192-bit, NE63060019K9-190AE;0;0
+279;Placa de Video Asus GeForce RTX 3070 ROG Strix White Edition, OC, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3070-O8G-WHITE-V2;0;0
+280;Placa de Video Galax GeForce GTX 1660 Ti 1-Click OC, 6GB, GDDR6, 192-Bit, 60IRL7DSY91C-NAC;0;0
+281;Placa de Video Asus GeForce GTX 1660 Ti TUF Gaming OC, 6GB, GDDR6, 192-bit, TUF-GTX1660TI-O6G-EVO-GAMING-NAC;0;0
+282;Placa de Video Afox GeForce GT 610, 2GB, DDR3, 64-Bit, AF610-2048D3L7-V5;0;0
+283;Placa de Video Gainward Geforce GTX 1650 D6 Ghost, 4GB, GDDR6, 128-bit, NE6165001BG1-1175D-NAC;0;0
+284;Placa de Video Galax GeForce RTX 3070 1-Click OC, LHR, 8GB, GDDR6, 256-bit, 37NSL6MD2KCH-NAC;0;0
+285;Placa de Video Galax Geforce RTX 3080 SG 1-Click OC, LHR, 10GB, GDDR6X, 320-bit, 38NWM3MD99RG-NAC;0;0
+286;Placa de Video Gigabyte Radeon RX 6600 XT Gaming OC, 8GB, GDDR6, 128-Bit, GV-R66XTGAMING OC-8GD;0;0
+287;Placa de Video Gigabyte GeForce RTX 3080 Aorus Xtreme, LHR, 10GB, GDDR6X, 320-bit, GV-N3080AORUS X-10GD REV 2.0;0;0
+288;Placa de Video Gigabyte GeForce RTX 3080 Aorus Master, LHR, 10GB, GDDR6X, 320-bit, GV-N3080AORUS M-10GD REV 3.0;0;0
+289;Placa de Video MSI GeForce GTX 1650 Ventus XS OC, 4GB, GDDR5, 128-bit, 912-V809-3060;0;0
+290;Placa de Video Galax GeForce RTX 3070 Ti 1-Click OC, 8GB, GDDR6X, 256-bit, 37ISM6MD4COC;0;0
+291;Placa de Video Asus GeForce RTX 3080 TUF Gaming OC, LHR, 10GB, GDDR6X, 320-bit, TUF-RTX3080-O10G-V2-GAMING;0;0
+292;Placa de Video Asus GeForce GTX 1650 Phoenix, 4GB, GDDR5, 128-bit, PH-GTX1650-4G;0;0
+293;Placa de Video Asus GeForce GTX 1650 Dual, 4GB, GDDR5, 128-bit, DUAL-GTX1650-4G;0;0
+294;Placa de Video MSI GeForce GTX 1050 TI 4GT OC, 4GB, GDDR5, 128-bit, 912-V809-2272;0;0
+295;Placa de Video Duex Geforce GTX 1060, 3GB, GDDR5, 192Bit, DX GTX1060-3GD5;0;0
+296;Placa de Video Asus GeForce GTX 1650 Phoenix OC, 4GB, GDDR5, 128-bit, PH-GTX1650-O4G;0;0
+297;Placa de Video PNY Quadro T600, 4GB, GDDR6, 128-bit, VCNT600-PB;0;0
+298;Placa de Video Mancer Radeon RX 550, 4GB, GDDR5, 128-bit, MCR-RX5504GD5-V2;0;0
+299;Placa de Video Galax Geforce RTX 3080 SG 1-Click OC, LHR, 10GB, GDDR6X, 320-bit, 38NWM3MD99RG;0;0
+300;Placa de Video Gigabyte Radeon RX 6800 XT Aorus Master, 16GB, GDDR6, 2‎56-bit, GV-R68XTAORUS M-16GD;0;0
+301;Placa de Video Gigabyte Radeon RX 6600 Eagle, 8GB, GDDR6, 128-Bit, GV-R66EAGLE-8GD;0;0
+302;Placa de Video PNY Quadro T400, 2GB, GDDR6, 64-bit, VCNT400-PB-IMP;0;0
+303;Placa de Video Asus GeForce RTX 3060 TUF Gaming OC, 12GB, GDDR6, 192-bit, TUF-RTX3060-O12G-V2-GAMING-NAC;0;0
+304;Placa de Video Galax GeForce RTX 3080 Hall Of Fame, LHR, 10GB, GDDR6X, 320-bit, 38NWM3MD3BJJ;0;0
+305;Placa de Video PNY Quadro T400, 2GB, GDDR6, 64-bit, VCNT400-PB-NAC;0;0
+306;Placa de Video MSI GeForce RTX 3060 Ti Gaming X, LHR, 8GB, GDDR6, 256-bit, 912-V397-234;0;0
+307;Placa de Video MSI GeForce RTX 3080 Ventus 3x OC Edition, LHR, 10GB, GDDR6X, 320-bit, 912-V389-212;0;0
+308;Placa de Video Galax GeForce GTX 1660 Super 1-Click OC, 6GB, GDDR6, 192-bit, 60SRL7DSY91S-NAC;0;0
+309;Placa de Video Galax GeForce GTX 1660 1-Click OC, 6GB, GDDR5, 192-bit, 60SRH7DSY91C-NAC;0;0
+310;Placa de Video Galax Geforce GTX 1050 Ti 1-Click OC, 4GB, GDDR5, 128-Bit, 50IQH8DSQ3CC-NAC;0;0
+311;Placa de Video Asus Radeon RX 6600 Dual, 8GB, GDDR6, 128-Bit, DUAL-RX6600-8G;0;0
+312;Placa de Video Asus Radeon RX 6700 XT Dual OC Edition, 12GB, GDDR6, 192-bit, DUAL-RX6700XT-O12G;0;0
+313;Placa de Video Mancer Radeon RX 560, 4GB, GDDR5, 128-bit, MCR-RX5604GD5-V1;0;0
+314;Placa de Video Mancer Radeon RX 550, 4GB, GDDR5, 128-bit, MCR-RX5504GD5-V1;0;0
+315;Placa de Video Gigabyte GeForce RTX 2060 D6, 6GB, GDDR6, 192-bit, GV-N2060D6-6GD-REV-2.0;0;0
+316;Placa de Video Asus GeForce RTX 3060 Dual OC Edition, LHR, 12GB, GDDR6, 192-bit, DUAL-RTX3060-O12G-V2-NAC;0;0
+317;Placa de Video Galax GeForce RTX 3060 1-Click OC, LHR, 12GB, GDDR6, 192-bit, 36NOL7MD1VOC-NAC;0;0
+318;Placa de Video Gigabyte GeForce RTX 3060 Eagle, LHR, 12GB, GDDR6, 192-bit, GV-N3060EAGLE-12GD REV 2.0 NAC;0;0
+319;Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle, LHR, 8GB, GDDR6, 256-bit, GV-N306TEAGLE-8GD REV 2.0 NAC;0;0
+320;Placa de Video Asus GeForce RTX 3060 ROG Strix OC, LHR, 12GB, GDDR6, 192-bit, ROG-STRIX-RTX3060-O12G-V2-GAMING;0;0
+321;Placa de Video Asus GeForce RTX 3060 TUF Gaming OC, 12GB, GDDR6, 192-bit, TUF-RTX3060-O12G-V2-GAMING;0;0
+322;Placa de Video Asus GeForce RTX 3080 ROG Strix White Edition OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-WHITE-V2;0;0
+323;Placa de Video Asus GeForce RTX 3080 Ti TUF Gaming, LHR, 12GB, GDDR6X, 384-bit, TUF-RTX3080TI-12G-GAMING;0;0
+324;Placa de Video Asus GeForce GTX 1660 Ti TUF Gaming OC, 6GB, GDDR6, 192-bit, TUF-GTX1660TI-O6G-EVO-GAMING;0;0
+325;Placa de Video Asus GeForce RTX 3060 Ti ROG Strix OC, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-O8G-V2-GAMING;0;0
+326;Placa de Video Asus GeForce RTX 3060 KO OC, LHR, 12GB, GDDR6, 192-bit, KO-RTX3060-O12G-V2-GAMING;0;0
+327;Placa de Video Asus GeForce RTX 3060 Ti KO OC, LHR, 8GB, GDDR6, 256-bit, KO-RTX3060TI-O8G-V2-GAMING;0;0
+328;Placa de Video Asus GeForce RTX 3060 Ti ROG Strix, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-8G-V2-GAMING;0;0
+329;Placa de Video Asus GeForce RTX 3060 Ti Dual Mini, LHR, 8GB, GDDR6, 256-bit, DUAL-RTX3060TI-8G-MINI-V2;0;0
+330;Placa de Video Asus GeForce RTX 3080 ROG Strix OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-V2-GAMING;0;0
+331;Placa de Video Asus GeForce GTX 1650 TUF Gaming OC, 4GB, GDDR6, 128-bit, TUF-GTX1650-O4GD6-P-GAMING-NAC;0;0
+332;Placa de Video Asus GeForce GTX 1650 TUF Gaming, 4GB, GDDR6, 128-bit, TUF-GTX1650-4GD6-GAMING-NAC;0;0
+333;Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC PRO, LHR, 8GB, GDDR6, 256-bit, GV-N306TGAMINGOC PRO-8GD REV 3.0;0;0
+334;Placa de Video Gigabyte GeForce GTX 1650 D6 OC, 4GB, GDDR6, 128-bit, GV-N1656OC-4GD REV 2.0-NAC;0;0
+335;Placa de Video Gigabyte GeForce RTX 3060 Ti Aorus Elite, LHR, 8GB, GDDR6, 256-bit, GV-N306TAORUS E-8GD REV 2.0;0;0
+336;Placa de Video Afox GeForce GTX 750TI, 4GB, GDDR5, 128-Bit, AF750TI-4096D5H4;0;0
+337;Placa de Video Gigabyte GeForce RTX 3080 Ti Eagle, 12GB, GDDR6X, 384-bit, GV-N308TEAGLE-12GD;0;0
+338;Placa de Video Gigabyte Radeon RX 6700 XT Aorus Elite, 12GB, GDDR6, 192-bit, GV-R67XTAORUS E-12GD;0;0
+339;Placa de Video Sapphire Radeon RX 6700 XT Pulse OC, 12GB, GDDR6, 192-Bit, 11306-05-20G;0;0
+340;Placa de Video PNY GeForce GTX 1650, 4GB, GDDR6, 128-bit, VCG16504D6DFPPB-NAC;0;0
+341;Placa de Video MSI GeForce RTX 3060 Ti Ventus 3X OC LHR, 8GB, GDDR6, 256-bit, 912-V397-246;0;0
+342;Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-050;0;0
+343;Placa de Video Galax Geforce GTX 1050 Ti 1-Click OC, 4GB, GDDR5, 128-Bit, 50IQH8DSQ3CC;0;0
+344;Placa de Video Galax Geforce RTX 3060 Ti 1-Click OC LHR, 8GB, GDDR6, 256-Bit, 36ISL6MD1VQW;0;0
+345;Placa de Video Galax Geforce RTX 3080 Ti Hall Of Fame, 12GB, GDDR6X, 384-Bit, 38IOM5MD3BHX;0;0
+346;Placa de Video Zotac GeForce RTX 3060 Twin Edge, 12GB, GDDR6, 192-Bit, ZT-A30600E-10M;0;0
+347;Placa de Video Zotac GeForce RTX 3080 Trinity LHR, 10GB, GDDR6X, 320-bit, ZT-A30800D-10PLHR;0;0
+348;Placa de Video Zotac GeForce RTX 3070 Twin Edge LHR, 8GB, GDDR6, 256-bit, ZT-A30700E-10PLHR;0;0
+349;Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge LHR, 8GB, GDDR6, 256-Bit, ZT-A30610E-10MLHR;0;0
+350;Placa de Video Galax GeForce RTX 3070 Ti SG 1-Click OC, 8GB, GDDRX6, 256-bit, 37ISM6MD4BSG-NAC;0;0
+351;Placa de Video Asus Radeon RX 6600 XT ROG Strix OC Edition, 8GB, GDDR6, 128-Bit, ROG-STRIX-RX6600XT-O8G-GAMING;0;0
+352;Placa de Video Gigabyte Radeon RX 6600 XT Gaming OC Pro, 8GB, GDDR6, 128-Bit, GV-R66XTGAMINGOC PRO-8GD;0;0
+353;Placa de Video Sapphire Radeon RX 6600 XT Pulse OC, 8GB, GDDR6, 128-Bit, 11309-03-20G;0;0
+354;Placa de Video Sapphire Radeon RX 6600 XT Nitro+ OC, 8GB, GDDR6, 128-Bit, 11309-01-20G;0;0
+355;Placa de Video ASRock Radeon RX 6600 XT Challenger Pro OC, 8GB, GDDR6, 128-Bit, RX6600XT CLP 8GO;0;0
+356;Placa de Video Asus Radeon RX 6600 XT Dual OC Edition, 8GB, GDDR6, 128-Bit, DUAL-RX6600XT-O8G;0;0
+357;Placa de Video Asus GeForce RTX 3070 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-O8G-V2;0;0
+358;Placa de Video Gigabyte GeForce RTX 3060 Gaming OC LHR 12GB GDDR6 192-bit, GV-N3060GAMING OC-12GD REV 2.0;0;0
+359;Placa de Video Gigabyte GeForce RTX 3060 Aorus Elite LHR 12GB GDDR6 192-bit, GV-N3060AORUS E-12GD REV 2.0;0;0
+360;Placa de Video Gigabyte GeForce RTX 3060 Eagle OC LHR 12GB GDDR6 192-bit, GV-N3060EAGLE OC-12GD REV 2.0;0;0
+361;Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3;0;0
+362;Placa de Video Afox Radeon R5 230 2GB DDR3 64-bit, AFR5230-2048D3L4;0;0
+363;Placa de Video Gigabyte GeForce RTX 3060 Eagle LHR 12GB GDDR6 192-bit, GV-N3060EAGLE-12GD REV 2.0;0;0
+364;Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD;0;0
+365;Placa de Video Gigabyte GeForce RTX 3080 Gaming OC Waterforce WB 10GB GDDR6X 320-bit, GV-N3080GAMINGOC WB-10GD;0;0
+366;Placa de Video Gigabyte GeForce RTX 3090 Vision OC 24GB GDDR6X 384-bit, GV-N3090VISION OC-24GD;0;0
+367;Placa de Video Asus GeForce RTX 3070 Ti OC 8GB GDDR6X ROG Strix 256-bit, ROG-STRIX-RTX3070TI-O8G-GAMING;0;0
+368;Placa de Video Zotac GeForce RTX 3080 Ti Trinity 12GB GDDR6X 384-bit, ZT-A30810D-10P;0;0
+369;Placa de Video Zotac GeForce GTX 1660 Super 6GB GDDR6 AMP 192-bit, ZT-T16620D-10M;0;0
+370;Placa de Video Zotac GeForce RTX 3070 Ti Trinity 8GB GDDR6X 256-bit, ZT-A30710D-10P;0;0
+371;Placa de Video Zotac GeForce RTX 2060 6GB GDDR6 192-bit, ZT-T20600H-10M;0;0
+372;Placa de Video Gigabyte GeForce RTX 3070 Ti Aorus Master 8GB GDDR6X 256-bit, GV-N307TAORUS M-8GD;0;0
+373;Placa de Video Gigabyte GeForce RTX 3080 Ti Gaming OC 12GB GDDR6X 384-bit, GV-N308TGAMING OC-12GD;0;0
+374;Placa de Video Gigabyte GeForce RTX 3080 Ti Vision OC 12GB GDDR6X 384-bit, GV-N308TVISION OC-12GD;0;0
+375;Placa de Video Asus GeForce RTX 3070 ROG Strix OC LHR 8GB GDDR6 256-bit, ROG-STRIX-RTX3070-O8G-V2-GAMING;0;0
+376;Placa de Video Asus GeForce RTX 3060 Ti TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3060TI-O8G-V2-GAMING;0;0
+377;Placa de Video Asus GeForce RTX 3070 TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3070-O8G-V2-GAMING;0;0
+378;Placa de Video Asus GeForce RTX 3070 Ti OC 8GB GDDR6X TUF Gaming 256-bit, TUF-RTX3070TI-O8G-GAMING;0;0
+379;Placa de Video Galax GeForce RTX 3070 Ti SG 8GB GDDR6X 1-Click OC 256-bit, 37ISM6MD4BSG;0;0
+380;Placa de Video Asus GeForce RTX 3070 Ti 8GB GDDR6X TUF Gaming 256-bit, TUF-RTX3070TI-8G-GAMING;0;0
+381;Placa de Video Asus GeForce RTX 3060 OC LHR 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-O12G-V2;0;0
+382;Placa de Video Sapphire Pulse Radeon RX 6800 XT 16GB GDDR6 OC 256-bit, 11304-03-20G;0;0
+383;Placa de Video Asus GeForce RTX 3080 Ti OC 12GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3080TI-O12G-GAMING;0;0
+384;Placa de Video Asus GeForce RTX 3080 Ti OC 12GB GDDR6X TUF Gaming 384-bit, TUF-RTX3080TI-O12G-GAMING;0;0
+385;Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING;0;0
+386;Placa de Video Asrock Radeon RX 6700 XT Challenger D 12GB GDDR6 OC 192-bit, 90-GA31ZZ-00UANF;0;0
+387;Placa de Vídeo PowerColor Radeon RX 6700 XT Hellhound Spectral White 12GB GDDR6 192bit, AXRX 6700XT 12GBD6-3DHL;0;0
+388;Placa de Vídeo PowerColor Radeon RX 6700 XT Hellhound 12GB GDDR6 192bit, AXRX 6700XT 12GBD6-3DHL;0;0
+389;Placa de Video Zotac GeForce RTX 3060 Twin Edge OC 12GB GDDR6 192-Bit, ZT-A30600H-10M;0;0
+390;Placa De Video Duex Geforce GTX 750TI 4GB DDR5 128Bit, DX GTX750TI-4GD5;0;0
+391;Placa De Video Duex Geforce GTX 1050TI 4GB DDR5 128Bit, DX GTX1050TI-4GD5;0;0
+392;Placa De Video Duex Geforce GT 730 2GB DDR3 128Bit, DX GT730LP-2GD3;0;0
+393;Placa de Video Galax GeForce GT 1030 2GB DDR4 64-bit, 30NPG4HV00AB;0;0
+394;Placa de Video Galax GeForce RTX 3080 Ti SG 12GB GDDR6X 1-Click OC 384-bit, 38IOM5MD99DD;0;0
+395;Placa de Video Asus GeForce GTX 1650 4GB GDDR6 OC TUF Gaming 128-bit, TUF-GTX1650-O4GD6-GAMING;0;0
+396;Placa de Video Sapphire Radeon RX 6700 XT Gaming OC 12GB GDDR6 Nitro+ 192-bit, 11306-01-20T;0;0
+397;Placa de Video Asus GeForce GTX 1650 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-4GD6-GAMING;0;0
+398;Placa de Video AsRock Radeon RX 6700 XT 12GB Phantom Gaming OC Edition GDDR6 192-bit, 90-GA2EZZ-00UANF;0;0
+399;Placa de Video Asus GeForce RTX 3060 12GB GDDR6 TUF Gaming 192-bit, TUF-RTX3060-12G-GAMING;0;0
+400;Placa de Video Asus Radeon RX 570 OC 8GB GDDR5 ROG Strix 256-bit, ROG-STRIX-RX570-O8G-GAMING;0;0
+401;Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 OC ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-O16G-GAMING;0;0
+402;Placa de Video PNY GeForce GTX 1660 Super 6GB GDDR6 OC XLR8 192-bit, VCG16606SSFPPB-O;0;0
+403;Placa de Video Gigabyte GeForce RTX 3060 Eagle OC 12GB GDDR6 192-bit, GV-N3060EAGLE OC-12GD;0;0
+404;Placa de Video Gigabyte GeForce RTX 3060 Eagle 12GB GDDR6 192-bit, GV-N3060EAGLE-12GD;0;0
+405;Placa de Video Gigabyte GeForce RTX 3060 Gaming OC 12GB GDDR6 192-bit, GV-N3060GAMING OC-12GD;0;0
+406;Placa de Video Gigabyte GeForce RTX 3060 Vision OC 12GB GDDR6 192-bit, GV-N3060VISION OC-12GD;0;0
+407;Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE;0;0
+408;Placa de Video Asrock Radeon RX 6700 XT 12GB GDDR6 192-bit, 90-GA2WZZ-00UANF;0;0
+409;Placa de Video Asrock Radeon RX 6700 XT Challenger 12GB GDDR6 192-bit, 90-GA2KZZ-00UANF;0;0
+410;Placa De Video Duex Geforce GT 610 2GB DDR3 64Bit, DX GT610LP-2GD3;0;0
+411;Placa De Video Duex Geforce GT 1030 2Gb DDR5 128Bit, DX GT1030-2GD5;0;0
+412;Placa de Video PNY Geforce RTX 3060 12GB GDDR6 XLR8 Revel Epic-X RGB 192-Bit, VCG306012DFXPPB;0;0
+413;Placa de Video Sapphire Pulse Radeon RX 6700 XT 12GB GDDR6 192-bit, 11306-02-20G;0;0
+414;Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G;0;0
+415;Placa de Video Sapphire Radeon RX 6700 XT 12GB GDDR6 192-bit, 21306-01-20G;0;0
+416;Placa de Video Sapphire Radeon RX 6700 XT 12GB GDDR6 Nitro 192-bit, 11306-01-20G;0;0
+417;Placa de Video PCYES Radeon RX 550 4GB GDDR5 128-bits, PJRX550R5SF;0;0
+418;Placa de Video Asus Radeon RX 6700 XT GDDR6 12GB 192-bit, RX6700XT-12G;0;0
+419;Placa de Video Asus GeForce RTX 3060 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-12G;0;0
+420;Placa de Video Asus GeForce RTX 3060 OC 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-O12G;0;0
+421;Placa de Video PNY GeForce RTX 2060 6GB GDDR6 192-bit, GMR2061N3J6ET1KTM-OEM;0;0
+422;Placa de Video Galax GeForce RTX 3060 1-Click OC, LHR, 12GB, GDDR6, 192-bit, 36NOL7MD1VOC;0;0
+423;Placa de Video Asus Radeon RX 6700 XT 12GB Dual 192bit, DUAL-RX6700XT-12G;0;0
+424;Placa de Video Asus Radeon RX 6700 XT 12GB GDDR6 TUF Gaming OC 192-bit, TUF-RX6700XT-O12G-GAMING;0;0
+425;Placa de Video Asus Radeon RX 6700 XT 12GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RX6700XT-O12G-GAMING;0;0
+426;Placa de Video Asus GeForce RTX 3070 8GB GDDR6 EKWB 256-bit, RTX3070-8G-EK;0;0
+427;Placa de Video Asus GeForce RTX 3060 12GB GDDR6 TUF Gaming OC 192-bit, TUF-RTX3060-O12G-GAMING;0;0
+428;Placa de Video Asus GeForce RTX 3060 12GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RTX3060-O12G-GAMING;0;0
+429;Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 KO 256-bit, KO-RTX3060TI-8G-GAMING;0;0
+430;Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX3060TI-8G-GAMING;0;0
+431;Placa de Video Asus GeForce RTX 2060 Dual 6GB GDDR6 192-bit, DUAL-RTX2060-6G-EVO;0;0
+432;Placa de Video Gigabyte Radeon RX 6800 Aorus Master 16GB GDDR6 2‎56-bit, GV-R68AORUS M-16GD;0;0
+433;Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD;0;0
+434;Placa de Video Gigabyte GeForce RTX 3060 Ti Vision OC 8GB GDDR6 256-bit, GV-N306TVISION OC-8GD;0;0
+435;Placa de Video Gigabyte GeForce RTX 3080 Aorus Xtreme Waterforce 10GB GDDR6X 320-bit, GV-N3080AORUSX W-10GD;0;0
+436;Placa de Video Gigabyte Radeon RX 6800 XT Aorus Master 16GB GDDR6 2‎56-bit, GV-R68XTAORUS M-16GC;0;0
+437;Placa de Video Gigabyte Radeon RX 6800 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R68XTGAMING OC-16GD;0;0
+438;Placa de Video Gigabyte Radeon RX 6800 Gaming OC 16GB GDDR6 2‎56-bit, GV-R68GAMING OC-16GD;0;0
+439;Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC;0;0
+440;Placa de Video PowerColor Radeon RX 6800 XT 16GB Red Devil 256-bit, AXRX 6800XT 16GBD6-3DHE/OC;0;0
+441;Placa de Video PNY GeForce GTX 1650 4GB GDDR6 128-bit, GMX1650N3J4FP2AKTP;0;0
+442;Placa de Vídeo Mancer GeForce GTX 1050Ti 4GB GDDR5 128Bit, MCR-1050T14GD5-V1;0;0
+443;Placa de Vídeo Mancer GeForce GT 1030 2GB GDDR5 64Bit, MCR-1030GD5-V1;0;0
+444;Placa de Vídeo Mancer GeForce GT 710 2GB GDDR3 64Bit, MCR-7102GD3-V1;0;0
+445;Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1;0;0
+446;Placa de Video PcYes GeForce GTX 1650 4GB GDDR6 192-bit, PA1650412820DR6;0;0
+447;Placa de Video AsRock Radeon RX 6800 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2AZZ-00UANF;0;0
+448;Placa de Video Gigabyte GeForce RTX 3090 Aorus Xtreme Waterforce 24GB GDDR6X 384-bit, GV-N3090AORUSX W-24GD;0;0
+449;Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TUF Gaming 2‎56-bit, TUF-RX6900XT-O16G-GAMING;0;0
+450;Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3060TI-8G-GAMING;0;0
+451;Placa de Video Galax GeForce RTX 3070 8GB GDDR6 1-Click OC 256-bit, 37NSL6MD2KOC;0;0
+452;Placa de Video Afox Radeon RX 550 4GB GDDR5 128-bit, AFRX550-4096D5H4-V4;0;0
+453;Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF;0;0
+454;Placa de Video Sapphire Radeon RX 6800 XT SE 16GB GDDR6 Nitro+ OC 256-bit, 11304-01-20G;0;0
+455;Placa de Video Afox GeForce GTX 1050TI 4GB GDDR5 128-bit, AF1050TI-4096D5H2;0;0
+456;Placa de Video Asus Radeon RX 6800 XT 16GB GDDR6 OC ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6800XT-O16G-GAMING;0;0
+457;Placa de Video Asus GeForce RTX 3090 24GB GDDR6X ROG Strix White Edition OC 384-bit, ROG-STRIX-RTX3090-O24G-WHITE;0;0
+458;Placa de Video Asus Radeon RX 6800 OC 16GB TUF Gaming GDDR6 2‎56-bit, TUF-RX6800-O16G-GAMING;0;0
+459;Placa de Video Asus GeForce RTX 3080 10GB GDDR6X ROG Strix White Edition OC 320-bit, ROG-STRIX-RTX3080-O10G-WHITE;0;0
+460;Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G;0;0
+461;Placa de Video Asus GeForce RTX 3070 8GB GDDR6 ROG Strix White Edition OC 256-bit, ROG-STRIX-RTX3070-O8G-WHITE;0;0
+462;Placa de Video Asus Radeon RX 6800 OC 16GB GDDR6 ROG Strix 2‎56-bit, ROG-STRIX-RX6800-O16G-GAMING;0;0
+463;Placa de Video Zotac GeForce GTX 1650 Super Twin Fan 4GB GDDR6 128-bit, ZT-T16510F-10L;0;0
+464;Placa de Video Afox Radeon RX 550 2GB GDDR5 128-bit, AFRX550-2048D5H4;0;0
+465;Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 256-bit, 21308-01-20G;0;0
+466;Placa de Video Sapphire Radeon RX 6800 XT 16GB GDDR6 Nitro+ OC 256-bit, 11304-02-20G;0;0
+467;Placa de Video Sapphire Radeon RX 6800 16GB GDDR6 Nitro+ OC 256-bit, 11305-01-20G;0;0
+468;Placa de Video Sapphire Pulse Radeon RX 6800 16GB GDDR6 OC 256-bit, 11305-02-20G;0;0
+469;Placa de Video AsRock Radeon RX 6800 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA28ZZ-00UANF;0;0
+470;Placa de Video MSI GeForce RTX 3060 Ti Gaming X Trio 8GB GDDR6 256-bit, 912-V390-053;0;0
+471;Placa de Video Asus GeForce RTX 3090 24GB GDDR6X EKWB 384-bit, RTX3090-24G-EK;0;0
+472;Placa de Video Asus GeForce RTX 3060 Ti OC 8GB GDDR6 Dual 256-bit, DUAL-RTX3060TI-O8G;0;0
+473;Placa de Video Asus GeForce RTX 3060 Ti OC 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3060TI-O8G-GAMING;0;0
+474;Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 KO OC 256-bit, KO-RTX3060TI-O8G-GAMING;0;0
+475;Placa de Video Asus Radeon RX 6800 16GB GDDR6 2‎56-bit, RX6800-16G;0;0
+476;Placa de Video Asus Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, RX6800XT-16G;0;0
+477;Placa de Video Asus Radeon RX 6800 XT OC 16GB TUF Gaming GDDR6 2‎56-bit, TUF-RX6800XT-O16G-GAMING;0;0
+478;Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 ROG Strix OC 256-bit, ROG-STRIX-RTX3060TI-O8G-GAMING;0;0
+479;Placa de Video Asus GeForce RTX 3070 OC KO 8GB GDDR6 256-bit, KO-RTX3070-O8G-GAMING;0;0
+480;Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC 8GB GDDR6 256-bit, GV-N306TGAMING OC-8GD;0;0
+481;Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC Pro 8GB GDDR6 256-bit, GV-N306TGAMINGOC PRO-8GD;0;0
+482;Placa de Video Gigabyte GeForce RTX 3060 Ti Aorus Master 8GB GDDR6 256-bit, GV-N306TAORUS M-8GD;0;0
+483;Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle OC 8GB GDDR6 256-bit, GV-N306TEAGLE OC-8GD;0;0
+484;Placa de Video Asus GeForce GTX 1650 4GB GDDR6 OC Phoenix 128-bit, PH-GTX1650-O4GD6;0;0
+485;Placa de Video Asus GeForce GTX 1650 OC 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-O4GD6-P-GAMING;0;0
+486;Placa de Video Afox Radeon RX 550 4GB GDDR5 128-bit, AFRX550-4096D5H7;0;0
+487;Placa de Video Afox Radeon RX 550 2GB GDDR5 128-bit, AFRX550-2048D5H7;0;0
+488;Placa de Video PNY GeForce RTX 3060 Ti 8GB GDDR6 XLR8 Revel Epic-X RGB 256-bit, VCG3060T8DFXPPB;0;0
+489;Placa de Video PNY GeForce RTX 3060 Ti UPRISING 8GB GDDR6 256-bit, VCG3060T8DFMPB;0;0
+490;Placa de Video Galax GeForce RTX 3060 Ti 8GB GDDR6 1-Click OC 256-bit, 36ISL6MD1VDD;0;0
+491;Placa de Video Galax GeForce RTX 3060 Ti EX 8GB GDDR6 1-Click OC 256-bit, 36ISL6MD1WGG;0;0
+492;Placa de Video Galax GeForce RTX 3060 Ti EX Branco 8GB GDDR6 1-Click OC 256-bit, 36ISL6MD1XHH;0;0
+493;Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge OC 8GB GDDR6 256-bit, ZT-A30610H-10M;0;0
+494;Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge 8GB GDDR6 256-bit, ZT-A30610E-10M;0;0
+495;Placa de Video AsRock Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, Radeon RX 6800 XT 16G;0;0
+496;Placa de Video AsRock Radeon RX 6800 16GB GDDR6 2‎56-bit, Radeon RX 6800 16G;0;0
+497;Placa de Video PowerColor Radeon RX 6800 16GB GDDR6 2‎56-bit, AXRX 6800 16GBD6-M2DHC;0;0
+498;Placa de Video PowerColor Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, AXRX 6800XT 16GBD6-M2DHC;0;0
+499;Placa de Video Sapphire Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, 21304-01-20G;0;0
+500;Placa de Video Sapphire Radeon RX 6800 16GB GDDR6 2‎56-bit, 21305-01-20G;0;0
+501;Placa de Video Gigabyte Radeon RX 6800 16GB GDDR6 2‎56-bit, GV-R68-16GC-B;0;0
+502;Placa de Video Gigabyte Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, GV-R68XT-16GC-B;0;0
+503;Placa de Video Asus GeForce RTX 3070 OC 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3070-O8G-GAMING;0;0
+504;Placa de Video Gigabyte GeForce RTX 3070 Vision OC 8GB GDDR6 256-bit, GV-N3070VISION OC-8GD;0;0
+505;Placa de Video Gigabyte GeForce RTX 3070 Aorus Master 8GB GDDR6 256-bit, GV-N3070AORUS M-8GD;0;0
+506;Placa de Video PNY GeForce GTX 1660 Super 6GB OC XLR8 192-bit, VCG16606SDFPPB-O;0;0
+507;Placa de Video Asus GeForce RTX 3090 OC 24GB GDDR6X TUF Gaming 384-bit, TUF-RTX3090-O24G-GAMING;0;0
+508;Placa de Video Gigabyte GeForce GT 710 2GB GDDR5 64-bit, GV-N710D5-2GIL;0;0
+509;Placa de Video Gainward GeForce RTX 3070 Phoenix 8GB GDDR6 256-bit, GeForce RTX 3070 Phoenix;0;0
+510;Placa de Video Gainward GeForce RTX 3070 Phoenix GS 8GB GDDR6 256-bit, GeForce RTX 3070 Phoenix GS;0;0
+511;Placa de Video Asus GeForce RTX 3070 8GB GDDR6 ROG Strix OC 256-bit, ROG-STRIX-RTX3070-O8G-GAMING;0;0
+512;Placa de Video Asus GeForce RTX 3080 OC 10GB GDDR6X TUF Gaming 320-bit, TUF-RTX3080-O10G-GAMING;0;0
+513;Placa de Video Gigabyte GeForce RTX 3070 Eagle 8GB GDDR6 256-bit, GV-N3070EAGLE-8GD;0;0
+514;Placa de Video Gigabyte GeForce RTX 3070 Eagle OC 8GB GDDR6 256-bit, GV-N3070EAGLE OC-8GD;0;0
+515;Placa de Video Gigabyte GeForce RTX 3070 Gaming OC 8GB GDDR6 256-bit, GV-N3070GAMING OC-8GD;0;0
+516;Placa de Video Gigabyte GeForce RTX 3080 Eagle OC 10GB GDDR6X 320-bit, GV-N3080EAGLE OC-10GD;0;0
+517;Placa de Video Gigabyte GeForce RTX 3080 Vision OC 10GB GDDR6X 320-bit, GV-N3080VISION OC-10GD;0;0
+518;Placa de Video Gigabyte GeForce RTX 3080 Gaming OC 10GB GDDR6X 320-bit, GV-N3080GAMING OC-10GD;0;0
+519;Placa de Video Gigabyte GeForce RTX 3090 Turbo 24GB GDDR6X 384-bit, GV-N3090TURBO-24GD;0;0
+520;Placa de Video Gigabyte GeForce RTX 3090 Gaming OC 24GB GDDR6X 384-bit, GV-N3090GAMING OC-24GD;0;0
+521;Placa de Video Zotac GeForce RTX 3070 Twin Edge OC 8GB GDDR6 256-bit, ZT-A30700H-10P;0;0
+522;Placa de Video Zotac GeForce RTX 3080 Trinity OC 10GB GDDR6X 320-bit, ZT-A30800J-10P;0;0
+523;Placa de Video Gigabyte GeForce GTX 1660 D5 6gb 192 Bit, GV-N1660D5-6GD;0;0
+524;Placa de Video Gigabyte Radeon RX 5500 XT D6 4GB Windforce 128-bit, GV-R55XTD6-4GD;0;0
+525;Placa de Video Gigabyte Radeon RX 5500 XT D6 8GB Windforce 128-bit, GV-R55XTD6-8GD;0;0
+526;Placa de Video Asus GeForce RTX 3070 OC 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-O8G;0;0
+527;Placa de Video Asus GeForce RTX 3070 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-8G;0;0
+528;Placa de Video Asus GeForce RTX 3070 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX3070-8G-GAMING;0;0
+529;Placa de Video Asus GeForce RTX 3080 10GB GDDR6X ROG Strix 320-bit, ROG-STRIX-RTX3080-10G-GAMING;0;0
+530;Placa de Video Asus GeForce RTX 3090 24GB GDDR6X TUF Gaming 384-bit, TUF-RTX3090-24G-GAMING;0;0
+531;Placa de Video Asus GeForce RTX 3090 24GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3090-24G-GAMING;0;0
+532;Placa de Video Asus GeForce RTX 3090 OC 24GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3090-O24G-GAMING;0;0
+533;Placa de Video PNY GeForce RTX 3070 8GB GDDR6 Dual 256-bit, VCG30708DFMPB;0;0
+534;Placa de Video PNY GeForce RTX 3070 8GB GDDR6 XLR8 Gaming EPIC-X RGB 256-bit, VCG30708TFXPPB;0;0
+535;Placa de Video PNY GeForce RTX 3090 24GB GDDR6X XLR8 Gaming EPIC-X RGB 384-bit, VCG309024TFXPPB;0;0
+536;Placa de Video Galax GeForce RTX 3070 SG 8GB GDDR6 1-Click OC 256-bit, 37NSL6MD1GNA;0;0
+537;Placa de Video Galax GeForce RTX 3070 EX 8GB GDDR6 1-Click OC 256-bit, 37NSL6MD2V7V;0;0
+538;Placa de Video Galax GeForce RTX 3070 EX Branco 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Branco;0;0
+539;Placa de Video Galax GeForce RTX 3070 EX Rosa 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Rosa;0;0
+540;Placa de Video Galax GeForce RTX 3070 EX Gamer Branco 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Gamer Branco;0;0
+541;Placa de Video Galax GeForce RTX 3070 EX Gamer Rosa 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Gamer Rosa;0;0
+542;Placa de Video Galax GeForce RTX 3070 EX Gamer 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Gamer;0;0
+543;Placa de Video Asus GeForce RTX 3080 TUF Gaming 10GB GDDR6X 320-bit, TUF-RTX3080-10G-GAMING;0;0
+544;Placa de Video Galax GeForce RTX 3080 SG 10GB GDDR6X 1-Click OC 320-bit, 38NWM3MD99NN;0;0
+545;Placa de Video Galax GeForce RTX 3090 SG 24GB GDDR6X 1-Click OC 384-bit, 39NSM5MD1GNA;0;0
+546;Placa de Video MSI GeForce RTX 3070 Ventus 2X 8GB GDDR6 256-bit, RTX 3070 VENTUS 2X;0;0
+547;Placa de Video MSI GeForce RTX 3070 Ventus 2X 8GB OC GDDR6 256-bit, 912-V390-008;0;0
+548;Placa de Video MSI GeForce RTX 3070 Ventus 3X 8GB GDDR6 256-bit, RTX 3070 VENTUS 3X;0;0
+549;Placa de Video MSI GeForce RTX 3070 Ventus 3X 8GB OC GDDR6 256-bit, RTX 3070 VENTUS 3X OC;0;0
+550;Placa de Video MSI GeForce RTX 3070 Gaming Trio 8GB GDDR6 256-bit, RTX 3070 GAMING TRIO;0;0
+551;Placa de Video MSI GeForce RTX 3070 Gaming X Trio 8GB GDDR6 256-bit, 912-V390-006;0;0
+552;Placa de Video MSI GeForce RTX 3080 Ventus 3X 10GB GDDR6X 320-bit, RTX 3080 VENTUS 3X 10G;0;0
+553;Placa de Video MSI GeForce RTX 3080 Ventus 3X 10GB OC GDDR6X 320-bit, 912-V389-001;0;0
+554;Placa de Video MSI GeForce RTX 3090 Ventus 3X 24GB OC GDDR6X 384-bit, 912-V388-002;0;0
+555;Placa de Video MSI GeForce RTX 3090 Gaming X Trio 24GB GDDR6X 384-bit, 912-V388-011;0;0
+556;Placa de Video Gigabyte GeForce RTX 3090 Aorus Master 24GB GDDR6X 384-bit, GV-N3090AORUS M-24GD;0;0
+557;Placa de Video Gigabyte GeForce RTX 3090 Aorus Xtreme 24GB GDDR6X 384-bit, GV-N3090AORUS X-24GD;0;0
+558;Placa de Video Gigabyte GeForce RTX 3080 Aorus Xtreme 10GB GDDR6X 320-bit, GV-N3080AORUS X-10GD;0;0
+559;Placa de Video Zotac GeForce RTX 3070 Twin Edge 8GB GDDR6 256-bit, ZT-A30700E-10P;0;0
+560;Placa de Video Zotac GeForce RTX 3080 Trinity 10GB GDDR6X 320-bit, ZT-A30800D-10P;0;0
+561;Placa de Video Zotac GeForce RTX 3090 Trinity 24GB GDDR6X 384-bit, ZT-A30900D-10P;0;0
+562;Placa de Video MSI GeForce GTX 1650 Super 4GB Ventus XS OC 128-bit, 912-V809-3294;0;0
+563;Placa de Video Zotac GeForce RTX 2080 Super 8GB Triple Fan 256-bit, ZT-T20820H-10P;0;0
+564;Placa de Video ASRock Radeon RX 5700 XT 8GB Taichi X OC Edition 256-bit, 90-GA19ZZ-00UANF;0;0
+565;Placa de Video ASRock Radeon RX 5700 XT 8GB Phantom Gaming D OC Edition 256-bit, 90-GA1JZZ-00UANF;0;0
+566;Placa de Video ASRock Radeon RX 5600 XT 6GB Challenger Pro OC Edition 192-bit, 90-GA24ZZ-00UANF;0;0
+567;Placa de Video ASRock Radeon RX 5500 XT 8GB Challenger OC Edition 128-bit, 90-GA1LZZ-00UANF;0;0
+568;Placa de Video Gigabyte Radeon RX 570 8GB GDDR5 WindForce 256-bit, GV-RX570GAMING-8GD;0;0
+569;Placa de Video Asus GeForce RTX 2060 Super 8GB GDDR6 DUAL 256-bit, DUAL-RTX2060S-8G-EVO-V2;0;0
+570;Placa de Video Asus Phoenix Radeon RX 550 4GB GDDR5 128-bit, PH-RX550-4G-EVO-NAC;0;0
+571;Placa de Video Asus Phoenix Radeon RX 550 2GB GDDR5 128-bit, PH-RX550-2G-EVO;0;0
+572;Placa de Video Asus Radeon RX 5600 XT 6GB GDDR6 OC 192-bit, DUAL-RX5600XT-T6G-EVO;0;0
+573;Placa de Video Asus Radeon RX 5600 XT 6GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RX5600XT-T6G-GAMING;0;0
+574;Placa de Video PNY GeForce GTX 1650 GDDR6 4GB 128-bit, VCG16504D6DFPPB;0;0
+575;Placa de Video Galax GeForce GTX 1650 EX Plus 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS93E1;0;0
+576;Placa de Video Sapphire Pulse Radeon RX 5700 XT 8GB BE GDDR6 256-bit, 11293-09-20G;0;0
+577;Placa de Video Asus GeForce GTX 1650 Super OC 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650S-O4G-GAMING;0;0
+578;Placa de Video Asus GeForce RTX 2080 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2080S-8G-GAMING;0;0
+579;Placa de Video Asus GeForce RTX 2070 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2070S-8G-GAMING;0;0
+580;Placa de Video Gigabyte GeForce RTX 2080 Super 8Gb Gaming Windforce 256Bit, GV-N208SGAMING-8GC;0;0
+581;Placa de VIdeo Gigabyte GeForce RTX 2070 Super 8GB Windforce 3X 256-bit, GV-N207SWF3-8GD;0;0
+582;Placa de Video Gigabyte GeForce RTX 2060 D6 6GB GDDR6 Windforce 192-bit, GV-N2060D6-6GD;0;0
+583;Placa de Video Gigabyte GTX 1650 Eagle OC 4GB 128-bit, GV-N1656EAGLE OC-4GD;0;0
+584;Placa de Video ASRock Radeon RX 5600 XT 6GB Challenger OC Edition 192-BIT, 90-GA1XZZ-00UANF;0;0
+585;Placa de Video ASRock Radeon RX 5500 XT 8GB Challenger ITX 128-BIT, 90-GA20ZZ-00UANF;0;0
+586;Placa de Video Gigabyte GeForce GTX 1650 Super 4GB 128-bit, GV-N165SD6-4GD;0;0
+587;Placa de Video Asus Dual Radeon RX 5500 XT 4GB OC 128-bit, DUAL-RX5500XT-O4G-EVO;0;0
+588;Placa de Video Asus Radeon RX 5500 XT 8GB GDDR6 ROG Strix 128-bit, ROG-STRIX-RX5500XT-O8G-GAMING;0;0
+589;Placa de Video Afox Radeon R5 220 2GB 64-bit, AFR5220-2048D3L9-V2;0;0
+590;Placa de Video MSI Radeon RX 5600 XT 6GB Mech OC 128-bit, 912-V381-227;0;0
+591;Placa de Video Sapphire Radeon RX 5600 XT BE 6GB Pulse 192-bit, 11296-05-20G;0;0
+592;Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Windforce 256-bit, GV-N206SWF2-8GD;0;0
+593;Placa de Video Galax GeForce RTX 2060 Super 8GB 1-Click OC 256-bit, 26ISL6HP68LD;0;0
+594;Placa de Video Galax GeForce GTX 1650 Super EX 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS61EX;0;0
+595;Placa de Video Galax GeForce GTX 1650 EX 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS66E6;0;0
+596;Placa de Video MSI GeForce RTX 2060 Super 8GB Gaming X 256-bit, 912-V375-216;0;0
+597;Placa de Video MSI GeForce GTX 1660Ti 6GB Gaming X 192-bit, 912-V375-404;0;0
+598;Placa de Video MSI GeForce RTX 2070 Super 8GB Gaming X 256-bit, 912-V373-283;0;0
+599;Placa de Video MSI GeForce RTX 2070 Super 8GB Ventus OC 256-bit, 912-V386-001;0;0
+600;Placa de Video MSI GeForce GTX 1650 4GB D6 Gaming X GDDR6 128-bit, 912-V387-002;0;0
+601;Placa de Video Msi GeForce RTX 2080 TI GAMING X TRIO GDDR6 352-bit, 912-V371-097;0;0
+602;Placa de Vídeo Gigabyte GeForce GTX 1650 D6 OC Low Profile 4GB 128-bit, GV-N1656OC-4GL;0;0
+603;Placa de Video PowerColor Radeon 550 2GB Red Dragon 64-bit, AXRX 550 2GB64BD5-DH;0;0
+604;Placa de Video PowerColor Radeon RX 550 4GB Red Dragon 128-bit, AXRX 550 4GBD5-DH;0;0
+605;Placa de Video PNY GeForce RTX 2060 6GB GDDR6 OC XLR8 192-bit, KMR2060N3J6EW1AKTP;0;0
+606;Placa de Video Asus Radeon RX 5700 XT 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RX5700XT-O8G-GAMING;0;0
+607;Placa de Video PowerColor Radeon RX 5600 XT ITX 6GB 192-bit, RX 5600XT ITX 6GB GDDR6;0;0
+608;Placa de Video Asus Dual Radeon RX 5500 XT 8GB OC 128-bit, DUAL-RX5500XT-O8G-EVO;0;0
+609;Placa de Video Sapphire Radeon RX 5500 XT 8GB Nitro+ OC 128-bit, 11295-05-20G;0;0
+610;Placa de Video Sapphire Radeon RX 5500 XT 4GB Pulse OC 128-bit, 11295-03-20G;0;0
+611;Placa de Video Sapphire Radeon RX 5700 XT 8GB SE Nitro+ OC 256-bit, 11293-05-40G;0;0
+612;Placa de Video Afox Radeon RX 550 2GB 128-bit, AFRX550-2048D5H3;0;0
+613;Placa de Video Afox Radeon RX 550 4GB 128-bit, AFRX550-4096D5H3;0;0
+614;Placa de Video PNY GeForce GTX 1660 Super 6GB OC XLR8 192-bit, VCG16606SDFMPB;0;0
+615;Placa de Video PNY GeForce GTX 1660 Super 6GB 192-bit, VCG16606SSFPPB;0;0
+616;Placa de Video PNY GeForce GTX 1650 Super 4GB OC XLR8 128-bit, VCG16504SSFPPB;0;0
+617;Placa de Video Gigabyte GeForce GTX 1650 D6 OC 4GB 128-bit, GV-N1656OC-4GD;0;0
+618;Placa de Video Gigabyte GeForce GTX 1650 D6 Windforce OC 4GB 128-bit, GV-N1656WF2OC-4GD REV 2.0-NAC;0;0
+619;Placa de Video PNY Quadro P2200 5GB GDDR5X 160-bit, VCQP2200-BLK;0;0
+620;Placa de Video Afox GeForce GT 1030 2GB GDDR5 64-bit, AF1030-2048D5L4;0;0
+621;Placa de Video Galax GeForce GTX 1660 Super 6GB EX White 1-Click OC 192-bit, 60SRL7DS04WS;0;0
+622;Placa de Video Gigabyte GeForce GTX 1650 4GB OC Low Profile 128-bit, GV-N1650OC-4GL;0;0
+623;Placa de Video AFOX Radeon RX 560D 4GB GDDR5 128-bit, AFRX560D-4096D5H4-V2;0;0
+624;Placa de Video Asus GeForce GTX 1660 Super 6GB TUF OC 192-bit, TUF-GTX1660S-O6G-GAMING;0;0
+625;Placa de Video ASRock Radeon RX 5700 8GB Phantom Gaming D OC 256-bit, 90-GA1KZZ-00UANF;0;0
+626;Placa de Video ASRock Radeon RX 5600 XT 6GB Phantom Gaming D3 OC 192-bit, 90-GA1VZZ-00UANF;0;0
+627;Placa de Video ASRock Radeon RX 5600 XT 6GB Phantom Gaming D2 OC 192-bit, 90-GA1WZZ-00UANF;0;0
+628;Placa de Video Gigabyte Radeon RX 5600 XT 6GB WindForce OC 192-bit, GV-R56XTWF2OC-6GD;0;0
+629;Placa de Video ASRock Radeon RX 5700 XT 8GB Challenger D OC 256-BIT, 90-GA18ZZ-00UANF;0;0
+630;Placa de Video ASRock Radeon RX 5500 XT 4GB Challenger D OC 128-BIT, 90-GA1UZZ-00UANF;0;0
+631;Placa de Video ASRock Radeon RX 5500XT 8GB Phantom Gaming D OC 128BIT, 90-GA1NZZ-00UANF;0;0
+632;Placa de Video Gigabyte GeForce GTX 1660 Super Gaming OC 6gb 192 Bit, GV-N166SGAMING OC-6GD;0;0
+633;Placa de Video MSI Radeon RX 580 8GB Armor X 256-bit, 912-V341-436;0;0
+634;Placa de Video Gigabyte GeForce RTX 2070 Super 8GB Aorus 256-bit, GV-N207SAORUS-8GC;0;0
+635;Placa de Video Gigabyte Geforce GTX 1650 Super 4GB Windforce OC, GV-N165SWF2OC-4GD;0;0
+636;Placa de Video Gigabyte Radeon RX 5500 XT 8GB OC 128-bit, GV-R55XTOC-8GD;0;0
+637;Placa de Video Gigabyte Radeon RX 5700 XT 8GB Aorus 256-bit, GV-R57XTAORUS-8GD;0;0
+638;Placa de Video Gigabyte GeForce RTX 2080 8GB Aorus Xtreme Waterforce 256-bit, GV-N2080AORUSX W-8GC;0;0
+639;Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Gaming OC 3X 256-bit, GV-N206SGAMING OC-8GD;0;0
+640;Placa de Video Gigabyte GeForce GTX 1650 Super 4GB OC 128-bit, GV-N165SOC-4GD;0;0
+641;Placa de Video MSI Radeon RX 570 8GB OC 256-bit, 912-V809-3428;0;0
+642;Placa de Video PNY Quadro P1000 V2 4GB GDDR5 128-bit, VCQP1000V2-PB;0;0
+643;Placa de Video PNY Quadro P620 V2 2GB GDDR5 128-bit, VCQP620V2-PB;0;0
+644;Placa de Video PNY Quadro P400 V2 2GB GDDR5 64-bit, VCQP400V2-PB;0;0
+645;Placa de Video EVGA GeForce GTX 1660 6GB Black 192-bit, 06G-P4-1160-KR;0;0
+646;Placa de Video XFX Radeon RX 5600 XT 6GB Thicc III Ultra 192-bit, RX-56XT6TBD8;0;0
+647;Placa de Video XFX Radeon RX 5600 XT 6GB Thicc II Pro 192-bit, RX-56XT6DFD6;0;0
+648;Placa de Video MSI Radeon RX 5700 8GB Gaming X 256-bit, 912-V381-247;0;0
+649;Placa de Video MSI Radeon RX 5700 XT 8GB Gaming X 256-bit, 912-V381-235;0;0
+650;Placa de Video MSI Radeon RX 5500 XT 8GB Gaming X 128-bit, 912-V382-001;0;0
+651;Placa de Video MSI Radeon RX 5700 8GB Evoke OC 256-bit, 912-V381-061;0;0
+652;Placa de Video MSI Radeon RX 5700 XT 8GB Evoke OC 256-bit, 912-V381-002;0;0
+653;Placa de Video MSI Radeon RX 5500 XT 4GB Mech OC 128-bit, 912-V382-013;0;0
+654;Placa de Video MSI Radeon RX 5500 XT 8GB Mech OC 128-bit, 912-V382-005;0;0
+655;Placa de Video MSI GeForce GTX 1660 Super 6GB Ventus XS OC 192-bit, 912-V375-279;0;0
+656;Placa de Video MSI GeForce GTX 1650 4GB Ventus XS OC 128-bit, 912-V809-3445;0;0
+657;Placa de Video MSI GeForce GTX 1660 Super 6GB Gaming 192-bit, 912-V375-467;0;0
+658;Placa de Video MSI GeForce GTX 1650 Super 4GB Gaming X 128-bit, 912-V385-003;0;0
+659;Placa de Video MSI GeForce GTX 1650 Super 4GB Gaming X 128-bit, 912-V385-007;0;0
+660;Placa de Video MSI GeForce RTX 2060 Super 8GB Ventus GP OC 256-bit, 912-V375-469;0;0
+661;Placa de Video MSI GeForce RTX 2080 Super 8GB Ventus XS OC 256-bit, 912-V372-294;0;0
+662;Placa de Video MSI GeForce RTX 2070 Super 8GB Gaming X 256-bit, 912-V373-299;0;0
+663;Placa de Video Sapphire Radeon RX 5500 XT 8GB Pulse 128-bit, 11295-01-20G;0;0
+664;Placa de Video Sapphire Radeon RX 5600 XT 6GB Pulse 256-bit, 11296-01-20G;0;0
+665;Placa de Video PowerColor Radeon RX 5700 8GB Red Dragon 256-bit, AXRX 5700 8GBD6-3DHR/OC;0;0
+666;Placa de Video PowerColor Radeon RX 550 4GB Red Dragon 128-bit, AXRX 550 4GBD5-DHA/OC;0;0
+667;Placa de Video PowerColor Radeon RX 5700 8GB Red Devil 256-bit, AXRX 5700 8GBD6-3DHE/OC;0;0
+668;Placa de Video PowerColor Radeon RX 5500 XT 8GB Red Dragon OC 128-bit, AXRX 5500XT 8GBD6-DHR/OC;0;0
+669;Placa de Video PowerColor Radeon RX 5500 XT 8GB OC 128-bit, AXRX 5500XT 8GBD6-DH/OC;0;0
+670;Placa de Video PowerColor Radeon RX 5500 XT 4GB OC 128-bit, AXRX 5500XT 4GBD6-DH/OC;0;0
+671;Placa de Video Gigabyte Radeon RX 5500 XT 4GB OC 128-bit, GV-R55XTOC-4GD;0;0
+672;Placa de Video Gigabyte Radeon RX 5500 XT 4GB Gaming OC 128-bit, GV-R55XTGAMING OC-4GD;0;0
+673;Placa de Video Gigabyte Radeon RX 5600 XT 6GB Gaming OC 192-bit, GV-R56XTGAMING OC-6GD;0;0
+674;Placa de Video XFX Radeon RX 5700 XT 8GB Raw II 256-bit, RX-57XT8OFF6;0;0
+675;Placa de Video XFX Radeon RX 5500 XT 8GB GDDR6 128-bit, RX-55XT8DFD6;0;0
+676;Placa de Video XFX Radeon RX 5700 8GB Ultra 256-bit, RX-57XL8LBD6;0;0
+677;Placa de Video XFX Radeon RX 5700 XT 8GB Thicc III Ultra 256-bit, RX-57XT8TBD8;0;0
+678;Placa de Video XFX Radeon RX 5700 XT 8GB Thicc II Ultra 256-bit, RX-57XT8DBD6;0;0
+679;Placa de Video Gigabyte GeForce RTX 2080 Super 8GB OC White 256-bit, GV-N208SGAMINGOC WHITE-8GD;0;0
+680;Placa de Video Galax GeForce RTX 2060 Super 8GB EX White 1-Click OC 256-bit, 26ISL6MPX6EW;0;0
+681;Placa de Video Gainward GeForce GT 1030 2GB GDDR5 64-bit, NE5103000646-1080F;0;0
+682;Placa de Video Galax GeForce RTX 2080 Super 8GB Work The Frames 256-bit, 28ISL6MD49ES;0;0
+683;Placa de Video Galax GeForce RTX 2070 Super 8GB Work The Frames 256-bit, 27ISL6MD49ES;0;0
+684;Placa de Video Gigabyte GeForce GT 1030 2GB GDDR5 OC 64-bit, GV-N1030OC-2GI;0;0
+685;Placa de Video Zotac GeForce GTX 1650 4GB LP 128-bit, ZT-T16500H-10L;0;0
+686;Placa de Video Zotac GeForce GTX 1660 Super 6GB Twin Fan 192-bit, ZT-T16620F-10L;0;0
+687;Placa de Video Zotac GeForce RTX 2070 Super 8GB Mini 256-bit, ZT-T20710E-10M;0;0
+688;Placa de Video Zotac GeForce RTX 2080 Super 8GB Twin Fan 256-bit, ZT-T20820F-10P;0;0
+689;Placa de Video Zotac GeForce RTX 2080 Super 8GB AMP 256-bit, ZT-T20820D-10P;0;0
+690;Placa de Video Sapphire Radeon RX 5700 XT 8GB Nitro+ 256-bit, 11293-03-40G;0;0
+691;Placa de Video Asus GeForce GTX 1660 Super 6GB Dual 192-bit, DUAL-GTX1660S-6G-EVO;0;0
+692;Placa de Video Galax GeForce RTX 2070 Super 8GB HOF 256-bit, 27ISL6UC53HT;0;0
+693;Placa de Video Galax GeForce RTX 2080 Super 8GB HOF 256-bit, 28ISL6UC53HT;0;0
+694;Placa de Video Galax GeForce GTX 1660 Super 6GB X Version 192-bit, 60SRL7DS05XV;0;0
+695;Placa de Video Galax GeForce GTX 1660 Super 6GB 1-Click OC 192-bit, 60SRL7DSY91S;0;0
+696;Placa de Video Asus GeForce RTX 2080 Super 8GB Dual 256-bit, DUAL-RTX2080S-8G-EVO;0;0
+697;Placa de Video Galax GeForce GT 710 2GB DDR3 64-bit, 71GPF4HI00GX;0;0
+698;Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Waterforce 256-bit, GV-N208SAORUS W-8GC;0;0
+699;Placa de Video Gigabyte GeForce RTX 2070 Super 8GB Gaming OC 3X White 256-bit, GV-N207SGAMINGOC WHITE-8GD;0;0
+700;Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Gaming OC 3X White 256-bit, GV-N206SGAMINGOC WHITE-8GD;0;0
+701;Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Waterforce WB 256-bit, GV-N208SAORUS WB-8GC;0;0
+702;Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Aorus 256-bit, GV-N208SAORUS-8GC;0;0
+703;Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Aorus 256-bit, GV-N206SAORUS-8GC;0;0
+704;Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Windforce OC 256-bit, GV-N208SWF3OC-8GD;0;0
+705;Placa de Video Gigabyte Radeon RX 5700 8GB 256-bit, GV-R57-8GD-B;0;0
+706;Placa de Video Gigabyte Radeon RX 5700 8GB Gaming OC 256-bit, GV-R57GAMING OC-8GD;0;0
+707;Placa de Video Gigabyte Radeon RX 5700 XT 8GB Gaming OC 256-bit, GV-R57XTGAMING OC-8GD;0;0
+708;Placa de Video Gigabyte GeForce GTX 1660 Super 6GB Windforce OC 192-bit, GV-N166SOC-6GD;0;0
+709;Placa de Video PowerColor Radeon 5700 XT 8GB Red Devil 256-bit, AXRX 5700 XT 8GBD6-3DHE/OC;0;0
+710;Placa de Video PowerColor Radeon 5700 XT 8GB Red Dragon 256-bit, AXRX 5700 XT 8GBD6-3DHR/OC;0;0
+711;Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Windforce OC 256-bit, GV-N206SWF2OC-8GD;0;0
+712;Placa de Video EVGA GeForce RTX 2070 Super 8GB XC Ultra OC 256-bit, 08G-P4-3173-KR;0;0
+713;Placa de Video EVGA GeForce RTX 2060 Super 8GB SC Ultra 256-bit, 08G-P4-3067-KR;0;0
+714;Placa de Video EVGA GeForce RTX 2060 Super 8GB SC Ultra Black 256-bit, 08G-P4-3065-KR;0;0
+715;Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Gaming OC 256-bit, GV-N208SGAMING OC-8GC;0;0
+716;Placa de Video Gigabyte GeForce RTX 2060 Super Gaming OC 8GB GDDR6 256-bit, GV-N206SGAMING OC-8GC;0;0
+717;Placa de Video Asus GeForce GTX 1660 Super 6GB Phoenix OC 192-bit, PH-GTX1660S-O6G;0;0
+718;Placa de Video Asus GeForce RTX 2080 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2080S-A8G-GAMING;0;0
+719;Placa de Video Asus GeForce RTX 2070 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2070S-A8G-GAMING;0;0
+720;Placa de Video MSI Radeon RX 5700 XT 8GB GDDR6 Mech OC 256-bit, 912-V381-044;0;0
+721;Placa de Video MSI Radeon RX 5700 8GB GDDR6 Mech OC 256-bit, 912-V381-005;0;0
+722;Placa de Video MSI GeForce GTX 1650 4GB GDDR5 Gaming X 128-bit, 912-V380-015;0;0
+723;Placa de Video MSI GeForce GTX 1650 4GB GDDR5 Gaming 128-bit, 912-V380-025;0;0
+724;Placa de Video MSI GeForce RTX 2070 Super 8GB Ventus OC 256-bit, 912-V372-434;0;0
+725;Placa de Video MSI GeForce RTX 2080 Super 8GB Gaming X Trio 256-bit, 912-V372-279;0;0
+726;Placa de VIdeo Gigabyte GeForce RTX 2070 Super 8GB Windforce OC 3X 256-bit, GV-N207SWF3OC-8GD;0;0
+727;Placa de Video PNY NVS 810 4GB GDDR3 128-bit, VCNVS810DVI-PB;0;0
+728;Placa de Video PNY Quadro P2000 5GB GDDR5 160-bit, VCQP2000-PB;0;0
+729;Placa de Video Asus GeForce GTX 1650 4GB GDDR5 TUF Gaming 128-bit, TUF-GTX1650-4G-GAMING;0;0
+730;Placa de Video Asus GeForce GTX 1660 6GB GDDR5 TUF Gaming 192-bit, TUF-GTX1660-6G-GAMING;0;0
+731;Placa de Video Gigabyte GeForce RTX 2070 Super 8GB Gaming OC 3X 256-bits, GV-N207SGAMING OC-8GD;0;0
+732;Placa de Video Galax GeForce RTX 2060 Super 8GB GDDR6 1-Click OC 265-bits, 26ISL6HP39SS;0;0
+733;Placa de Video Zotac GeForce RTX 2060 Super Mini 8GB GDDR6 256-bits, ZT-T20610E-10M;0;0
+734;Placa de Video Galax GeForce RTX 2070 Super 8GB GDDR6 EX Gamer Black 256-bits, 27ISL6MDW0BG;0;0
+735;Placa de Video Gainward GeForce RTX 2080 Super 8GB GDDR6 Phantom GLH 256-bits, NE6208SH20P2-1040P;0;0
+736;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Winforce 2X 256-bit, GV-N2070WF2-8GD;0;0
+737;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX White 1-Click OC V2 256-bit, 28NSL6MDU8W2;0;0
+738;Placa de Video Asus GeForce RTX 2060 Super 8GB GDDR6 DUAL 256-bit, DUAL-RTX2060S-8G-EVO;0;0
+739;Placa de Video Sapphire Pulse Radeon RX 5700 8GB GDDR6 256-bit, 11294-01-20G;0;0
+740;Placa de Video Sapphire Pulse Radeon RX 5700 XT 8GB GDDR6 256-bit, 11293-01-20G;0;0
+741;Placa de Video MSI GeForce RTX 2080 Super 8GB GDDR6 Ventus OC 256-bit, 912-V372-267;0;0
+742;Placa de Video MSI GeForce RTX 2060 Super 8GB GDDR6 Ventus OC 256-bit, 912-V373-275;0;0
+743;Placa de Video MSI GeForce RTX 2060 Super 8GB Gaming X 256-bit, 912-V375-265;0;0
+744;Placa de Video MSI GeForce GTX 1660 Ti 6GB GDDR6 Gaming X 192-bit, 912-V375-053;0;0
+745;Placa de Video MSI GeForce GTX 1050 Ti 4GB GDDR5 Gaming 128-bit, 912-V335-052;0;0
+746;Placa de Video MSI Radeon RX 5700 8GB GDDR6 256-bit, 912-V803-889;0;0
+747;Placa de Video MSI Radeon RX 5700 XT 8GB GDDR6 256-bit, 912-V803-888;0;0
+748;Placa de Video Asus GeForce RTX 2070 Super 8GB GDDR6 Dual 256-bits, DUAL-RTX2070S-8G-EVO;0;0
+749;Placa de Video Asus GeForce GTX 1660 6GB OC DUAL 192-bit, DUAL-GTX1660-O6G-EVO;0;0
+750;Placa de Video Asus GeForce GTX 1650 4GB GDDR5 ROG Strix OC 128-bit, ROG-STRIX-GTX1650-O4G-GAMING;0;0
+751;Placa de Video XFX Radeon RX 5700 XT 8GB GDDR6 Thicc II 256-bit, RX-57XT8DFD6;0;0
+752;Placa de Video Asus Radeon RX 5700 XT 8GB GDDR6 256-bit, RX5700XT-8G;0;0
+753;Placa de Video Asus GeForce RTX 2080 Ti 11GB GDDR6 ROG Strix 352-bit, ROG-STRIX-RTX2080TI-A11G-GAMING;0;0
+754;Placa de Video Zotac GeForce RTX 2060 Super 8GB GDDR6 AMP Extreme 256-bit, ZT-T20610B-10P;0;0
+755;Placa de Video Asus GeForce GTX 1650 4GB GDDR5 DUAL OC 128-bit, DUAL-GTX1650-O4G;0;0
+756;Placa de Video Galax GeForce RTX 2080 SUPER EX 8GB GDDR6 1-Click OC 256-bit, 28ISL6MDU9EX;0;0
+757;Placa de Video Galax GeForce RTX 2070 SUPER EX 8GB GDDR6 1-Click OC 256-bit, 27ISL6MDU9EX;0;0
+758;Placa de Video Galax GeForce RTX 2060 SUPER EX 8GB GDDR6 1-Click OC 256-bit, 26ISL6MPX2EX;0;0
+759;Placa de Video Sapphire Radeon RX 5700 XT 8GB GDDR6 256-bit, 21293-01-40G;0;0
+760;Placa de Video Sapphire Radeon RX 5700 8GB GDDR6 256-bit, 21294-01-20G;0;0
+761;Placa de Video PNY GeForce GTX 1650 4GB GDDR5 XLR8 OC 128-bit, VCG16504SFPPB-O;0;0
+762;Placa de Video PowerColor Radeon RX 5700 8GB GDDR6 256-bit, AXRX 5700 8GBD6-M3DH;0;0
+763;Placa de Video PowerColor Radeon RX 5700 XT 8GB GDDR6 256-bit, AXRX 5700XT 8GBD6-M3DH;0;0
+764;Placa de Video Zotac GeForce RTX 2060 Super 8GB Twin Fan GDDR6 256-bit, ZT-T20610D-10P;0;0
+765;Placa de Video Zotac GeForce RTX 2070 Super 8GB Twin Fan GDDR6 256-bit, ZT-T20710F-10P;0;0
+766;Placa de Video PowerColor Radeon R5 230 1GB DDR3 64-bit, AXR5 230 1GBK3-SHE;0;0
+767;Placa de Video XFX Radeon RX 5700 8GB GDDR6 256-bit, RX-57XL8MFG6;0;0
+768;Placa de Video XFX Radeon RX 5700 XT 8GB GDDR6 256-bit, RX-57XT8MFD6;0;0
+769;Placa de Video PNY Quadro RTX 4000 8GB GDDR6 256-bit, VCQRTX4000-PB;0;0
+770;Placa de Video Asus GeForce GTX 1650 4GB GDDR5 OC Phoenix 128-bit, PH-GTX1650-O4G-NAC;0;0
+771;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX 1-Click OC V2 256-bit, 28NSL6MDU9E2;0;0
+772;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX Gamer 1-Click OC V2 256-bit, 28NSL6MDW7G2;0;0
+773;Placa de Video PNY GeForce RTX 2060 6GB GDDR6 OC XLR8 192-bit, VCG20606SFPPB-O;0;0
+774;Placa de Video PNY GeForce GTX 1660 Ti 6GB GDDR6 OC XLR8 192-bit, VCG1660T6SFPPB-O;0;0
+775;Placa de Video PNY GeForce RTX 2060 6GB GDDR6 OC XLR8 192-bit, VCG20606DFPPB-O;0;0
+776;Placa de Video PNY GeForce GTX 1660 6GB GDDR6 OC XLR8 192-bit, VCG16606SFPPB-O;0;0
+777;Placa de Video Asus GeForce RTX 2070 8GB GDDR6 DUAL 256-bit, DUAL-RTX2070-8G-EVO;0;0
+778;Placa de Video Asus GeForce GTX 1660 6GB GDDR5 TUF OC 192-bit, TUF-GTX1660-O6G-GAMING;0;0
+779;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 White Mini 1-Click OC 256-bit, 27NSL6HPZ7MN;0;0
+780;Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 OC 128-bit, GV-N1650GAMING OC-4GD;0;0
+781;Placa de Video Asus GeForce RTX 2060 6GB GDDR6 TUF Gaming OC 192-bit, TUF-RTX2060-O6G-GAMING;0;0
+782;Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 Windforce 192-bit, GV-N2060WF2-6GD;0;0
+783;Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB GDDR6 Windforce 192-bit, GV-N166TWF2-6GD;0;0
+784;Placa de Video Gigabyte GeForce GTX 1660 6GB GDDR5 192-bit, GV-N1660GAMING-6GD;0;0
+785;Placa de Video Gigabyte GeForce GTX 1660 6GB GDDR5 OC 192-bit, GV-N1660GAMING OC-6GD;0;0
+786;Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus Xtreme Waterforce 352-bit, GV-N208TAORUSX WB-11GC;0;0
+787;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 256-bit, GV-N2080GAMING-8GC;0;0
+788;Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus 352-bit, GV-N208TAORUS-11GC;0;0
+789;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 Aorus 256-bit, GV-N2080AORUS-8GC;0;0
+790;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 Aorus Xtreme 256-bit, GV-N2080AORUS X-8GC;0;0
+791;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Aorus Xtreme 256-bit, GV-N2070AORUS X-8GC;0;0
+792;Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus Xtreme 352-bit, GV-N208TAORUS X-11GC;0;0
+793;Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus Xtreme Waterforce 352-bit, GV-N208TAORUSX W-11GC;0;0
+794;Placa de Video Asus GeForce GTX 1660 6GB GDDR5 Phoenix OC 192-bit, PH-GTX1660-O6G;0;0
+795;Placa de Video Zotac GeForce GTX 1650 4GB GDDR5 OC 128-bit, ZT-T16500F-10L;0;0
+796;Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 1-Click OC White 352-bit, 28IULBUCT4KK;0;0
+797;Placa de Video Zotac GeForce GTX 1660 6GB GDDR5 192-bit, ZT-T16600F-10L;0;0
+798;Placa de Video Zotac GeForce GTX 1660 6GB GDDR5 AMP 192-bit, ZT-T16600D-10M;0;0
+799;Placa de Video MSI GeForce GTX 1660 6GB GDDR5 Gaming X 192-bit, 912-V379-017;0;0
+800;Placa de Video MSI GeForce RTX 2070 8GB GDDR6 Ventus 256-bit, 912-V373-075;0;0
+801;Placa de Video MSI GeForce GTX 1660 6GB GDDR5 VENTUS XS OC 192-bit, 912-V379-015;0;0
+802;Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 WINDFORCE OC 128-bit, GV-N1650WF2OC-4GD;0;0
+803;Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 OC 128-bit, GV-N1650OC-4GD;0;0
+804;Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 MINI ITX OC 128-bit, GV-N1650IXOC-4GD;0;0
+805;Placa de Video Galax GeForce GTX 1650 EX 4GB GDDR5 1-Click OC 128-bit, 65SQH8DS08EX;0;0
+806;Placa de Video Asus GeForce RTX 2080 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2080-A8G-GAMING;0;0
+807;Placa de Video PowerColor Radeon VII 16GB HBM2 4096-bit, AXVII 16GBHBM2-3DH;0;0
+808;Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 256-bit, ZT-T20800G-10P;0;0
+809;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 SG 1-Click OC 256-bit, 28NSL6UCU11S;0;0
+810;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX White 1-Click OC 256-bit, 28NSL6UCU8WW;0;0
+811;Placa de Video Asus GeForce GTX 1660 Ti 6GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-GTX1660TI-O6G-GAMING;0;0
+812;Placa de Video Asus GeForce RTX 2070 8GB GDDR6 DUAL OC 256-bit, DUAL-RTX2070-O8G-EVO;0;0
+813;Placa de Video Asus GeForce RTX 2080 8GB GDDR6 DUAL 256-bit, DUAL-RTX2080-A8G-EVO;0;0
+814;Placa de Video Asus GeForce RTX 2060 6GB GDDR6 TUF Gaming 192-bit, TUF-RTX2060-6G-GAMING;0;0
+815;Placa de Video MSI GeForce GTX 1660 Ti 6GB GDDR6 Gaming X 192-bit, 912-V375-040;0;0
+816;Placa de Video Asus GeForce GTX 1660 Ti 6GB GDDR6 OC Dual192-bit, DUAL-GTX1660TI-O6G;0;0
+817;Placa de Video Asus GeForce GTX 1660 Ti 6GB GDDR6 OC Phoenix 192-bit, PH-GTX1660TI-O6G;0;0
+818;Placa de Video PowerColor Radeon RX 590 8GB GDDR5 Red Dragon 256-bit, AXRX 590 8GBD5-DHD;0;0
+819;Placa de Video PNY GeForce RTX 2070 8GB GDDR6 Blower 256-bit, VCG20708BLMPB;0;0
+820;Placa de Video Galax GeForce GTX 1660 6GB GDDR5 1-Click OC 192-bit, 60SRH7DSY91C;0;0
+821;Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 OC PRO White 192-bit, GV-N2060GAMINGOC PRO WHITE-6GD;0;0
+822;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Mini ITX 256-bit, GV-N2070IX-8GC;0;0
+823;Placa de Video Galax GeForce GTX 1060 6GB GDDR5 EXOC Extreme 192-bit, 60NRH7DVM6VE;0;0
+824;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 EX White 1-Click OC 256-bit, 27NSL6MPX6VW;0;0
+825;Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 SG 1-Click OC 352-bit, 28IULBUCT2CK;0;0
+826;Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 1-Click OC 128-bit, 50IQH8DSC7CB;0;0
+827;Placa de Video PowerColor Radeon RX 570 4GB GDDR5 Red Dragon 256-bit, AXRX 570 4GBD5-3DHDV2/OC;0;0
+828;Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 Black 256-bit, 08G-P4-2071-KR;0;0
+829;Placa de Video Zotac GeForce 1060 6GB GDDR5X 192-bit, ZT-P10620A-10M;0;0
+830;Placa de Video ZOTAC GeForce RTX 2080 Ti 11GB GDDR6 ArcticStorm 352bit, ZT-T20810K-30P;0;0
+831;Placa de Vídeo ZOTAC GeForce GTX 1660 Ti 6GB GDDR6 AMP 192-bit, ZT-T16610D-10M;0;0
+832;Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB GDDR6 OC 192-bit, GV-N166TOC-6GD;0;0
+833;Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB GDDR6 WindForce OC 192-bit, GV-N166TWF2OC-6GD;0;0
+834;Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB Gaming OC 192-bit, GV-N166TGAMING OC-6GD;0;0
+835;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 EXOC 256-bit, 27NSL6UCV1OC;0;0
+836;Placa de Video Galax GeForce GTX 1660 Ti 6GB GDDR6 1-Click OC 192-bit, 60IRL7DSY91C;0;0
+837;Placa de Video EVGA GeForce RTX 2080 8GB GDDR6 Black 256-bit, 08G-P4-2081-KR;0;0
+838;Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 Black 256-bit, 08G-P4-1071-KR;0;0
+839;Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 AMP! Extreme 352-bit, ZT-T20810B-10P;0;0
+840;Placa de Video Galax GeForce GT 710 1GB DDR3 64-bit, 71GGF4DC00WG;0;0
+841;Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 HOF 352-bit, 28IULBUCV6DH;0;0
+842;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 1-Click OC White 256-bit, 27NSL6UCV3TW;0;0
+843;Placa de Video Galax GeForce RTX 2060 6GB GDDR6 1-Click OC EX White 192-bit, 26NRL7HPY3EW;0;0
+844;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 1-Click OC EX White 256-bit, 27NSL6UCV91W;0;0
+845;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 1-Click OC EX 256-bit, 27NSL6MPX2VE;0;0
+846;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 1-Click OC EX 256-bit, 28NSL6UCU9EN;0;0
+847;Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 1-Click OC Dual White 352-bit, 28IULBUCT4KW;0;0
+848;Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 1-Click OC Dual Black 352-bit, 28IULBUCT4ND;0;0
+849;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 TURBO 256-bit, GV-N2080TURBO-8GC;0;0
+850;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 WindForce 256-bit, GV-N2070WF3-8GC;0;0
+851;Placa de Video EVGA GeForce RTX 2060 6GB GDDR6 XC 192-bit, 06G-P4-2063-KR;0;0
+852;Placa de Video EVGA GeForce RTX 2060 6GB GDDR6 XC Black 192-bit, 06G-P4-2061-KR;0;0
+853;Placa de Video AsRock Phantom Gaming Radeon RX 560 4GB GDDR5 128-bit, 90-GA0620-00UANF;0;0
+854;Placa de Video AsRock Phantom Gaming Radeon RX 570 OC 8GB GDDR5 256-bit, 90-GA0N00-00UANF;0;0
+855;Placa de Video AsRock Phantom Gaming Radeon RX 580 OC 8GB GDDR5 256-bit, 90-GA0M00-00UANF;0;0
+856;Placa de Video Galax GeForce GTX 1050 Ti 4GB DDR5 EXOC White 128-bit, 50IQH8DVP1WT;0;0
+857;Placa de Video Asus GeForce GT 1030 OC 2GB GDDR5 64-bit, PH-GT1030-O2G;0;0
+858;Placa de Video EVGA GeForce RTX 2080 8GB GDDR6 XC Ultra 256-bit, 08G-P4-2183-KR;0;0
+859;Placa de Video EVGA GeForce GTX 1050 3GB GDDR5 SC 96-bit, 03G-P4-6153-KR;0;0
+860;Placa de Video EVGA GeForce GT 1030 2GB DDR4 Low Profile 64-bit, 02G-P4-6232-KR;0;0
+861;Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Pulse ITX 256-bit, 11266-34-20G;0;0
+862;Placa de Video MSI GeForce RTX 2060 6GB GDDR6 GAMING Z 192-bit, 912-V375-015;0;0
+863;Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 OC 192-bit, GV-N2060GAMING OC-6GD;0;0
+864;Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 WindForce OC 192-bit, GV-N2060WF2OC-6GD;0;0
+865;Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 OC 192-bit, GV-N2060OC-6GD;0;0
+866;Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 Mini ITX OC, GV-N2060IXOC-6GD;0;0
+867;Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 Aorus XTREME 192-bit, GV-N2060AORUS X-6GC;0;0
+868;Placa de Video Gigabyte GeForce RTX 2060 6GB GAMING OC, GV-N2060GAMINGOC PRO-6GD;0;0
+869;Placa de Video Asus GeForce RTX 2060 6GB GDDR6 Turbo Auto-Extreme 192-bit, TURBO-RTX2060-6G;0;0
+870;Placa de Video Asus GeForce RTX 2060 6GB GDDR6 DUAL Auto-Extreme 192-bit, DUAL-RTX2060-A6G;0;0
+871;Placa de Video MSI GeForce GTX 1660 Ti 6GB GDDR6 VENTUS XS OC 192-bit, 912-V375-039;0;0
+872;Placa de Video Zotac GeForce RTX 2060 6GB GDDR6 AMP 192-bit, ZT-T20600D-10M;0;0
+873;Placa de Video XFX Radeon RX 570 4GB GDDR5 OC XXX 256-bit, RX-570P4DFD6;0;0
+874;Placa de Video Asus GeForce RTX 2060 6GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RTX2060-O6G-GAMING;0;0
+875;Placa de Video Asus GeForce RTX 2060 6GB GDDR6 ROG Strix 192-bit, ROG-STRIX-RTX2060-A6G-GAMING;0;0
+876;Placa de Video Zotac GeForce RTX 2060 6GB GDDR6 Twin Fan 192-bit, ZT-T20600F-10M;0;0
+877;Placa de Video MSI GeForce RTX 2060 6GB GDDR6 VENTUS OC 192-bit, 912-V375-017;0;0
+878;Placa de Video Galax GeForce GTX 1060 6GB GDDR5X OC REDBLACK 192-bit, 60NRJ7DSX1PO;0;0
+879;Placa de Video Galax GeForce RTX 2060 6GB GDDR6 1-Click OC 192-bit, 26NRL7HPX7OC;0;0
+880;Placa de Video Gigabyte GeForce GTX 1050 3GB GDDR5 OC Low Profile 96-bit, GV-N1050OC-3GL;0;0
+881;Placa de Video Sapphire Radeon RX 590 8GB GDDR5 Nitro+ 256-bit, 11289-01-20G;0;0
+882;Placa de Video MSI Ventus GeForce RTX 2080 8GB OC, 912-V372-007;0;0
+883;Placa de Video Asus GeForce RTX 2080 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2080-8G-GAMING;0;0
+884;Placa de Video Asus GeForce RTX 2080 Ti DUAL OC 11GB GDDR6 352-bit, DUAL-RTX2080TI-O11G;0;0
+885;Placa de Video Asus GeForce RTX 2080 DUAL 8GB GDDR6 256-bit, DUAL-RTX2080-A8G;0;0
+886;Placa de Video Asus GeForce RTX 2080 DUAL 8GB GDDR6 256-bit, DUAL-RTX2080-8G;0;0
+887;Placa de Video Asus GeForce RTX 2070 DUAL OC 8GB GDDR6 256-bit, DUAL-RTX2070-O8G;0;0
+888;Placa de Video Asus GeForce RTX 2070 DUAL 8GB GDDR6 256-bit, DUAL-RTX2070-A8G;0;0
+889;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Aorus 256-bit, GV-N2070AORUS-8GC;0;0
+890;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 256-bit, GV-N2070GAMING-8GC;0;0
+891;Placa de Video Gigabyte GeForce GT 730 2GB DDR3 64-bit, GV-N730D3-2GI;0;0
+892;Placa de Video Gigabyte GeForce GT 710 1GB GDDR5 64-bit, GV-N710D5-1GI;0;0
+893;Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 OC 352-bit, 28IULBUCT4OC;0;0
+894;Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 SG Edition 352-bit, 28IULBUCT2GC;0;0
+895;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 1-Click OC White 256-bit, 28NSL6UCT6WO;0;0
+896;Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! MAXX 256-bit, ZT-T20800H-10P;0;0
+897;Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! Extreme 256-bit, ZT-T20800C-10P;0;0
+898;Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! Extreme 256-bit, ZT-T20800B-10P;0;0
+899;Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 Twin Fan 352-bit, ZT-T20810G-10P;0;0
+900;Placa de Video Zotac GeForce RTX 2070 8GB GDDR6 AMP! 256-bit, ZT-T20700D-10P;0;0
+901;Placa de Video AsRock Phantom Gaming Radeon RX 570 4GB GDDR5 256-bit, 90-GA0K00-00UANF;0;0
+902;Placa de Video AsRock Phantom Gaming Radeon RX 560 4GB GDDR5 128-bit, 90-GA0600-00UANF;0;0
+903;Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 WindForce 352-bit, GV-N208TWF3-11GC;0;0
+904;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 WindForce 256-bit, GV-N2080WF3-8GC;0;0
+905;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 OC White 256-bit, GV-N2080GAMINGOC WHITE-8GC;0;0
+906;Placa de Video Galax GeForce GTX 1060 6GB GDDR5X OC 192-bit, 60NRJ7DSV8OC;0;0
+907;Placa de Video EVGA GeForce RTX 2080 8GB GDDR6 XC 256-bit, 08G-P4-2182-KR;0;0
+908;Placa de Video MSI GeForce RTX 2070 8GB GDDR6 Gaming Z 256-bit, 912-V373-007;0;0
+909;Placa de Video MSI GeForce RTX 2070 ARMOR 8G OC GDDR6, 912-V373-013;0;0
+910;Placa de Video Asus GeForce GTX 1050 OC 2GB 128-bit, CERBERUS-GTX1050-O2G;0;0
+911;Placa de Video XFX Radeon RX 590 8GB GDDR5 Fatboy 256-bit, RX-590P8DFD6;0;0
+912;Placa de Video MSI Radeon RX 570 Armor 8GB OC GDDR5 256bit, RX-570-Armor-8GB-OC;0;0
+913;Placa de Video Zotac GeForce RTX 2070 8GB GDDR6 AMP Extreme 256-bit, ZT-T20700C-10P;0;0
+914;Placa de Video Zotac GeForce RTX 2070 8GB GDDR6 AMP Extreme 256-bit, ZT-T20700B-10P;0;0
+915;Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 XC Ultra 256-bit, 08G-P4-2173-KR;0;0
+916;Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 XC 256-bit, 08G-P4-2172-KR;0;0
+917;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 1-Click OC SG 256-bit, 28NSL6UCU1SE;0;0
+918;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 OC 256-bit, 27NSL6UCT7OC;0;0
+919;Placa de Video Galax GeForce RTX 2070 8GB GDDR6 OC White 256-bit, 27NSL6UCV3WO;0;0
+920;Placa de Video Galax GeForce RTX 2080 8GB GDDR6 OC 256-bit, 28NSL6UCT7OC;0;0
+921;Placa de Video Asus GeForce GTX 1060 6GB GDDR5 192-bit, PH-GTX1060-6G;0;0
+922;Placa de Video MSI GeForce GTX 1070 Ti Aero 8GB, GeForce-GTX-1070-Ti-Aero-8G;0;0
+923;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 OC White 256-bit, GV-N2070GAMINGOC WHITE-8GC;0;0
+924;Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 OC 256-bit, GV-N2070GAMINGOC-8GC;0;0
+925;Placa de Video Asus GeForce RTX 2080 OC 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2080-O8G-GAMING;0;0
+926;Placa de Video MSI GeForce RTX 2080 8GB GDDR6 Sea Hawk X 256-bit, 912-V372-008;0;0
+927;Placa de Video MSI GeForce RTX 2080 8GB GDDR6 Gaming X TRIO 256-bit, 912-V372-090;0;0
+928;Placa de Video Asus GeForce RTX 2070 OC 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2070-O8G-GAMING;0;0
+929;Placa de Video Galax GeForce GTX 1060 6GB GDDR5 OC 192-bit, 60NRH7DSN5E6;0;0
+930;Placa de Video Asus GeForce RTX 2080 Ti DUAL OC 11GB GDDR6 352-bit, DUAL-RTX2080TI-A11G;0;0
+931;Placa de Video Asus GeForce RTX 2080 DUAL OC 8GB GDDR6 256-bit, DUAL-RTX2080-O8G;0;0
+932;Placa de Video AsRock Phantom Gaming Radeon RX 560 2GB GDDR5 128-bit, 90-GA0400-00UANF;0;0
+933;Placa de Video AsRock Phantom Gaming Radeon RX 550 2GB GDDR5 128-bit, 90-GA0500-00UANF;0;0
+934;Placa de Video PowerColor Radeon RX 560 2GB GDDR5 Red Dragon 128-bit, AXRX 560 2GBD5-DHAV2;0;0
+935;Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 2GBD5-DHA/OC;0;0
+936;Placa de Video Asus GeForce GTX 1050 3GB GDDR5 96-bit, PH-GTX1050-3G;0;0
+937;Placa de Video Asus Arez Radeon RX 560 4GB OC GDDR5 128-bit, AREZ-RX560-O4G-EVO;0;0
+938;Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Devil Golden Sample 256-bit, AXRX 580 8GBD5-3DHG/OC;0;0
+939;Placa de Video Gigabyte GeForce GTX 1050 3GB GDDR5 96-bit, GV-N1050D5-3GD;0;0
+940;Placa de Video XFX Radeon R7 240 2GB DDR3 128-bit, R7-240A-2TS4;0;0
+941;Placa de Video Galax GeForce GTX 1060 6GB GDDR5 OC BOY V20 192-bit, 60NRH7DSR4BY;0;0
+942;Placa de Video Gigabyte GeForce GTX 1050 3GB GDDR5 WindForce OC 96-bit, GV-N1050OC-3GD;0;0
+943;Placa de Video Sapphire Radeon RX 560 4GB GDDR5 Pulse 128-bit, 11267-18-20G;0;0
+944;Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL;0;0
+945;Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 Blower 256-bit, ZT-T20800A-10P;0;0
+946;Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 Triple Fan 352-bit, ZT-T20810F-10P;0;0
+947;Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! 256-bit, ZT-T20800D-10P;0;0
+948;Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 AMP! 352-bit, ZT-T20810D-10P;0;0
+949;Placa de Video MSI GeForce GT 1030 Low Profile OC, 2GB, DDR4, 64-bit, 912-V809-4065;0;0
+950;Placa de Video Sapphire Radeon RX 580 4GB GDDR5 Nitro+ 256-bit, 11265-31-20G;0;0
+951;Placa de Vídeo Gigabyte GeForce RTX 2080 Ti GAMING OC 11G, GV-N208TGAMINGOC-11GC;0;0
+952;Placa de Video Gigabyte GeForce RTX 2080 Ti Windforce OC 11GB 352-bit, GV-N208TWF3OC-11GC;0;0
+953;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 OC 256-bit, GV-N2080GAMING OC-8GC;0;0
+954;Placa de Video MSI Radeon RX 580 ARMOR MK2 8G OC, 912-V341-253;0;0
+955;Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 WindForce OC 256-bit, GV-N2080WF3OC-8GC;0;0
+956;Placa de Video PNY GeForce GT 710 2GB GDDR3 64-bit, VCGGT7102XPB-BB;0;0
+957;Placa de Video Galax GeForce GT 1030 2GB SDDR4 EX White 64-bit, 30NPK4HVS6XW;0;0
+958;Placa de Video Asus GeForce GTX 1060 OC 6GB GDDR5 192-bit, EX-GTX1060-O6G;0;0
+959;Placa de Video PNY GeForce GTX 1060 3GB GDDR5 OC XLR8 192-bit, VCGGTX10603XGPB-OC-BB;0;0
+960;Placa de Vídeo MSI GeForce GTX 1050 2G OC GDDR5 128-bit, 912-V809-2287;0;0
+961;Placa de Video Asus GeForce GTX 1070 Ti 8GB GDDR5 256-bit, CERBERUS-GTX1070TI-A8G;0;0
+962;Placa de Video Asus GeForce GTX 1050 Ti 4G GDDR5 128-bit, CERBERUS-GTX1050TI-A4G;0;0
+963;Placa de Video Asus GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, CERBERUS-GTX1050TI-O4G;0;0
+964;Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 WindForce 256-bit, GV-N107TWF2-8GD;0;0
+965;Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 4GBD5-DHA;0;0
+966;Placa de Video PNY GeForce GTX 1060 6GB GDDR5 OC XLR8 192-bit, VCGGTX10606XGPB-OC2;0;0
+967;Placa de Video Galax GeForce GT 1030 2GB SDDR4 64-bit, 30NPK4HVQ4BG;0;0
+968;Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 256-bit, GV-N107TGAMING-8GD;0;0
+969;Placa de Video Asus Radeon RX 580 8GB GDDR5 TOP Edition 256-bit, ROG-STRIX-RX580-T8G-GAMING;0;0
+970;Placa de Video PowerColor Radeon RX 560 4GB GDDR5 Red Dragon 256-bit, AXRX 560 4GBD5-DHA;0;0
+971;Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 Aorus Xtreme 192-bit, GV-N1060AORUS X-6GD;0;0
+972;Placa de Video PNY Quadro P620 2G GDDR5 128-bits, VCQP620-PB;0;0
+973;Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 FTW Ultra Silent 256-bit, 08G-P4-6678-KR;0;0
+974;Placa de Video Galax GeForce GTX 1070 Ti 8GB GDDR5 EX 256-bit, 70ISH6DHM9XE;0;0
+975;Placa de Video Gigabyte GeForce GT 710 2GB DDR5 64-bit, GV-N710D5-2GL;0;0
+976;Placa De Vídeo MSI Geforce GTX 1070 Ti Gaming 8G 256 Bits;0;0
+977;Placa De Video MSI GeForce GTX 1070 Ti Duke 8G 256 Bits;0;0
+978;Placa de Video Asus GeForce GTX 1060 DUAL 6GB GDDR5 192-bit, DUAL-GTX1060-6G;0;0
+979;Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X FTW3 iCX 352-bit, 11G-P4-6696-KR;0;0
+980;Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 Aorus 256-bit, GV-N107TAORUS-8GD;0;0
+981;Placa de Video Asus GeForce GTX 1060 3GB GDDR5 192-bit, PH-GTX1060-3G;0;0
+982;Placa de Video Gigabyte Radeon RX 560 4GB GDDR5 OC 128-bit, GV-RX560OC-4GD;0;0
+983;Placa de Video Gigabyte GeForce GT 710 2GB GDDR5 Low profile 64-bit, GV-N710D5SL-2GL;0;0
+984;Placa de Video PNY GeForce GTX 1070 Ti 8GB GDDR5 Blower 256-bit, VCGGTX1070T8PB;0;0
+985;Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X Mini 352-bit, ZT-P10810G-10P;0;0
+986;Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 256-bit, 8G-P4-5670-KR;0;0
+987;Placa de Video EVGA GeForce GT 710 2GB DDR3 64-bit, 02G-P3-2712-KR;0;0
+988;Placa de Video PowerColor Radeon RX 580 4GB GDDR5 Red Dragon 256-bit, AXRX 580 4GBD5-3DHDV2/OC;0;0
+989;Placa de Video Gigabyte GeForce GT 730 2GB DDR3 128-bit, GV-N730-2GI;0;0
+990;Placa de Video MSI GT 710 2GB 64Bit GDDR5, GT 710 2GD5 LP;0;0
+991;Placa de Video MSI GT 710 1GB 32Bit GDDR5, GT 710 1GD5 LP;0;0
+992;Placa de Video MSI GT 730 4GB 128Bit DDR3, N730-4GD3V2;0;0
+993;Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X EXOC White 352-bit, 80IUJBMDQ0EW;0;0
+994;Placa de Video XFX Radeon RX 550 2GB GDDR5 128-bit, RX-550P2SFG5;0;0
+995;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC 256-bit, 08G-P4-5186-KR;0;0
+996;Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 FTW 128-bit, 04G-P4-6258-RX;0;0
+997;Placa de Video EVGA GeForce GT 730 2GB GDDR5 Low Profile 64-bit, 02G-P3-3732-KR;0;0
+998;Placa de Video EVGA GeForce GT 730 2GB GDDR5 Low Profile 64-bit, 02G-P3-3733-KR;0;0
+999;Placa de Video Zotac GeForce GT 710 2GB GDDR5 Zone 64-bit, ZT-71307-20L;0;0
+1000;Placa de Video Zotac GeForce GTX 1070 Ti 8GB GDDR5 AMP! 256-bit, ZT-P10710C-10P;0;0
+1001;Placa de Video Zotac GeForce GTX 1070 Ti 8GB GDDR5 AMP! Extreme 256-bit, ZT-P10710B-10P;0;0
+1002;Placa de Video Zotac GeForce GTX 1070 Ti 8GB GDDR5 Mini 256-bit, ZT-P10710G-10P;0;0
+1003;Placa De Video MSI Geforce GT 710 1GB GDDR3 Low Profile 64-bit, 912-V809-3000;0;0
+1004;Placa De Video MSI Geforce GT 730 2GB DDR3 128Bit, N730-2GD3V3;0;0
+1005;Placa de Video XFX Radeon R5 230 2GB DDR3 Low Profile 64-bit, R5-230A-CLF2;0;0
+1006;Placa de Video MSI GeForce GTX 1050 AERO ITX 2G OC GDDR5 128-bit, 912-V809-2455;0;0
+1007;Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 128-bit, RX560-O4G-EVO;0;0
+1008;Placa de Vídeo MSI Geforce GTX 1080 Ti Gaming X Trio 11G GDDR5X 352Bit;0;0
+1009;Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus Xtreme Edition WF 352-bit, GV-N108TAORUSX W-11GD;0;0
+1010;Placa de Video Asus GeForce GT 1030 2GB GDDR5 64-bit, GT1030-SL-2G-BRK;0;0
+1011;Placa De Video Galax Geforce GT 710 1GB GDDR3 64-bit, 71GGH4HXJ4FN;0;0
+1012;Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 ROG Strix 128-bit, ROG-STRIX-RX560-O4G-EVO-GAMING;0;0
+1013;Placa de Vídeo MSI GEFORCE GTX 1070 TI TITANIUM 8G GDDR5 256bit;0;0
+1014;Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus Xtreme Edition WF 352-bit, GV-N108TAORUSX WB-11GD;0;0
+1015;Placa de Video Galax GeForce GTX 1070 8GB GDDR5 Katana 256-bit, 70NSH6DS2HRZ;0;0
+1016;Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 WindForce OC 256-bit, GV-N107TGAMING OC-8GD;0;0
+1017;Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 FTW2 iCX 256-bit, 08G-P4-6775-KR;0;0
+1018;Placa de Video Galax GeForce GTX 1070 Ti 8GB GDDR5 EX-Sniper White 256-bit, 70ISH6DHN1WS;0;0
+1019;Placa de Video Asus GeForce GTX 1070 Ti 8GB GDDR5 ROG Strix Advanced 256-bit, ROG-STRIX-GTX1070TI-A8G-GAMING;0;0
+1020;Placa de Video Asus GeForce GTX 1070 Ti 8GB GDDR5 ROG Strix 256-bit, ROG-STRIX-GTX1070TI-8G-GAMING;0;0
+1021;Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X ArcticStorm 352-bit, ZT-P10810E-30P;0;0
+1022;Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 SC Black Edition 256-bit, 08G-P4-5671-KR;0;0
+1023;Placa de Video XFX Radeon RX 550 4GB GDDR5 128-bit, RX-550P4SFG5;0;0
+1024;Placa de Video XFX Radeon R7 250E 1GB DDR5 128-bit, R7-250E-ZNJ4;0;0
+1025;Placa de Video PNY GT 730 2GB DDR3 Low Profile 64-bit, VCGGT7302D36LXPB-BB;0;0
+1026;Placa de Video PNY GT 730 1GB DDR3 Low Profile 64-bit, VCGGT7301D3LXPB-BB;0;0
+1027;Placa de Video Gigabyte GeForce GT 730 2GB DDR3 64-bit, GV-N730SL-2GL;0;0
+1028;Placa de Video EVGA GeForce GT 640 1GB GDDR5 SC 64-bit, 01G-P3-2642-KR;0;0
+1029;Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X AMP! Extreme 352-bit, ZT-P10810F-10P;0;0
+1030;Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 Aorus OC 192-bit, GV-N1060AORUS-6GD;0;0
+1031;Placa de Video XFX Radeon RX VEGA 64 8GB HBM2 2048-bit, RX-VEGMTSFX6;0;0
+1032;Placa de Video XFX Radeon RX VEGA 64 8GB HBM2 2048-bit, RX-VEGMTBFX6;0;0
+1033;Placa de Video XFX Radeon RX VEGA 56 8GB HBM2 2048-bit, RX-VEGMLBFX6;0;0
+1034;Placa de Video MSI Geforce GTX 1080Ti Gaming X 11GB GDDR5X, 912-V360-001;0;0
+1035;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW2 iCX 256-bit, 08G-P4-6676-KR;0;0
+1036;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 SC2 iCX 256-bit, 08G-P4-6573-KR;0;0
+1037;Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Devil 256-bit, AXRX 580 8GBD5-3DH/OC;0;0
+1038;Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 AMP! 256-bit, ZT-P10700N-10P;0;0
+1039;Placa de Video PowerColor Radeon R5 230 2GB DDR3 64-bit, AXR5 230 2GBK3-HE;0;0
+1040;Placa de Video Galax GeForce GT 710 2GB DDR3 64-bit, 71GPH4HXJ4FN;0;0
+1041;Placa de Video Asus Radeon RX 570 4GB OC GDDR5 Expedition 256-bit, EX-RX570-O4G;0;0
+1042;Placa de Video Sapphire Radeon RX VEGA 56 8GB HBM2 2048-bit, 21276-00-20G;0;0
+1043;Placa de Video MSI Radeon RX VEGA 64 8G HBM2;0;0
+1044;Placa de Video Galax GeForce GT 730 2GB GDDR5 64-bit, 73GPH4HXB2TV;0;0
+1045;Placa de Video MSI Radeon RX 560 AERO ITX 4G OC GDDR5 128bit;0;0
+1046;Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X FTW3 DT iCX 352-bit, 11G-P4-6694-KR;0;0
+1047;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X iCX 256-bit, 08G-P4-6581-KR;0;0
+1048;Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF Watercooled 352-bit, 80IUJBDHQ8HO;0;0
+1049;Placa de Video MSI GeForce GT 610 2GB DDR3, N610-2GD3/LP;0;0
+1050;Placa de Video PowerColor Radeon RX 560 4GB GDDR5 Red Dragon 128-bit, AXRX 560 4GBD5-DHAM;0;0
+1051;Placa de Video Sapphire Radeon RX VEGA 64 8GB HBM2 2048-bit, 21275-02-20G;0;0
+1052;Placa de Video Sapphire Radeon R5 230 1GB DDR3 64-bit, 11233-01-20G;0;0
+1053;Placa de Video Asus Dual GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, DUAL-GTX1050TI-O4G-V2;0;0
+1054;Placa de Video XFX Radeon RX 560D 4GB GDDR5 128-bit, RX-560D4SFG5;0;0
+1055;Placa de Video XFX Radeon RX 560D 2GB GDDR5 128-bit, RX-560D2SFG5;0;0
+1056;Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Nitro+ 256-bit, 11265-21-20G;0;0
+1057;Placa de Video Zotac GeForce GTX 1050 Ti 4GB GDDR5 Low Profile 128-bit, ZT-P10510E-10L;0;0
+1058;Placa De Vídeo MSI RADEON RX 580 GAMING X 4G GDDR5 256 Bits;0;0
+1059;Placa de Vídeo MSI Geforce GTX 1080 Ti Lightning Z 11GB GDDR5 352Bit;0;0
+1060;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW2 DT iCX 256-bit, 08G-P4-6674-KR;0;0
+1061;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW2 iCX 192-bit, 06G-P4-6768-KR;0;0
+1062;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW2 DT iCX 256-bit, 08G-P4-6684-KR;0;0
+1063;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW2 DT iCX 192-bit, 06G-P4-6766-KR;0;0
+1064;Placa De Vídeo MSI RADEON RX 550 AERO ITX 2G OC GDDR5 128 Bits, RX 550 AERO ITX 2G OC;0;0
+1065;Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 FTW DT 128-bit, 04G-P4-6256-KR;0;0
+1066;Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 128-bit, RX560-O4G;0;0
+1067;Placa de Vídeo MSI Geforce GTX 1080 Ti Armor OC 11GB GDDR5X 352Bit, 912-V360-010;0;0
+1068;Placa de Video Asus Radeon RX 560 4GB GDDR5 ROG Strix 128-bit, ROG-STRIX-RX560-4G-GAMING;0;0
+1069;Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 2GBD5-DHV2/OC;0;0
+1070;Placa de Video PowerColor Radeon RX 560 2GB GDDR5 Red Dragon 128-bit, AXRX 560 2GBD5-DHV3/OC;0;0
+1071;Placa de Video PowerColor Radeon RX 560 4GB GDDR5 Red Dragon 128-bit, AXRX 560 4GBD5-DHV2/OC;0;0
+1072;Placa de Video Asus GeForce GTX 1080 Ti 11GB GDDR5X ROG Poseidon 352-bit, ROG-POSEIDON-GTX1080TI-P11G-GAMING;0;0
+1073;Placa de Video PNY GeForce GTX 1080 Ti 11GB GDDR5X Blower 352-bit, VCGGTX1080T11PB-CG2;0;0
+1074;Placa de Video EVGA GeForce GT 1030 2GB GDDR5 Low Profile 64-bit, 02G-P4-6332-KR;0;0
+1075;Placa de Video EVGA GeForce GT 1030 2GB GDDR5 SC 64-bit, 02G-P4-6333-KR;0;0
+1076;Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Dragon 256-bit, AXRX 580 8GBD5-3DHDV2/OC;0;0
+1077;Placa de Video Asus Radeon RX 580 OC 8GB GDDR5 ROG Strix 256-bit, ROG-STRIX-RX580-O8G-GAMING;0;0
+1078;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X WindForce 256-bit, GV-N1080D5X-8GD;0;0
+1079;Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Turbo 352-bit, GV-N108TTURBO-11GD;0;0
+1080;Placa de Video Gigabyte GeForce GT 1030 2GB GDDR5 Silent Low Profile 64-bit, GV-N1030SL-2GL;0;0
+1081;Placa de Video Asus Dual Radeon RX 580 OC 4GB GDDR5 256-bit, DUAL-RX580-O4G;0;0
+1082;Placa de Video Asus Dual Radeon RX 580 OC 8GB GDDR5 256-bit, DUAL-RX580-O8G;0;0
+1083;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW2 iCX 256-bit, 08G-P4-6686-KR;0;0
+1084;Placa de Video Sapphire Radeon RX 560 4GB GDDR5 Pulse 128-bit, 11267-00-20G;0;0
+1085;Placa de Video Galax GeForce GTX 1050 2GB GDDR5 OC Low Profile 128-bit, 50NPH8DSP2MN;0;0
+1086;Placa de Video Asus Radeon RX 560 OC 2GB GDDR5 128-bit, RX560-O2G;0;0
+1087;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC2 iCX 256-bit, 08G-P4-6583-KR;0;0
+1088;Placa de Video Sapphire Radeon RX 560 2GB GDDR5 Pulse 128-bit, 11267-02-20G;0;0
+1089;Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 ROG Strix 128-bit, ROG-STRIX-RX560-O4G-GAMING;0;0
+1090;Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 WindForce 192-bit, GV-N1060D5-6GD;0;0
+1091;Placa de Video PNY GeForce GTX 1080 Ti 11GB GDDR5X OC XLR8 352-bit, VCGGTX1080T11XGPB-OC;0;0
+1092;Placa de Video Zotac GeForce GTX 1060 6GB GDDR5 AMP! 192-bit, ZT-P10600G-10M;0;0
+1093;Placa de Video Zotac GeForce GTX 1080 11GB GDDR5X AMP Extreme 256-bit, ZT-P10800I-10P;0;0
+1094;Placa de Video MSI GeForce GT 1030 AERO ITX 2G OC GDDR5 64-bit;0;0
+1095;Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF Limited Edition 352-bit, 80IUJBDHQ7LH;0;0
+1096;Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF 352-bit, 80IUJBDHQ7FZ;0;0
+1097;Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF 352-bit, 80IUJBDHQ7JY;0;0
+1098;Placa de Vídeo Asus ROG Strix Geforce GTX 1080 Ti OC 11GB GDDR5X, ROG-STRIX-GTX1080TI-O11G-GAMING;0;0
+1099;Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X SC2 iCX 352-bit, 11G-P4-6593-KR;0;0
+1100;Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X Black Edition SC iCX 352-bit, 11G-P4-6393-KR;0;0
+1101;Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X Black Edition iCX 352-bit, 11G-P4-6391-KR;0;0
+1102;Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X iCX 352-bit, 11G-P4-6591-KR;0;0
+1103;Placa de Video Gigabyte Radeon RX 560 4GB GDDR5 OC 128-bit, GV-RX560GAMINGOC-4GD;0;0
+1104;Placa de Video Gigabyte Radeon RX 560 2GB GDDR5 OC 128-bit, GV-RX560GAMINGOC-2GD;0;0
+1105;Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 OC Low Profile 128-bit, 50IQH8DSP2MN;0;0
+1106;Placa de Video PNY GeForce GTX 1080 Ti 11GB GDDR5X Founders Edition 352-bit, VCGGTX1080T11PB-FE;0;0
+1107;Placa de Video Zotac GeForce GT 1030 2GB GDDR5 Low Profile 64-bit, ZT-P10300A-10L;0;0
+1108;Placa de Video PNY Quadro P4000 8GB GDDR5 256-bit, VCQP4000-PB;0;0
+1109;Placa de Video Gigabyte Radeon RX 580 XTR 8GB GDDR5 Aorus 256-bit, GV-RX580XTRAORUS-8GD;0;0
+1110;Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus Xtreme Edition 352-bit, GV-N108TAORUS X-11GD;0;0
+1111;Placa de Video PNY Quadro P4000 8GB GDDR5 256-bit, VCQP4000-PORPB;0;0
+1112;Placa de Video PNY Quadro P2000 5GB GDDR5 160-bit, VCQP2000-PORPB;0;0
+1113;Placa de Video PNY Quadro P400 2GB GDDR5 64-bit, VCQP400-PORPB;0;0
+1114;Placa de Vídeo MSI GEFORCE GTX 1060 IGAMER 6G OC 192Bits GDDR5;0;0
+1115;Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Nitro+ 256-bit, 11265-01-20G;0;0
+1116;Placa de Video Sapphire Radeon RX 580 4GB GDDR5 Pulse 256-bit, 11265-09-20G;0;0
+1117;Placa de Video Sapphire Radeon RX 550 4GB GDDR5 Pulse 128-bit, 11268-01-20G;0;0
+1118;Placa de Video Sapphire Radeon RX 550 2GB GDDR5 Pulse 128-bit, 11268-03-20G;0;0
+1119;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 Aorus 256-bit, GV-N1070AORUS-8GD;0;0
+1120;Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X EXOC 352-bit, 80IUJBMDP0EC;0;0
+1121;Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X Blower 352-bit, ZT-P10810B-10P;0;0
+1122;Placa de Video Gigabyte Radeon RX 550 2GB GDDR5 128-bit, GV-RX550D5-2GD;0;0
+1123;Placa de Video Gigabyte Radeon RX 580 8GB GDDR5 Aorus 256-bit, GV-RX580AORUS-8GD;0;0
+1124;Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X AMP! 352-bit, ZT-P10810D-10P;0;0
+1125;Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X AMP! Extreme 352-bit, ZT-P10810C-10P;0;0
+1126;Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Pulse 256-bit, 11266-04-20G;0;0
+1127;Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Nitro+ 256-bit,11266-14-20G;0;0
+1128;Placa de Video Sapphire Radeon RX 580 4GB GDDR5 Nitro+ 256-bit, 11265-07-20G;0;0
+1129;Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Nitro+ 256-bit, 11265-00-40G;0;0
+1130;Placa De Vídeo MSI Geforce GTX 1080 Ti Aero 11G GDDR5 352 Bits, Geforce GTX 1080 TI AERO 11G OC;0;0
+1131;Placa de Video PowerColor Radeon RX 570 4GB GDDR5 Red Devil 256-bit, AXRX 570 4GBD5-3DH/OC;0;0
+1132;Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Dragon 256-bit, AXRX 570 8GBD5-3DHD/OC;0;0
+1133;Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 2GBD5-DH/OC;0;0
+1134;Placa De Vídeo MSI RADEON RX 580 ARMOR 4G OC GDDR5 256 Bits, RX 580 ARMOR 4G OC;0;0
+1135;Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Pulse ITX 256-bit, 11266-06-20G;0;0
+1136;Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Pulse 256-bit, 11265-05-20G;0;0
+1137;Placa De Vídeo MSI RADEON RX 580 GAMING X 8G GDDR5 256 Bits, RX 580 GAMING X 8G;0;0
+1138;Placa De Vídeo MSI RADEON RX 570 GAMING X 4G GDDR5 256 Bits, RX 570 GAMING X 4G;0;0
+1139;Placa de Video MSI Radeon RX 580 8GB Armor OC 256-bit, 912-V341-284;0;0
+1140;Placa de Video MSI Radeon RX 570 4GB GDDR5 Armor OC 256-bit, 912-V341-297;0;0
+1141;Placa de Video XFX Radeon RX 550 2GB GDDR5 128-bit, RX-550P2TFG5;0;0
+1142;Placa de Video Asus Radeon RX 550 2GB GDDR5 128-bit, RX550-2G;0;0
+1143;Placa de Video Asus Radeon RX 550 4GB GDDR5 128-bit, RX550-4G;0;0
+1144;Placa de Video Asus Dual GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, DUAL-GTX1050TI-O4G;0;0
+1145;Placa de Video Asus Radeon RX 570 OC 4GB GDDR5 ROG Strix 256-bit, ROG-STRIX-RX570-O4G-GAMING;0;0
+1146;Placa de Video XFX Radeon RX 580 8GB GDDR5 GTS XXX OC+ 256-bit, RX-580P8DFD6;0;0
+1147;Placa de Video XFX Radeon RX 580 8GB GDDR5 OC+ 256-bit, RX-580P8DBD6;0;0
+1148;Placa de Video XFX Radeon RX 580 4GB GDDR5 OC GTS XXX 256-bit, RX-580P4DFD6;0;0
+1149;Placa de Video XFX Radeon RX 570 4GB GDDR5 RS Black Edition 256-bit, RX-570P4DBD6;0;0
+1150;Placa de Video Gigabyte Radeon RX 580 4GB GDDR5 Aorus 256-bit, GV-RX580AORUS-4GD;0;0
+1151;Placa de Video Gigabyte Radeon RX 580 4GB GDDR5 WindForce 256-bit, GV-RX580GAMING-4GD;0;0
+1152;Placa de Video PNY Quadro P600 2GB GDDR5 128-bit, VCQP600-PORPB;0;0
+1153;Placa de Video PNY Quadro P1000 4GB GDDR5 128-bit, VCQP1000-PORPB;0;0
+1154;Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X OC 352-bit, GV-N108TGAMINGOC-11GD;0;0
+1155;Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus 352-bit, GV-N108TAORUS-11GD;0;0
+1156;Placa de Video Gigabyte Radeon RX 570 4GB GDDR5 Aorus 256-bit, GV-RX570AORUS-4GD;0;0
+1157;Placa de Video Gigabyte Radeon RX 550 2GB GDDR5 WindForce OC 128-bit, GV-RX550GAMING OC-2GD;0;0
+1158;Placa de Video Gigabyte Radeon RX 570 4GB GDDR5 WindForce 256-bit, GV-RX570GAMING-4GD;0;0
+1159;Placa de Video Gigabyte Radeon RX 580 8GB GDDR5 WindForce 256-bit, GV-RX580GAMING-8GD;0;0
+1160;Placa de Video Asus GeForce GTX 1050 Ti OC 4GB GDDR5 ROG Strix 128-bit, STRIX-GTX1050TI-O4G-GAMING;0;0
+1161;Placa de Vídeo MSI GTX 1050 TI GAMING X 4G GDDR5 128Bit;0;0
+1162;Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 FTW+ DT 192-bit, 03G-P4-6166-KR;0;0
+1163;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 192-bit, 06G-P4-5161-KR;0;0
+1164;Placa de Video Sapphire Radeon RX 480 8GB GDDR5 Nitro+ OC 256-bit, 11260-20-20G;0;0
+1165;Placa de Vídeo MSI GeForce GTX 1050 Ti 4G OC GDDR5 128Bit, Geforce-GTX-1050Ti-4G-OC;0;0
+1166;Placa de Vídeo MSI Geforce GTX 1080 Ti Founders Edition 11GB GDDR5X 352Bit;0;0
+1167;Placa de Video EVGA GeForce GTX 1080 11GB GDDR5X Ti Founders Edition 352-bit, 11G-P4-6390-KR;0;0
+1168;Placa de Video Galax GeForce GTX 1070 8GB GDDR5 HOF 256-bit, 70NSH6DHL2SH;0;0
+1169;Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X Mini 256-bit, ZT-P10800H-10P;0;0
+1170;Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 FTW DT 128-bit, 02G-P4-6155-KR;0;0
+1171;Placa de Video Sapphire Radeon RX 460 2GB GDDR5 OC 128-bit, 11257-10-20G;0;0
+1172;Placa de Video Sapphire Radeon RX 460 4GB GDDR5 Nitro 128-bit, 11257-06-20G;0;0
+1173;Placa de Video Sapphire Radeon RX 480 4GB GDDR5 Nitro OC 256-bit, 11260-13-20G;0;0
+1174;Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Founders Edition 352-bit, GV-N108TD5X-B;0;0
+1175;Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X Founders Edition 352-bit, ZT-P10810A-10P;0;0
+1176;Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EXOC Sniper Black 256-bit, 70NSH6DHM9ES;0;0
+1177;Placa de Vídeo Galax Geforce GTX 1070 OC Mini 8GB GDDR5 256-Bit, 70NSH6DVO5MN;0;0
+1178;Placa de Video Galax GeForce GTX 1060 3GB GDDR5 EXOC White 192-bit, 60NNH7DVM3NW;0;0
+1179;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW Hybrid 256-bit, 08G-P4-6288-KR;0;0
+1180;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X Classfield 256-bit, 08G-P4-6386-KR;0;0
+1181;Placa de Vídeo MSI GeForce GTX 1050 Ti 4GT Low Profile GDDR5 128-bit;0;0
+1182;Placa de Video PNY Quadro M4000 8GB GDDR5 256-bit, VCQM4000-PORPB;0;0
+1183;Placa de Video MSI GeForce GTX 1050 GAMING X 2G 128-bit GDDR5;0;0
+1184;Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 FTW 192-bit, 03G-P4-6168-KR;0;0
+1185;Placa de Vídeo MSI RADEON RX 480 ARMOR 8G OC GDDR5 256Bit;0;0
+1186;Placa de Vídeo MSI GeForce GTX 1060 6GT OCV1 GDDR5 192Bit;0;0
+1187;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 WindForce 256-bit, GV-N1070WF2-8GD;0;0
+1188;Placa de Video Gigabyte GeForce GTX 1050 2GB GDDR5 G1 Gaming 128-bit, GV-N1050G1 GAMING-2GD;0;0
+1189;Placa de Video Gigabyte GeForce GTX 1050 2GB GDRD5 OC Low Profile 128-bit, GV-N1050OC-2GL;0;0
+1190;Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 OC Low Profile 128-bit, GV-N105TOC-4GL;0;0
+1191;Placa de Video Asus GeForce GTX 1050 DUAL OC 2GB GDDR5 128-bit, DUAL-GTX1050-O2G;0;0
+1192;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW+ DT 192-bit, 06G-P4-6266-KR;0;0
+1193;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW 192-bit, 06G-P4-6268-KR;0;0
+1194;Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 SSC 192-bit, 03G-P4-6167-KR;0;0
+1195;Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 FTW 128-bit, 02G-P4-6157-KR;0;0
+1196;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X G1 ROCK Edition 256-bit, GV-N1080G1 ROCK-8GD;0;0
+1197;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR6 Xtreme Gaming 256-bit, GV-N1070XTREME-8GD;0;0
+1198;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 G1 ROCK Edition 256-bit, GV-N1070G1 ROCK-8GD;0;0
+1199;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Xtreme WaterForce 256-bit, GV-N1080XTREME WB-8GD;0;0
+1200;Placa de Video Asus Radeon RX 480 DUAL OC 4GB GDDR5 256-bit, DUAL-RX480-O4G;0;0
+1201;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SSC 192-bit, 06G-P4-6267-KR;0;0
+1202;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SSC 192-bit, 06G-P4-6264-KR;0;0
+1203;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Turbo OC 256-bit, GV-N1080TTOC-8GD;0;0
+1204;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X WindForce OC 256-bit, GV-N1080WF3OC-8GD;0;0
+1205;Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 SSC 128-bit, 04G-P4-6255-KR;0;0
+1206;Placa de Video Zogis GeForce GTX 1060 6GB GDDR5 192-bit, ZO1060-6GD5H;0;0
+1207;Placa de Video Zogis GeForce GTX 1050 Ti 4GB GDDR5 128-bit, ZO1050Ti-4GD5H;0;0
+1208;Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 FTW 128-bit, 04G-P4-6258-KR;0;0
+1209;Placa de Video PNY GeForce GTX 1050 2GB GDDR5 128-bit, VCGGTX10502PB;0;0
+1210;Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 WindForce OC 192-bit, GV-N1060WF2OC-6GD;0;0
+1211;Placa de Video Gigabyte GeForce GTX 1060 3GB GDDR5 G1 Gaming WindForce 192-bit, GV-N1060WF2OC-3GD;0;0
+1212;Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 WindForce OC 128-bit, GV-N105TWF2OC-4GD;0;0
+1213;Placa de Video PowerColor Radeon RX 480 4GB GDDR5 Red Dragon 256-bit, AXRX 480 4GBD5-3DHDV2;0;0
+1214;Placa de Video Asus GeForce GTX 1050 Ti 4GB GDDR5 128-bit, PH-GTX1050TI-4G;0;0
+1215;Placa de Video Asus GeForce GTX 1050 2GB GDDR5 128-bit, PH-GTX1050-2G;0;0
+1216;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 Black Edition 256-bit, 08G-P4-5171-KR;0;0
+1217;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X 256-bit, 08G-P4-5180-KR;0;0
+1218;Placa de Video Galax GeForce GTX 1050 2GB GDDR5 EXOC 128-bit, 50NPH8DVN6EC;0;0
+1219;Placa de Video PowerColor Radeon HD 5450 2GB GDDR3 128-bit, AX5450 2GBK3-SHV7E;0;0
+1220;Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 EXOC 128-bit, 50IQH8DVN6EC;0;0
+1221;Placa de Video Galax GeForce GTX 1050 2GB GDDR5 OC 128-bit, 50NPH8DSN8OC;0;0
+1222;Placa de Video PNY GeForce GT 610 2GB 64-bit, VCGGT6102XPB;0;0
+1223;Placa de Video Zogis GeForce GT 210 1GB DDR2 64-bit, ZO210-1GD2LP;0;0
+1224;Placa de Video PowerColor Radeon RX 470 4GB GDDR5 Devil 256-bit, AXRX 470 4GBD5-3DH/OC;0;0
+1225;Placa de Video Galax GeForce GTX 1080 8GB GDDR5X EXOC Sniper 256-bit, 80NSJ6DHM9ES;0;0
+1226;Placa de Vídeo MSI RADEON RX 470 ARMOR 4G OC GDDR5 256Bit;0;0
+1227;Placa de Vídeo MSI GeForce GTX 1050 2GT OC GDDR5 128Bit;0;0
+1228;Placa de Vídeo MSI GeForce GTX 1050 Ti 4GT OC GDDR5 128Bit;0;0
+1229;Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2NL5;0;0
+1230;Placa de Video Gigabyte GeForce GTX 1050 2GB GDDR5 OC 128-bit, GV-N1050OC-2GD;0;0
+1231;Placa de Video PNY GeForce GTX 1060 6GB GDDR5 OC XLR8 192-bit, VCGGTX10606XGPB-OC;0;0
+1232;Placa de Video PNY GeForce GTX 1050 Ti 4GB GDDR5 128-bit, VCGGTX1050T4PB;0;0
+1233;Placa de Video PNY GeForce GTX 1050 Ti 4GB GDDR5 OC XLR8 128-bit, VCGGTX1050T4XGPB-OC;0;0
+1234;Placa de Video Sapphire Radeon RX 480 8GB GDDR5 Nitro+ 256-bit, 11260-07-20G;0;0
+1235;Placa de Video PowerColor Radeon RX 460 4GB GDDR5 Red Dragon 128-bit, AXRX 460 4GBD5-DHV2/OC;0;0
+1236;Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 128-bit, 04G-P4-6251-KR;0;0
+1237;Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 SSC 128-bit, 02G-P4-6154-KR;0;0
+1238;Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 SC 128-bit, 02G-P4-6152-KR;0;0
+1239;Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 128-bit, 02G-P4-6150-KR;0;0
+1240;Placa de Video Gigabyte GeForce GTX 1050 D5 2GB GDDR5 128-bit, GV-N1050D5-2GD;0;0
+1241;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 256-bit, 08G-P4-5170-KR;0;0
+1242;Placa de Video Gigabyte GeForce GTX 1050 2GB GDDR5 WindForce OC 128-bit, GV-N1050WF2OC-2GD;0;0
+1243;Placa de Video PowerColor Radeon RX 470 4GB GDDR5 Red Dragon 256-bit, AXRX 470 4GBD5-3DHDV2/OC;0;0
+1244;Placa de Video PowerColor Radeon RX 480 8GB GDDR5 Red Dragon 256-bit, AXRX 480 8GBD5-3DHD;0;0
+1245;Placa de Video Asus GeForce GTX 1050 DUAL 2GB GDDR5 128-bit, DUAL-GTX1050-2G;0;0
+1246;Placa de Video Asus GeForce GTX 1050 Ti DUAL 4GB GDDR5 128Bit, DUAL-GTX1050TI-4G;0;0
+1247;Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 G1 Gaming OC 128-bit, GV-N105TG1 GAMING-4GD;0;0
+1248;Placa de Video PCYES! Radeon RX 470 4GB GDDR5 128-bit, PRX47025604D5;0;0
+1249;Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 OC 128-bit, 50IQH8DSN8OC;0;0
+1250;Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 OC 128-bit, GV-N105TOC-4GD;0;0
+1251;Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 128-bit, GV-N105TD5-4GD;0;0
+1252;Placa de Video XFX Radeon RX 480 RS 4GB GDDR5 256-bit, RX-480P4JFC6;0;0
+1253;Placa de Video XFX Radeon RX 480 RS 4GB GDDR5 256-bit, RX-480P4LFB6;0;0
+1254;Placa de Video PNY Quadro K420 2GB GDDR3 128-bit, VCQK420-2GB-PORPB;0;0
+1255;Placa de Video Zotac GeForce GTX 1050 2GB GDDR5 Mini 128-bit, ZT-P10500A-10L;0;0
+1256;Placa de Video Zotac GeForce GTX 1050 Ti 4GB GDDR5 OC 128-bit, ZT-P10510B-10L;0;0
+1257;Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EXOC Sniper White 256-bit, 70NSH6DHN1WS;0;0
+1258;Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 SC 128-bit, 04G-P4-6253-KR;0;0
+1259;Placa de Video Gigabyte GeForce GTX 1060 3GB GDDR5 G1 Gaming 192-bit, GV-N1060G1 GAMING-3GD;0;0
+1260;Placa de Video Asus Radeon RX 480 OC 8GB GDDR5 ROG Strix 256-bit, STRIX-RX480-O8G-GAMING;0;0
+1261;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 Mini ITX OC 256-bit, GV-N1070IXOC-8GD;0;0
+1262;Placa de Video Gigabyte GeForce GTX 1060 3GB GDDR5 Mini ITX OC 192-bit, GV-N1060IXOC-3GD;0;0
+1263;Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 Mini ITX OC 192-bit, GV-N1060IXOC-6GD;0;0
+1264;Placa de Video Gigabyte Radeon RX 480 8GB GDDR5 G1 Gaming OC 256-bit, GV-RX480G1-GAMING-8GD;0;0
+1265;Placa de Video Gigabyte Radeon RX 480 4GB GDDR5 G1 Gaming OC 256-bit, GV-RX480G1-GAMING-4GD;0;0
+1266;Placa de Video Gigabyte Radeon RX 470 4GB GDDR5 G1 Gaming OC 256-bit, GV-RX470G1-GAMING-4GD;0;0
+1267;Placa de Video Gigabyte Radeon RX 460 4GB GDDR5 WindForce OC 128-bit, GV-RX460WF2OC-4GD;0;0
+1268;Placa de Video Zotac GeForce GTX 1050 Ti 4GB GDDR5 128-bit, ZT-P10510A-10L;0;0
+1269;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SSC DT 192-bit, 06G-P4-6265-KR;0;0
+1270;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 192-bit, 06G-P4-6262-KR;0;0
+1271;Placa de Video PNY GeForce GTX 750 Ti 2GB GDDR5 XLR8 128-bit, VCGGTX750T2XPB-PORT;0;0
+1272;Placa de Video Galax GeForce GTX 1080 8GB GDDR5X EXOC Sniper White 256-bit, 80NSJ6DHN1WS;0;0
+1273;Placa de Video Asus GeForce GTX 1070 DUAL 8GB OC, DUAL-GTX1070-O8G;0;0
+1274;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 WindForce OC 256-bit, GV-N1070WF2OC-8GD;0;0
+1275;Placa de Vídeo MSI RADEON RX 480 ARMOR 4G OC GDDR5 256Bit;0;0
+1276;Placa de Video PNY GeForce GTX 1060 3GB GDDR5 192-bit, VCGGTX10603PB;0;0
+1277;Placa de Video Zotac GeForce GT 730 4GB DDR3 Synergy 128-bit, ZT-71109-10L;0;0
+1278;Placa de Video XFX Radeon RX 480 8GB GDDR5 GTR OC 256-bit, RX-480P8DFA6;0;0
+1279;Placa de Video XFX Radeon RX 460 4GB GDDR5 OC 128-bit, RX-460P4DFG5;0;0
+1280;Placa de Video XFX Radeon RX 480 8GB GDDR5 GTR OC Black Edt 256-bit, RX-480P8DBA6;0;0
+1281;Placa de Video XFX Radeon RX 480 RS 8GB GDDR5 OC 256-bit, RX-480P8LFB6;0;0
+1282;Placa de Video XFX Radeon RX 470 RS 4GB GDDR5 OC 256-bit, RX-470P4LFB6;0;0
+1283;Placa de Video XFX Radeon RX 460 4GB GDDR5 128-bit, RX-460P4SFG5;0;0
+1284;Placa de Video XFX Radeon RX 460 2GB GDDR5 OC 128-bit, RX-460P2DFG5;0;0
+1285;Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 Mini 256-bit, ZT-P10700G-10M;0;0
+1286;Placa de Video Galax GeForce GTX 1060 3GB GDDR5 EXOC 192-bit, 60NNH7DVM6O3;0;0
+1287;Placa de Video PNY Quadro K1200 4GB DDR5 128-bit, VCQK1200DVI-PORPB;0;0
+1288;Placa de Video PNY Quadro K600 1GB DDR3 128-bit, VCQK600-PORPB;0;0
+1289;Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 192-bit, 03G-P4-6160-KR;0;0
+1290;Placa de Video PNY GeForce GTX 1070 8GB GDDR5 OC XLR8 256-bit, VCGGTX10708XGPB-OC;0;0
+1291;Placa de Video PNY GeForce GTX 1080 8GB GDDR5X OC XLR8 256-bit, VCGGTX10808XGPB-OC;0;0
+1292;Placa de Vídeo MSI Geforce GTX 1070 8G Founders Edition GDDR5 256Bit;0;0
+1293;Placa de Vídeo MSI Geforce GTX 1080 ARMOR 8G GDDR5X 256Bit;0;0
+1294;Placa de Video Galax GeForce GTX 1060 3GB GDDR5 OC 192-bit, 60NNH7DSL9C3;0;0
+1295;Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EX 256-bit, 70NSH6DHL4XE;0;0
+1296;Placa de Video Galax GeForce GTX 1060 6GB GDDR5 EXOC White 192-bit, 60NRH7DVM3VW;0;0
+1297;Placa de Video Asus GeForce GTX 1060 6GB GDDR5 ROG Strix 192-bit, STRIX-GTX1060-6G-GAMING;0;0
+1298;Placa de Video Asus GeForce GTX 1080 8GB GDDR5X ROG Strix 256-bit, STRIX-GTX1080-A8G-GAMING;0;0
+1299;Placa de Video MSI GeForce GTX 1060 3G OCV1 GDDR5 192Bit;0;0
+1300;Placa de Vídeo MSI Geforce GTX 1060 ARMOR 6G OCV1 GDDR5 192Bit;0;0
+1301;Placa de Video MSI GeForce GTX 1060 3GT OC GDDR5 192Bit;0;0
+1302;Placa de Vídeo MSI Geforce GTX 1060 ARMOR 3G OCV1 GDDR5 192Bit;0;0
+1303;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC 256-bit, 08G-P4-5182-KR;0;0
+1304;Placa de Video XFX Radeon RX 460 2GB GDDR5 OC 128-bit, RX-460P2SFG5;0;0
+1305;Placa de Video Asus Radeon RX 480 8GB GDDR5 256-bit, RX480-8G;0;0
+1306;Placa de Video Asus Radeon RX 470 OC 4GB GDDR5 ROG Strix 256-bit, STRIX-RX470-O4G-GAMING;0;0
+1307;Placa de Video XFX Radeon RX 470 4GB GDDR5 OC 256-bit, RX-470P4SFD5;0;0
+1308;Placa de Video Asus GeForce GTX 1060 DUAL OC 3GB GDDR5 198-bit, DUAL-GTX1060-O3G;0;0
+1309;Placa de Video XFX Radeon RX 470 RS 4GB GDDR5 OC Black Edition 256-bit, RX-470P4LDB6;0;0
+1310;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X Classified DT 256-bit, 08G-P4-6384-KR;0;0
+1311;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-0954-KR;0;0
+1312;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 SC Black Edition 256-bit, 08G-P4-5173-KR;0;0
+1313;Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 FTW+ 192-bit, 03G-P4-6367-KR;0;0
+1314;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW+ 192-bit, 06G-P4-6368-KR;0;0
+1315;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW+ DT 192-bit, 06G-P4-6366-KR;0;0
+1316;Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 192-bit, 03G-P4-5160-KR;0;0
+1317;Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 SC 192-bit, 03G-P4-6162-KR;0;0
+1318;Placa de Video MSI RADEON RX 470 GAMING X 4G;0;0
+1319;Placa de Video Sapphire Radeon RX 470 4GB GDDR5 Nitro+ OC 256-bit, 11256-01-20G;0;0
+1320;Placa de Video Asus GeForce GTX 1070 DUAL OC 8GB, DUAL- GTX1070-O8G;0;0
+1321;Placa de Video Asus GeForce GTX 1070 DUAL 8GB GDDR5 256-bit, DUAL-GTX1070-8G;0;0
+1322;Placa de Video Asus Radeon RX 460 OC 4GB GDDR5 ROG Strix 128-bit, STRIX-RX460-O4G-GAMING;0;0
+1323;Placa de Video Gigabyte Radeon RX 480 8GB GDDR5 256-bit, GV-RX480D5-8GD-B;0;0
+1324;Placa de Video Gigabyte Radeon RX 460 2GB GDDR5 WindForce OC 128-bit, GV-RX460WF2OC-2GD;0;0
+1325;Placa de Video PowerColor Radeon RX 480 8GB GDDR5 Red Devil 256-bit, AXRX 480 8GBD5-3DH/OC;0;0
+1326;Placa de Video Sapphire Radeon RX 480 4GB GDDR5 Nitro+ OC 256-bit, 11260-02-20G;0;0
+1327;Placa de Video Sapphire Radeon RX 470 4GB GDDR5 OC 256-bit, 11256-00-20G;0;0
+1328;Placa de Video Asus Radeon R9 NANO 4GB HBM 4096-bit, R9NANO-4G;0;0
+1329;Placa de Video PowerColor Radeon R9 4GB HBM Nano 4096-bit, AXR9 NANO 4GBHBM-DH;0;0
+1330;Placa de Video MSI Radeon R9 FURY X 4GB 4096Bit, R9 FURY X 4G;0;0
+1331;Placa de Video Asus Radeon RX 460 DUAL OC 2GB GDDR5 128-bit, DUAL-RX460-02G;0;0
+1332;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Xtreme 256-bit, GV-N1080XTREME-8GD-PP;0;0
+1333;Placa de Video Galax GeForce GTX 1070 8GB GDDR5 HOF Limited Edition 256-bit, 70NSH6DHL2OH;0;0
+1334;Placa de Video Galax GeForce GTX 1080 8GB GDDR5X HOF 256-bit, 80NSJ6DHL2SN;0;0
+1335;Placa de Vídeo MSI Geforce GTX 1080 SEA HAWK X 8GB GDDR5X 256Bit;0;0
+1336;Placa de Video MSI GeForce GTX 1060 6GT OC;0;0
+1337;Placa de Video MSI Radeon RX 480 Gaming X 4G;0;0
+1338;Placa de Video MSI GeForce GTX 1060 Gaming X 6G, 912-V328-001;0;0
+1339;Placa de Vídeo MSI Radeon RX 460 2G OC;0;0
+1340;Placa de Video MSI Radeon RX 480 Gaming X 8G;0;0
+1341;Placa de Video MSI GeForce GTX 750 Ti OC 2GB GDDR5 128Bit, N750TI-2GD5/OC;0;0
+1342;Placa de Video Sapphire Radeon RX 470 8GB GDDR5 Nitro+ 256-bit, 11256-02-20G;0;0
+1343;Placa de Video Sapphire Radeon RX 480 8GB GDDR5 Nitro+ 256-bit, 11260-01-20G;0;0
+1344;Placa de Video Asus GeForce GTX 1060 OC 6GB GDDR5 ROG Strix 192-bit, STRIX-GTX1060-O6G-GAMING;0;0
+1345;Placa de Video PowerColor Radeon RX 460 2GB GDDR5 Red Dragon 128-bit, AXRX 460 2GBD5-DH/OC;0;0
+1346;Placa de Vídeo MSI Geforce GTX 950 GAMING 2G GDDR5 OC 128Bit;0;0
+1347;Placa de Video Asus GeForce GTX 1070 8GB GDDR5 ROG Strix 256-bit, STRIX-GTX1070-8G-GAMING;0;0
+1348;Placa de Video PNY GeForce GTX 1060 6GB GDDR5 192-bit, VCGGTX10606PB;0;0
+1349;Placa de Video Asus GeForce GTX 1060 DUAL OC 6GB GDDR5 198-bit, DUAL-GTX1060-O6G;0;0
+1350;Placa de Video XFX Radeon R7 250 2GB DDR3 Low Profile 128-bit, R7-250E-CLF4;0;0
+1351;Placa de Video XFX Radeon R5 230 2GB DDR3 64-bit, R5-230A-CNH2;0;0
+1352;Placa de Video XFX Radeon R7 240 2GB DDR3 Low Profile 128-bit, R7-240A-CLF2;0;0
+1353;Placa de Video XFX Radeon R7 240 2GB DDR3 Low Profile 128-bit, R7-240A-CLH4;0;0
+1354;Placa de Video PCYES! Radeon R7 370 2GB GDDR5 HammerX OC 256-bit, PH37025602D5OCV2;0;0
+1355;Placa de Video PCYES! Radeon R7 265 2GB GDDR5 HammerX 256-bit, O265QM2G2M;0;0
+1356;Placa de Video Zotac GeForce GT 730 1GB DDR3 Zone 64-bit, ZT-71114-20L;0;0
+1357;Placa de Video Sapphire Radeon R7 250 2GB GDDR5 128-bit, 11215-20-20G;0;0
+1358;Placa de Video Sapphire Radeon R5 230 2GB DDR3 64-bit, 11233-02-20G;0;0
+1359;Placa de Video PNY Quadro K620 2GB DDR3 128-bit, VCQK620-PORPB;0;0
+1360;Placa de Video PNY Quadro 410 512MB DDR3 64-bit, VCQ410-PORPB;0;0
+1361;Placa de Video MSI GeForce GTX 1060 Gaming X 3G;0;0
+1362;Placa de Video Zotac GeForce GTX 1060 3GB GDDR5 Mini 192-bit, ZT-P10610A-10L;0;0
+1363;Placa de Vídeo MSI Geforce GTX 1070 AERO 8G OC GDDR5 256Bit;0;0
+1364;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW DT RGB 256-bit, 08G-P4-6274-KR;0;0
+1365;Placa de Video Gigabyte GeForce GT 710 1GB DDR3 Low Profile 64-bit, GV-N710SL-1GL;0;0
+1366;Placa de Video EVGA GeForce GT 710 2GB DDR3 Low Profile 64-bit, 02G-P3-2713-KR;0;0
+1367;Placa de Video Gigabyte GeForce 210 1GB DDR3 64-bit, GV-N210SL-1GI;0;0
+1368;Placa de Video PowerColor Radeon RX 470 4GB GDDR5 Red Dragon 256-bit, AXRX 470 4GBD5-3DHD/OC;0;0
+1369;Placa de Video EVGA GeForce GTX 750 Ti 1GB GDDR5 128-bit, 01G-P4-3752-KR;0;0
+1370;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SC 192-bit, 06G-P4-6163-KR;0;0
+1371;Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 192-bit, 06G-P4-6161-KR;0;0
+1372;Placa de Video Galax GeForce GTX 1080 8GB GDDR5X HOF 256-bit, 80NSJ6DHL2SH;0;0
+1373;Placa de Video Galax GeForce GTX 950 2GB GDDR5 OC 128-bit, 95NPH8DHG5OC;0;0
+1374;Placa de Video Galax GeForce GTX 1060 6GB GDDR5 EXOC 192-bit, 60NRH7DVM6EV;0;0
+1375;Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 G1 Gaming 192-bit, GV-N1060G1 GAMING-6GD;0;0
+1376;Placa de Video Galax GeForce GTX 1060 6GB GDDR5 OC 192-bit, 60NRH7DSL9OC;0;0
+1377;Placa de Video PCYES! Radeon R7 360 2GB GDDR5 Hammer 128-bit, O360PFB2CR;0;0
+1378;Placa de Video Gigabyte GeForce GT 710 1GB DDR3 Low Profile 64-bit, GV-N710D3-1GL;0;0
+1379;Placa de Video PNY GeForce GTX 750 2GB GDDR5 XLR8 128-bit, VCGGTX7502XPB-BB;0;0
+1380;Placa de Video Sapphire Radeon RX 460 4GB GDDR5 Nitro OC 128-bit, 11257-02-20G;0;0
+1381;Placa de Video Sapphire Radeon RX 460 2GB GDDR5 128-bit, 11257-00-20G;0;0
+1382;Placa de Video Sapphire Radeon R7 350 2GB GDDR5 128-bit, 11251-10-20G;0;0
+1383;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-1956-KR;0;0
+1384;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-0952-KR;0;0
+1385;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 256-bit, 08G-P4-6171-KR;0;0
+1386;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X 256-bit, 08G-P4-6181-KR;0;0
+1387;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW DT 256-bit, 08G-P4-6284-KR;0;0
+1388;Placa de Video PCYES! Radeon R9 380X 4GB GDDR5 HammerX OC 256-bit, PH380X25604D5OC;0;0
+1389;Placa de Video Zotac GeForce GTX 1060 6GB GDDR5 AMP! 192-bit, ZT-P10600B-10M;0;0
+1390;Placa de Video Zotac GeForce GTX 1060 6GB GDDR5 Mini 192-bit, ZT-P10600A-10L;0;0
+1391;Placa de Vídeo MSI Geforce GTX 1080 AERO 8G OC GDDR5X 256Bit;0;0
+1392;Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 128-bit, GV-N950D5-2GD;0;0
+1393;Placa de Vídeo MSI Geforce GTX 1080 GAMING 8G GDDR5X 256Bit;0;0
+1394;Placa de Vídeo MSI Geforce GTX 1070 ARMOR 8G OC 8GB GDDR5 256Bit, GTX 1070 ARMOR 8G OC;0;0
+1395;Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EXOC 256-bit, 70NSH6DHL4EC;0;0
+1396;Placa de Vídeo MSI Geforce GTX 1070 SEA HAWK X 8GB GDDR5 256Bit;0;0
+1397;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW RGB 256-bit, 08G-P4-6276-KR;0;0
+1398;Placa de Vídeo MSI Geforce GTX 1070 Gaming X 8GB GDDR5 256Bit, GTX 1070 GAMING X 8G;0;0
+1399;Placa de Video Asus GeForce GTX 1070 Founders Edition 8GB GDDR5X 256-bit, GTX1070-8G;0;0
+1400;Placa de Video Asus GeForce GTX 1070 OC 8GB GDDR5 ROG Strix 256-bit, STRIX-GTX1070-O8G-GAMING;0;0
+1401;Placa de Video XFX Radeon RX 480 8GB GDDR5 256-bit, RX-480M8BBA6;0;0
+1402;Placa de Video XFX Radeon RX 480 8GB GDDR5 OC XXX 256-bit, RX-480M8BFA6;0;0
+1403;Placa de Video Asus GeForce GTX 950 2GB GDDR5 128-bit, GTX950-2G;0;0
+1404;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 SC 256-bit, 08G-P4-6173-KR;0;0
+1405;Placa de Video Asus GeForce GTX 1080 8GB GDDR5X ROG Strix 256-bit, STRIX-GTX1080-8G-GAMING;0;0
+1406;Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 AMP! 256-bit, ZT-P10700C-10P;0;0
+1407;Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 AMP! Extreme 256-bit, ZT-P10700B-10P;0;0
+1408;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 256-bit, 04G-P4-1970-KR;0;0
+1409;Placa de Video PCYES! Radeon RX 480 8GB GDDR5 256-bit, PRX48025608D5;0;0
+1410;Placa de Video Sapphire Radeon RX 480 8GB GDDR5 256-bit, 21260-00-20G;0;0
+1411;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 G1 Gaming 256-bit, GV-N1070G1 GAMING-8GD;0;0
+1412;Placa de Video PNY Quadro M2000 4GB GDDR5 128-bit, VCQM2000-PORPB;0;0
+1413;Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 Founders Edition 256-bit, GV-N1070D5-8GD-B;0;0
+1414;Placa de Video Galax GeForce GTX 1080 8GB GDDR5X EXOC 256-bit, 80NSJ6DHL4EC;0;0
+1415;Placa de Video Galax GeForce GTX 1080 8GB GDDR5X 256-bit, 80NSJ6DHK5VT;0;0
+1416;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC 256-bit, 08G-P4-6183-KR;0;0
+1417;Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 Founders Edition 256-bit, 08G-P4-6170-KR;0;0
+1418;Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X AMP 256-bit, ZT-P10800C-10P;0;0
+1419;Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X AMP Extreme 256-bit, ZT-P10800B-10P;0;0
+1420;Placa de Vídeo MSI Geforce GTX 1080 ARMOR 8G OC GDDR5X 256Bit;0;0
+1421;Placa de Video Zotac GeForce GT 710 2GB GDDR3 64-bit, ZT-71302-20L;0;0
+1422;Placa de Vídeo MSI Geforce GTX 1080 GAMING X 8G GDDR5X 256Bit;0;0
+1423;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-1958-KR;0;0
+1424;Placa de Video XFX Radeon R5 230 1GB DDR3 Low Profile 64-bit, R5-230A-CLH2;0;0
+1425;Placa de Video XFX Radeon R5 230 1GB DDR3 Low Profile 64-bit, R5-230A-ZLH2;0;0
+1426;Placa de Video EVGA GeForce GTX 960 4GB GDDR5 REF 128-bit, 04G-P4-1961-KR;0;0
+1427;Placa de Video Gigabyte Radeon R5 230 1GB DDR3 64-bit, GV-R523D3-1GL;0;0
+1428;Placa de Video EVGA GeForce GT 730 4GB GDDR3 128-bit, 04G-P3-2739-KR;0;0
+1429;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-0956-KR;0;0
+1430;Placa de Video Asus GeForce GTX 1080 OC 8GB GDDR5X ROG Strix 256-bit, STRIX-GTX1080-O8G-GAMING;0;0
+1431;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW 256-bit, 08G-P4-6286-KR;0;0
+1432;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X G1 Gaming 256-bit, GV-N1080G1 GAMING-8GD;0;0
+1433;Placa de Video PowerColor Radeon R7 370 4GB GDDR5 256-bit, AXR7 370 4GBD5-DHE/OC;0;0
+1434;Placa de Video PowerColor Radeon PCS+ R9 380X 4GB GDDR5 Myst Edition 256-bit, AXR9 380X 4GBD5-PPDHE;0;0
+1435;Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2NF5;0;0
+1436;Placa de Video Asus GeForce GTX 1080 Founders Edition 8GB GDDR5X 256-bit, GTX1080-8G;0;0
+1437;Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, ZT-P10800A-10P;0;0
+1438;Placa de Vídeo MSI Geforce GTX 1080 Founders Edition 8GB GDDR5X 256Bit, GTX 1080 FOUNDERS EDITION;0;0
+1439;Placa de Video PNY GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, VCGGTX10808PB-CG;0;0
+1440;Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, GV-N1080D5X-8GD-B;0;0
+1441;Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, 08G-P4-6180-KR;0;0
+1442;Placa de Video Asus GeForce GT 710 1GB GDDR3 64-bit, 710-1-SL;0;0
+1443;Placa de Video Asus GeForce GTX 960 OC 4GB GDDR5 TURBO 128-bit, TURBO-GTX960-OC-4GD5;0;0
+1444;Placa de Video Gigabyte GeForce GTX 750 Ti 4GB GDDR5 WindForce OC 128-bit, GV-N75TWF2OC-4GI;0;0
+1445;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-0958-KR;0;0
+1446;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-1955-KR;0;0
+1447;Placa de Video Gigabyte GeForce GTX 960 4GB GDDR6 Xtreme Edition 128-bit, GV-N960XTREME-4GD;0;0
+1448;Placa de Video PowerColor Radeon R9 4GB HBM Fury X 4096-bit, AXR9 FURY X 4GBHBM-DH;0;0
+1449;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 Hybrid 256-bit, 04G-P4-1976-KR;0;0
+1450;Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 XTREME 384-bit, GV-N98TXTREME C-6GD;0;0
+1451;Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 Xtreme Edition 256-bit, GV-N970XTREME C-4GD;0;0
+1452;Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 OC 128-bit, GV-N960IXOC-4GD;0;0
+1453;Placa de Video Asus Radeon R7 360 OC 2GB GDDR5 128-bit, R7360-OC-2GD5-V2;0;0
+1454;Placa de Video Galax GeForce GTX 970 4GB GDDR5 EXOC Sniper Black 256-bit, 97NQH6DNH8FL;0;0
+1455;Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 Xtreme Edition 128-bit, GV-N950XTREME C-2GD;0;0
+1456;Placa de Vídeo MSI Geforce GTX 980 Ti Gaming 6GB GDDR5 384Bit, GTX 980Ti GAMING 6G;0;0
+1457;Placa de Video Asus Radeon R9 380X OC 4GB GDDR5 Strix 256-bit, STRIX-R9380X-OC4G-GAMING;0;0
+1458;Placa de Video EVGA GeForce GT 710 1GB DDR3 64-bit, 01G-P3-2710-KR;0;0
+1459;Placa de Video Zotac GeForce GT 710 1GB GDDR3 64-bit, ZT-71301-20L;0;0
+1460;Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 FTW ACX 384-bit, 06G-P4-4996-KR;0;0
+1461;Placa de Video Asus Radeon R9 FURY X 4GB HBM 4096-bit, R9FURYX-4G;0;0
+1462;Placa de Video PowerColor Radeon PCS+ R9 390 8GB GDDR5 512-bit, AXR9 390 8GBD5-PPDHE;0;0
+1463;Placa de Video PowerColor Radeon R7 360 2GB GDDR5 128-bit, AXR7 360 2GBD5-DHE;0;0
+1464;Placa de Video PowerColor Radeon PCS+ R7 370 4GB GDDR5 256-bit, AXR7 370 4GBD5-PPDHE;0;0
+1465;Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 XTREME WaterForce 384-bit, GV-N98TXTREME W-6GD;0;0
+1466;Placa de Video Zotac GeForce GTX 970 4GB GDDR5 AMP! 256-bit, ZT-90110-10P;0;0
+1467;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-1950-KR;0;0
+1468;Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 KINGPIN 384-bit, 06G-P4-5998-KR;0;0
+1469;Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 Hybrid 384-bit, 06G-P4-1996-KR;0;0
+1470;Placa de Video Gigabyte GeForce GT 420 2GB DDR3 128-bit, GV-N420-2GI;0;0
+1471;Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 WindForce OC 256-bit, GV-N980OC-4GD;0;0
+1472;Placa de Vídeo Asus Geforce GTX 980 Ti Gold Edition 6GB GDDR5 384 Bit, GOLD20TH-GTX980TI-P-6G-GAMING;0;0
+1473;Placa de Video Gigabyte GeForce GTX Titan X 12GB GDDR5 384-bit, GV-NTITANXD5-12GD-B;0;0
+1474;Placa de Video Asus Radeon R9 380 OC 4GB GDDR5 Strix 256-bit, STRIX-R9380-DC2OC-4GD5-GAMING;0;0
+1475;Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 Xtreme Edition GDDR5 256-bit, GV-N980XTREME-4GD;0;0
+1476;Placa de Video Gigabyte GeForce GTX 750 Ti 2GB GDDR5 WindForce OC 128-bit, GV-N75TOC2-2GI;0;0
+1477;Placa de Video Zotac GeForce GTX 950 2GB GDDR5 128-bit, ZT-90602-10M;0;0
+1478;Placa de Video Galax GeForce GTX 960 4GB GDDR5 EXOC White 128-bit, 96NPH8DVE8D4;0;0
+1479;Placa de Video Galax GeForce GTX 950 2GB GDDR5 OC Black Sniper 128-bit, 95NPH8DSH4HB;0;0
+1480;Placa de Video Galax GeForce GT 610 2GB DDR3 64-bit, 61TPS4HX2LKX;0;0
+1481;Placa de Video Galax GeForce GTX 960 4GB GDDR5 OC 128-bit, 96NQH8DHD8Z4;0;0
+1482;Placa de Video Galax GeForce GT 610 1GB DDR3 64-bit, 61TGS4HX2LTZ;0;0
+1483;Placa de Video Galax GeForce GTX 980 4GB GDDR5 HOF 256-bit, 98NQH6DND2TX;0;0
+1484;Placa de Video XFX Radeon R7 250 1GB DDR5 128-bit, R7-250A-ZLH4;0;0
+1485;Placa de Video Asus Radeon R7 260X OC 2GB GDDR5 128-bit, R7260X-OC-2GD5;0;0
+1486;Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 OC Water Force 256-bit, GV-N980WAOC-4GD;0;0
+1487;Placa de Video PNY GeForce GTX 960 2GB GDDR5 OC 128-bit, VCGGTX9602XPB-OC-BB;0;0
+1488;Placa de Video Gigabyte Radeon R9 390X 8GB GDDR5 WindForce OC 512-bit, GV-R939XWF2-8GD;0;0
+1489;Placa de Video Asus GeForce GTX 950 OC 2GB GDDR5 ROG Strix 128-bit, STRIX-GTX950-DC2OC-2GD5-GAMING;0;0
+1490;Placa de Video Galax GeForce GTX 960 2GB GDDR5 Black 128-bit, 96NPH8DND7UZ;0;0
+1491;Placa de Video Galax GeForce GTX 960 4GB GDDR5 EXOC 128-bit, 96NQH8DVD9CJ;0;0
+1492;Placa de Video EVGA GeForce GTX 960 4GB GDDR5 REF 128-bit, 04G-P4-3961-KR;0;0
+1493;Placa de Vídeo MSI Geforce GTX 980 Ti SEA HAWK 6GB GDDR5 384Bit, GTX 980 Ti SEA HAWK;0;0
+1494;Placa de Video PowerColor Radeon PCS+ R9 380 4GB GDDR5 256-bit, AXR9 380 4GBD5-PPDHE;0;0
+1495;Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2DF5;0;0
+1496;Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 Xtreme Edition 256-bit, GV-N970XTREME-4GD;0;0
+1497;Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 Xtreme Edition 128-bit, GV-N950XTREME-2GD;0;0
+1498;Placa de Video Sapphire Radeon R9 390X 8GB GDDR5 Tri-X 512-bit, 11241-02-20G;0;0
+1499;Placa de Video Gigabyte Radeon R9 380X 4GB GDDR5 G1 Gaming 256-bit, GV-R938XG1 GAMING-4GD;0;0
+1500;Placa de Video XFX Radeon R9 380X 4GB GDDR5 OC Black Edition 256-bit, R9-380X-4DB5;0;0
+1501;Placa de Video XFX Radeon R9 380X 4GB GDDR5 OC XXX 256-bit, R9-380X-4DF5;0;0
+1502;Placa de Video XFX Radeon R9 390X 8GB GDDR5 512-bit, R9-390X-8DF6;0;0
+1503;Placa de Video PNY GeForce GTX 970 4GB GDDR5 XLR8 256-bit, VCGGTX9704R2XPB;0;0
+1504;Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 XTREME 384-bit, GV-N98TXTREME-6GD-B;0;0
+1505;Placa de Video Zotac GeForce GTX 950 2GB GDDR5 AMP! 128-bit, ZT-90603-10M;0;0
+1506;Placa de Video Sapphire Radeon R7 360 2GB GDDR5 Nitro OC 128-bit, 11243-05-20G;0;0
+1507;Placa de Video Sapphire Radeon R9 380 4GB GDDR5 Nitro 256-bit, 11242-13-20G;0;0
+1508;Placa de Video Sapphire Radeon R7 370 2GB GDDR5 Nitro 256-bit, 11240-10-20G;0;0
+1509;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC+ 128-bit, 02G-P4-2956-KR;0;0
+1510;Placa de Video Galax GeForce GT 730 2GB GDDR3 128-bit, 73GPF8HX3SNS;0;0
+1511;Placa de Video Zotac GeForce GT 730 2GB DDR3 64-bit, ZT-71105-10BB;0;0
+1512;Placa de Video MSI GT210 1GB 64Bit DDR3, N210-MD1G/D3;0;0
+1513;Placa de Video PowerColor Radeon R7 240 2GB DDR3 128-bit, AXR7 240 2GBK3-HLE;0;0
+1514;Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 WindForce 128-bit, GV-N960WF2-4GD;0;0
+1515;Placa de Video Asus GeForce GTX 960 OC 4GB GDDR5 ROG Strix 128-bit, STRIX-GTX960-DC2OC-4GD5;0;0
+1516;Placa de Video Sapphire Radeon R7 360 2GB GDDR5 Nitro 128-bit, 11243-02-20G;0;0
+1517;Placa de Video Gigabyte Radeon R9 380 4GB GDDR5 WindForce 256-bit, GV-R938WF2-4GD;0;0
+1518;Placa de Video Galax GeForce GTX 750 Ti 2GB GDDR5 Black OC Sniper 128-bit, 75IPH8DVF4CB;0;0
+1519;Placa de Video PNY GeForce GTX 980 4GB GDDR5 PRO OC XLR8 256-bit, VCGGTX9804XPB-XP-OC;0;0
+1520;Placa de Video Zotac GeForce GTX 980 Ti 6GB DDR5 ArcticStorm 384-bit, ZT-90502-10P;0;0
+1521;Placa de Video Zotac GeForce GTX 980 Ti 6GB GDDR5 AMP! Extreme 384-bit, ZT-90505-10P;0;0
+1522;Placa de Video EVGA GeForce GTX 960 4GB GDDR5 128-bit, 04G-P4-3960-KR;0;0
+1523;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-2951-KR;0;0
+1524;Placa de Video EVGA GeForce GTX 960 2GB GDDR5 128-bit, 02G-P4-2961-KR;0;0
+1525;Placa de Video Sapphire Radeon R9 390 8GB GDDR5 Tri-X 512-bit, 11244-01-20G;0;0
+1526;Placa de Video PCYES! Radeon R7 360 2GB GDDR5 Hammer 128-bit, H360F-2GD;0;0
+1527;Placa de Video PCYES! Radeon R7 370 2GB GDDR5 HammerX 256-bit, O370QM-2G2M;0;0
+1528;Placa de Video PCYES! Radeon R9 380 4GB GDDR5 HammerX 256-bit, 0380QM-4GD;0;0
+1529;Placa de Video PCYES! Radeon R9 380 2GB GDDR5 Hammer 256-bit, 0380QM-2GD;0;0
+1530;Placa de Video PCYES! Radeon R9 390 8GB GDDR5 HammerX 512-bit, 0390QM-8GD;0;0
+1531;Placa de Vídeo MSI Geforce GTX 980 Ti Lightning OC 6GB GDDR5 384Bit, GTX 980TI LIGHTNING - BOX;0;0
+1532;Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2SF5;0;0
+1533;Placa de Video Zotac GeForce GTX 950 2GB GDDR5 128-bit, ZT-90601-10L;0;0
+1534;Placa de Video Geforce MSI GTX 960 4GD5T OC 4GB GDDR5 128Bits, GTX-960-4GD5T-OC - BOX;0;0
+1535;Placa de Video PowerColor Radeon PCS+ R9 380 2GB GDDR5 256-bit, AXR9 380 2GBD5-PPDHE;0;0
+1536;Placa de Video MSI Radeon R7 360 OC 2GB GDDR5 128Bit, R7 360 2GD5 OC - BOX;0;0
+1537;Placa de Video Galax GeForce GTX 980 Ti 4GB GDDR5 OC 384-bit, 98IRH5DH9WGT;0;0
+1538;Placa de Video PowerColor Radeon R9 390X 8GB GDDR5 Devil 512-bit, AXR9 390X 8GBD5-ADHE;0;0
+1539;Placa de Video Gigabyte GeForce GTX 750 Ti 1GB GDDR5 OC 128-bit, GV-N75TOC-1GI;0;0
+1540;Placa de Video Gigabyte GeForce GTX 960 2GB GDDR5 OC 128-bit, GV-N960OC-2GD;0;0
+1541;Placa de Video XFX Radeon R9 4GB HBM Nano 4096-bit, R9-NANO-4SF6;0;0
+1542;Placa de Video Sapphire Radeon R9 4GB HBM Nano 4096-bit, 21249-00-40G;0;0
+1543;Placa de Video PNY Quadro K420 1GB GDDR3 128-bit, VCQK420-PB;0;0
+1544;Placa de Video PowerColor Radeon PCS+ R7 370 2GB GDDR5 256-bit, AXR7 370 2GBD5-PPDHE;0;0
+1545;Placa de Video PowerColor Radeon R7 360 2GB GDDR5 128-bit, AXR7 360 2GBD5-DHE/OC;0;0
+1546;Placa de Video PNY Quadro K2200 4GB GDDR5 128-bit, VCQK2200-PB;0;0
+1547;Placa de Video Asus Radeon R9 380 OC 2GB GDDR5 Strix 256-bit, STRIX-R9380-DC2OC-2GD5-GAMING;0;0
+1548;PLACA DE VIDEO MSI Geforce GTX 960 GAMING 4GB GDDR5 128bit , MSI GTX 960 GAMING 4GB - BOX;0;0
+1549;Placa de Video Galax GeForce GTX 960 2GB GDDR5 OC 128-bit ,96NPH8DND8VZ;0;0
+1550;Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 WindForce OC 128-bit, GV-N950WF2OC-2GD;0;0
+1551;Placa de Video Asus Radeon R7 370 OC 4GB GDDR5 Strix 256-bit, STRIX-R7370-DC2OC-4GD5-GAMING;0;0
+1552;Placa de Video Galax GeForce GTX 950 2GB GDDR5 EXOC White 128-bit, 95NPH8DVE8EW;0;0
+1553;Placa de Video Asus Radeon R9 390 OC 8GB GDDR5 Strix 512-bit, STRIX-R9390-DC3OC-8GD5-GAMING;0;0
+1554;Placa de Video Asus Radeon R9 390X OC 8GB GDDR5 Strix 512-bit, STRIX-R9390X-DC3OC-8GD5-GAMING;0;0
+1555;Placa de Video Galax GeForce GTX 980 Ti 6GB GDDR5 HOF 384-bit, 98IRH5DHF7XH;0;0
+1556;Placa de Video Asus GeForce GTX 980 Ti OC 6GB GDDR5 ROG Strix 384-bit, STRIX-GTX980TI-DC3OC-6GD5;0;0
+1557;Placa de Video Asus GeForce GTX 980 Ti 6GB GDDR5 ROG Poseidon 384-bit, POSEIDON-GTX980TI-P-6GD5;0;0
+1558;Placa de Video Zotac GeForce GT 730 1GB GDDR3 128-bit, ZT-71110-10L;0;0
+1559;Placa de Video EVGA GeForce GT 740 1GB GDDR5 FTW 128-bit, 01G-P4-3742-KR;0;0
+1560;Placa de Video EVGA GeForce GT 730 2GB GDDR3 128-bit, 02G-P3-2738-KR;0;0
+1561;Placa de Video Asus GeForce GTX 960 OC 2GB GDDR5 TURBO 128-bit, TURBO-GTX960-OC-2GD5;0;0
+1562;Placa de Video Asus GeForce GTX 970 OC 4GB GDDR5 TURBO 256-bit, TURBO-GTX970-OC-4GD5;0;0
+1563;Placa de Video MSI Geforce GTX 960 4GB OC TwinFrozr V Gaming 4G, 128 Bits GDDR5, GTX 960 GAMING 4G - BOX;0;0
+1564;Placa de Video EVGA GeForce GTX 960 4GB GDDR5 SC 128-bit, 04G-P4-1962-KR;0;0
+1565;Placa de Video Gigabyte Radeon R7 370 2GB GDDR5 WindForce OC 256-bit, GV-R737WF2OC-2GD;0;0
+1566;Placa de Video Gigabyte GT 720 1GB DDR3 64Bits, GV-N720D3-1GL - BOX;0;0
+1567;Placa de Video Gigabyte GeForce GT 730 1GB DDR3 64-bit, GV-N730D3-1GI;0;0
+1568;Placa de Video EVGA GeForce GTX 960 4GB GDDR5 SSC ACX 128-bit, 04G-P4-3967-KR;0;0
+1569;Placa de Video EVGA GeForce GT 740 1GB GDDR5 SC 128-bit, 01G-P4-3743-KR;0;0
+1570;Placa de Video EVGA GeForce GTX 950 2GB GDDR5 FTW 128-bit, 02G-P4-2958-KR;0;0
+1571;Placa de Vídeo Gigabyte GeForce GT610 2GB GDDR3 64Bit, GV-N610D3-2GI - BOX;0;0
+1572;Placa de Video PNY GeForce GTX 980 Ti 6GB GDDR5 Founders Edition 384-bit, VCGGTX980T6XPB-CG;0;0
+1573;Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 OC 128-bit, GV-N960OC-4GD;0;0
+1574;Placa de Video Gigabyte Radeon R9 390 8GB GDDR5 WindForce 512-bit, GV-R939WF2-8GD;0;0
+1575;Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 TWIN Turbo OC 256-bit, GV-N970TTOC-4GD;0;0
+1576;Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 WindForce OC 384-bit, GV-N98TWF3OC-6GD;0;0
+1577;Placa de Video Radeon MSI R9 390X GAMING 8G 8GB GDDR5 512Bit, R9-390X-GAMING-8G - BOX;0;0
+1578;Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 OC 128-bit, GV-N950OC-2GD;0;0
+1579;Placa de Video PNY GeForce GTX 960 4GB GDDR5 128-bit, VCGGTX9604XPB;0;0
+1580;Placa de Video Radeon MSI R9 380 GAMING 4G 4GB GDDR5 256Bit, R9-380-GAMING-4G - BOX;0;0
+1581;Placa de Video Radeon MSI R7 370 GAMING 4G 4GB GDDR5 256Bit, R7-370-GAMING-4G - BOX;0;0
+1582;Placa de Video Gigabyte GT 740 2GB GDDR5 128Bits, GV-N740D5OC-2GI - BOX;0;0
+1583;Placa de Video SAPPHIRE R9 FURY TRI-X 4GB HBM 4096Bits, 11247-00-40G - BOX;0;0
+1584;Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 WindForce OC 384-bit, GV-N98TG1 GAMING-6GD;0;0
+1585;Placa de Video Galax GeForce GTX 970 4GB GDDR5 EXOC 256-bit, 97NQH6DNB4RO;0;0
+1586;Placa de Video EVGA GeForce GTX 960 4GB GDDR5 SC 128-bit, 04G-P4-3962-KR;0;0
+1587;Placa de Video Radeon MSI R9 390 GAMING 8G 8GB GDDR5 512Bit, R9-390-GAMING-8G - BOX;0;0
+1588;Placa de Video Zotac GeForce GTX 960 4GB GDDR5 AMP! 128-bit, ZT-90309-10M;0;0
+1589;Placa de Video Zotac GeForce GTX 960 4GB GDDR5 128-bit, ZT-90308-10M;0;0
+1590;Placa de Video Gigabyte Radeon R7 360 2GB GDDR5 OC 128-bit, GV-R736OC-2GD;0;0
+1591;Placa de Video Asus GeForce GT 730 2GB 128-Bit, GT730-2GD3 - BOX;0;0
+1592;Placa de Video Asus GeForce GT 740 2GB 128-Bit, GT740-2GD3 - BOX;0;0
+1593;Placa de Video MSI GeForce GT 740 4GB 128-Bit, N740-4GD3 - BOX;0;0
+1594;Placa de Video MSI GeForce GTX 750 OC 1GB 128-Bit, N750-1GD5/OC - BOX;0;0
+1595;Placa de Video Asus GeForce GT 730 1GB 64-Bit, GT730-SL-1GD3-BRK - BOX;0;0
+1596;Placa de Video Asus Radeon R7 360 OC 2GB GDDR5 128-bit, R7360-OC-2GD5;0;0
+1597;Placa de Video Asus Radeon R7 370 OC 2GB GDDR5 Strix 256-bit, STRIX-R7370-DC2OC-2GD5-GAMING;0;0
+1598;Placa de Video Asus Radeon R9 390 DirectCU II 8GB 512Bit, R9390-DC2-8GD5 - BOX;0;0
+1599;Placa de Video Asus Radeon R9 390X DirectCU II 8GB 512Bit, R9390X-DC2-8GD5 - BOX;0;0
+1600;Placa de Vídeo MSI GeForce GT740 2GB DDR3 128Bit, N740-2GD3 - BOX;0;0
+1601;Placa de Video Zotac GeForce GTX 980 Ti 6GB GDDR5 AMP! 384-bit, ZT-90503-10P;0;0
+1602;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SC 256-bit, 04G-P4-2977-KR;0;0
+1603;Placa de Video EVGA GeForce GTX 960 4GB GDDR5 FTW 128-bit, 04G-P4-3968-KR;0;0
+1604;Placa de Video Sapphire Radeon R9 380 2GB GDDR5 ITX Compact 256-bit, 11242-00-20G;0;0
+1605;Placa de Video Sapphire Radeon R9 380 2GB GDDR5 Dual-X 256-bit, 11242-02-20G;0;0
+1606;Placa de Video Sapphire Radeon R9 Fury X 4GB HBM 4096-bit, 21246-00-40G;0;0
+1607;Placa de Video XFX Radeon R9 390X 8GB GDDR5 512-bit, R9-390X-8DB6;0;0
+1608;Placa de Video XFX Radeon R9 390 8GB GDDR5 OC Black Edition 512-bit, R9-390P-8DB6;0;0
+1609;Placa de Video XFX Radeon R9 390 8GB GDDR5 OC XXX 512-bit, R9-390P-8DF6;0;0
+1610;Placa de Video XFX Radeon R9 380 4GB GDDR5 OC XXX 256-bit, R9-380P-4DF5;0;0
+1611;Placa de Video XFX Radeon R7 370 4GB GDDR5 256-bit, R7-370P-4DF5;0;0
+1612;Placa de Video XFX Radeon R7 370 2GB GDDR5 256-bit, R7-370P-2DB5;0;0
+1613;Placa de Video XFX Radeon R7 370 2GB GDDR5 256-bit, R7-370P-2DF5;0;0
+1614;Placa de Video Gigabyte Radeon R9 390X 8GB GDDR5 G1 Gaming 512-bit, GV-R939XG1 GAMING-8GD;0;0
+1615;Placa de Video Gigabyte Radeon R9 390 8GB GDDR5 G1 Gaming 512-bit, GV-R939G1 GAMING-8GD;0;0
+1616;Placa de Video Gigabyte Radeon R9 380 2GB GDDR5 WindForce OC 256-bit, GV-R938WF2OC-2GD;0;0
+1617;Placa de Video Gigabyte Radeon R9 380 4GB GDDR5 G1 Gaming 256-bit, GV-R938G1 GAMING-4GD;0;0
+1618;Placa de Vídeo Gigabyte Geforce GTX980 Ti 6GB GDDR5 384-Bit, GV-N98TD5-6GD-B - BOX;0;0
+1619;Placa de Video XFX Radeon R7 370 2GB GDDR5 256-bit, R7-370P-2SF5;0;0
+1620;Placa de Video SAPPHIRE R9 380 NITRO DUAL-X OC 4GB GDDR5 256Bit, 11242-07-20G - BOX;0;0
+1621;Placa de Vídeo EVGA Geforce GTX 980 Ti 6GB GDDR5 384Bit, 06G-P4-4990-KR - BOX;0;0
+1622;Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 SC ACX 384-bit, 06G-P4-4993-KR;0;0
+1623;Placa de Video Radeon MSI R7 370 GAMING 2G 2GB GDDR5 256Bit, R7-370-GAMING-2G - BOX;0;0
+1624;Placa de Video Sapphire Radeon R7 370 4GB GDDR5 Nitro 256-bit, 11240-04-20G;0;0
+1625;Placa de Video Sapphire Radeon R7 370 2GB GDDR5 Dual-X 256-bit, 11240-06-20G;0;0
+1626;Placa de Video Sapphire Radeon R7 360 2GB GDDR5 128-bit, 11243-00-20G;0;0
+1627;Placa de Video Sapphire Radeon R9 390X 8GB GDDR5 Tri-X 512-bit, 11241-00-20G;0;0
+1628;Placa de Video Sapphire Radeon R9 390 8GB GDDR5 Nitro Tri-X 512-bit, 11244-00-20G;0;0
+1629;Placa de Video Radeon MSI R7 370 2GD5T OC 2GB GDDR5 256Bit, R7-370-2GD5T-OC - BOX;0;0
+1630;Placa de Video Radeon MSI R9 380 2GD5T OC 2GB GDDR5 256Bit, R9-380-2GD5T-OC - BOX;0;0
+1631;Placa de Vídeo EVGA Geforce GTX 980 Ti SC 6GB GDDR5 384Bit, 06G-P4-4992-KR - BOX;0;0
+1632;Placa de Video Radeon MSI R9 380 GAMING 2G 2GB GDDR5 256Bit, R9-380-GAMING-2G - BOX;0;0
+1633;Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 SC+ 384-bit, 06G-P4-4995-KR;0;0
+1634;Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 Mini ITX 256-bit, GV-N970IX-4GD;0;0
+1635;Placa de Video XFX Radeon R9 285 2GB GDDR5 256-bit, R9-285A-CDFC;0;0
+1636;Placa de Video Zotac GeForce GTX 980 Ti 6GB GDDR5 384-bit, ZT-90501-10P;0;0
+1637;Placa de Video Gigabyte GeForce GT 740 1GB GDDR5 OC 128-bit, GV-N740D5OC-1GI;0;0
+1638;Placa de Vídeo EVGA Geforce GTX 960 SSC ACX 2.0+ 4GB GDDR5 128Bit, 04G-P4-3966-KR - BOX;0;0
+1639;Placa de Vídeo EVGA Geforce GTX 970 FTW ACX 2.0 4GB GDDR5 256Bit, 04G-P4-3978-KR - BOX;0;0
+1640;Placa de Video Galax GeForce GTX 960 2GB GDDR5 EXOC White 128-bit, 96NPH8DVE8DC;0;0
+1641;Placa de Video Gigabyte GeForce GTX 750 Ti 2GB GDDR5 Low Profile 128-bit, GV-N75TOC-2GL;0;0
+1642;Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 G1 Gaming 128-bit, GV-N960G1 GAMING-4GD;0;0
+1643;Placa de Video PNY GeForce GTX 960 2GB GDDR5 128-bit, VCGGTX9602XPB;0;0
+1644;Placa de Video EVGA GeForce GTX 960 2GB GDDR5 SC 128-bit, 02G-P4-2962-KR;0;0
+1645;Placa de Video Galax GeForce GTX 750 Slim 2GB GDDR5 128Bit, 75NPH8HX9KXZ - BOX;0;0
+1646;Placa de Video Zotac GeForce GTX 970 4GB GDDR5 Omega 256-bit, ZT-90106-10P;0;0
+1647;Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 WindForce OC 128-bit, GV-N960WF2OC-4GD;0;0
+1648;Placa De Video EVGA Geforce GT 720 2GB GDDR3, 128Bit, 02G-P3-2724-KR - BOX;0;0
+1649;Placa de Video EVGA GeForce GT 730 1GB DDR3 64-bit, 01G-P3-1731-KR;0;0
+1650;Placa De Video EVGA Geforce GT 730 2GB GDDR3, 128Bit, 02G-P3-2732-KR - BOX;0;0
+1651;Placa de Video EVGA GeForce GT 730 1GB DDR3 Low Profile 128-bit, 01G-P3-2730-KR;0;0
+1652;Placa De Video EVGA Geforce GT 740 2GB FTW GDDR5, 128Bit, 02G-P4-3744-KR - BOX;0;0
+1653;Placa de Video EVGA GeForce GT 740 2GB SC DDR3 128-bit, 02G-P4-2742-KR;0;0
+1654;Placa De Video EVGA Geforce GT 740 4GB SC GDDR3, 128Bit, 04G-P4-2744-KR - BOX;0;0
+1655;Placa De Video EVGA Geforce GT 740 2GB SC GDDR3, 128Bit, 02G-P4-2743-KR - BOX;0;0
+1656;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 REF 256-bit, 04G-P4-3973-KR;0;0
+1657;Placa de Video Galax GeForce GTX 980 4GB GDDR5 HOF 256-bit, 98NQH6DND2UZ;0;0
+1658;Placa de Video Galax GeForce GTX 980 4GB GDDR5 SOC 256-bit, 98NQH6DNC7VZ;0;0
+1659;Placa de Video Galax GeForce GTX 970 4GB GDDR5 HOF 256-bit, 97NQH6DND2TX;0;0
+1660;Placa de Video Galax GeForce GTX 970 4GB GDDR5 EXOC 256-bit, 97NQH6DNB4TX;0;0
+1661;Placa de Video Galax GeForce GTX 970 4GB GDDR5 OC 256-bit, 97NPH6DT8RVZ;0;0
+1662;Placa de Video Galax GeForce GTX 750 Ti 2GB GDDR5 128-bit, 75IGH8HX9KXZ;0;0
+1663;Placa de Video Galax GeForce GTX 750 Ti 2GB GDDR5 EXOC 128-bit, 75IPH8DV9JXZ;0;0
+1664;Placa de Video Zotac GeForce GTX 970 4GB GDDR5 AMP! Extreme 256-bit, ZT-90107-10P;0;0
+1665;Placa de vídeo AMD Sapphire FirePro V7900 2GB GDDR5 256 Bit, 31004-22-40R - BOX;0;0
+1666;Placa de vídeo AMD Sapphire FirePro V5900 2GB GDDR5 256 Bit, 31004-20-40R - BOX;0;0
+1667;Placa de vídeo AMD Sapphire Firepro 2270 512Mb DDR3, 31004-17-40A - BOX;0;0
+1668;Placa de vídeo AMD Sapphire Firepro 2270 1GB DDR3, 31004-35-40A - BOX;0;0
+1669;Placa de Video EVGA GeForce GTX 750 2GB GDDR5 128-bit, 02G-P4-2752-KR;0;0
+1670;Placa de Video Asus GeForce GTX 960 OC 2GB GDDR5 ROG Strix 128-bit, STRIX-GTX960-DC2OC-2GD5;0;0
+1671;Placa de Vídeo EVGA Geforce GTX 970 ACX 2.0 4GB GDDR5 256Bit, 04G-P4-2976-KR - BOX;0;0
+1672;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SSC 256-bit, 04G-P4-3975-KR;0;0
+1673;Placa de Video EVGA GeForce GTX 960 2GB GDDR5 SSC 128-bit, 02G-P4-2966-KR;0;0
+1674;Placa de Video Galax GeForce GTX 750 Slim OC 1GB GDDR5 128Bit, 75NGH8HX9KXZ - BOX;0;0
+1675;Placa de Video Gigabyte GeForce GTX 960 2GB GDDR5 G1 Gaming 128-bit, GV-N960G1 GAMING-2GD;0;0
+1676;Placa de Video Gigabyte GeForce GTX 960 2GB GDDR5 WindForce OC 128-bit, GV-N960WF2OC-2GD;0;0
+1677;Placa de Video EVGA GeForce GTX 960 2GB GDDR5 REF 128-bit, 02G-P4-2963-KR;0;0
+1678;Placa de Video Zotac GeForce GTX 960 2GB GDDR5 128-bit, ZT-90301-10M;0;0
+1679;Placa de Video Zotac GeForce GTX 960 2GB GDDR5 AMP! 128-bit, ZT-90303-10M;0;0
+1680;Placa de Vídeo Zotac Geforce GTX 980 AMP! Omega Core Edition 4GB GDDR5 256Bit, ZT-90202-10P - BOX;0;0
+1681;Placa de Video Asus GeForce GTX 980 OC 4GB GDDR5 ROG Strix 256-bit, STRIX-GTX980-DC2OC-4GD5;0;0
+1682;Placa de Video Asus GeForce GTX 970 OC 4GB GDDR5 ROG Strix 256-bit, STRIX-GTX970-DC2OC-4GD5;0;0
+1683;Placa de Vídeo MSI Geforce GTX 970 Gaming OC 4GB GDDR5 256Bit, GTX 970 GAMING 4G - BOX;0;0
+1684;Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 OC Mini ITX 256-bit, GV-N970IXOC-4GD;0;0
+1685;Placa de Video EVGA GeForce GT 210 1GB DDR3 Low Profile 64-bit, 01G-P3-1313-KR;0;0
+1686;Placa de Vídeo MSI Geforce GTX 970 OC 4GB GDDR5 256Bit, GTX 970 4GD5T OC - BOX;0;0
+1687;Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 WindForce 256-bit, GV-N980WF3OC-4GD;0;0
+1688;Placa de Video PNY Quadro K620 2GB GDDR3 128-bit, VCQK620-PB;0;0
+1689;Placa de Video EVGA GeForce GTX 980 4GB GDDR5 256-bit, 04G-P4-2981-KR;0;0
+1690;Placa de Video EVGA GeForce GTX 980 4GB GDDR5 SC 256-bit, 04G-P4-2983-KR;0;0
+1691;Placa de Video Zotac GeForce GTX 980 4GB GDDR5 AMP! 256-bit, ZT-90204-10P;0;0
+1692;Placa de Video EVGA GeForce 9800 GT 1GB DDR3 256-bit, 01G-P3-N988-L1;0;0
+1693;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 FTW 256-bit, 04G-P4-2978-KR;0;0
+1694;Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 OC WindForce 256-bit, GV-N970WF3OC-4GD;0;0
+1695;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SC 256-bit, 04G-P4-2974-KR;0;0
+1696;Placa de Vídeo Zotac Geforce GTX 970 AMP! Omega Core Edition 4GB GDDR5 256Bit, ZT-90102-10P - BOX;0;0
+1697;Placa de Video Zotac GeForce GT 740 1GB GDDR5 Low Profile 128-bit, ZT-71003-10L;0;0
+1698;Placa de Vídeo EVGA Geforce GTX 970 ACX 2.0 4GB GDDR5 256Bit, 04G-P4-2972-KR - BOX;0;0
+1699;Placa de Vídeo MSI Geforce GTX 980 Gaming 4GB GDDR5 256Bit, GTX 980 GAMING 4G - BOX;0;0
+1700;Placa de Vídeo Gigabyte Geforce GTX 980 G1 Gaming 4GB GDDR5 256Bit, GV-N980G1 GAMING-4GD - BOX;0;0
+1701;Placa de Video Asus GeForce GTX 750 Ti 2GB GDDR5 128-bit, GTX750TI-PH-2GD5;0;0
+1702;Placa de Video Zotac GeForce GTX 750 Ti 2GB GDDR5 128-bit, ZT-70605-10M;0;0
+1703;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 256-bit, 04G-P4-1970-KT;0;0
+1704;Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SC 256-bit, 04G-P4-1972-KT;0;0
+1705;Placa de Video PNY GeForce GTX 970 4GB GDDR5 XLR8 256-bit, VCGGTX9704XPB;0;0
+1706;Placa de Video Zotac GeForce GTX 970 4GB GDDR5 256-bit, ZT-90101-10P;0;0
+1707;Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 G1 Gaming 256-bit, GV-N970G1 GAMING-4GD;0;0
+1708;Placa de Vídeo EVGA Geforce GTX 980 SC 4GB GDDR5 256Bit, 04G-P4-2982-KR - BOX;0;0
+1709;Placa de Vídeo EVGA Geforce GTX 980 4GB GDDR5 256Bit, 04G-P4-2980-KR - BOX;0;0
+1710;Placa de Video XFX Radeon R7 250 1GB DDR5 Low Profile 128-bit, R7-250A-ZLF4;0;0
+1711;Placa de Video XFX Radeon R7 250 2GB DDR3 Low Profile 128-bit, R7-250A-CLF4;0;0
+1712;Placa de Video Asus GeForce GTX 750 Ti OC 2GB GDDR5 128-bit, GTX750TI-OC-2GD5;0;0
+1713;Placa de Video Zotac GeForce GTX 750 Ti 1GB GDDR5 128-bit, ZT-70603-10M;0;0
+1714;Placa de Video Gigabyte GeForce GT 210 1GB DDR3 Low Profile 64-bit GDDR3, GV-N210D3-1GI;0;0
+1715;Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 128-bit, 02G-P4-3755-KR;0;0
+1716;Placa de Video PNY Quadro K600 1GB GDDR3 128-bit, VCQK600-PB;0;0
+1717;Placa de Video EVGA GeForce GT 610 2GB DDR3 Low Profile 64-bit, 02G-P3-2619-KR;0;0
+1718;Placa de Vídeo MSI GeForce GTX 750 Ti OC Gaming 2GB 128Bits, N750TI TF 2GD5/OC - BOX;0;0
+1719;Placa de Video PNY GeForce GTX 750 Ti 2GB GDDR5 OC XLR8 128-bit, VCGGTX750T2XPB-OC-PORT;0;0
+1720;Placa de Video PNY GeForce GTX 750 Ti 2GB GDDR5 128-bit, VCGGTX750T2XPB;0;0
+1721;Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 SC 128-bit, 02G-P4-3753-KR;0;0
+1722;Placa de Video Sapphire Firepro V3900 1GB DDR3, 31004-26-40R/41R/40A;0;0
+1723;Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 128-bit, 02G-P4-3751-KR;0;0
+1724;Placa de Video EVGA GeForce GTX 750 1GB GDDR5 128-bit, 01G-P4-2751-KR;0;0
+1725;Placa de Video Gigabyte GeForce GT 640 1GB GDDR5 Low Profile 64-bit, GV-N640D5-1GL;0;0
+1726;Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 FTW ACX 128-bit, 02G-P4-3757-KR;0;0
+1727;Placa de Video EVGA GeForce GT 210 1GB DDR3 64-bit, 01G-P3-1312-LR;0;0
