@@ -38,4 +38,4 @@ for i in range(1, ultima_pagina + 1):
 
 print(dict_produtos['marca'][:1], dict_produtos['preco'][:10])
 df = pd.DataFrame(dict_produtos)
-df.to_csv('C:/Users/walli/Documents/WebScrapping/WebScrapping com site dinamico/lista_cadeiras_kabum.csv', encoding='utf-8', sep= ';')
+df.to_csv('C:/Users/walli/Documents/GitHub/WebScrapping/WebScrapping com site dinamico/lista_cadeiras_kabum.csv', encoding='utf-8', sep= ';')

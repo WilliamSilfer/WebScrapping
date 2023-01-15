@@ -45,4 +45,4 @@ for i in range(1, ultima_pagina+1):
         print(marca, preco, preco_boleto)
 
 df = pd.DataFrame(dict_produtos)
-df.to_csv('C:/Users/walli/Documents/GitHub/Scripts-Python/WebScrapping com site dinamico/lista_placas_video_pichau.csv', encoding='utf-8', sep= ';')
+df.to_csv('C:/Users/walli/Documents/GitHub/WebScrapping/WebScrapping com site dinamico/lista_placas_video_pichau.csv', encoding='utf-8', sep= ';')
