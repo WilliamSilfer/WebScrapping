@@ -1,9 +1,9 @@
 <h1> Scripts de WebScrapping para sites dinâmicos <h1>
  
-> Status do projeto: 1 script em andamento
+> Status do projeto: Buscando novas maneiras e dados para raspagem
 
  
-> Concluídos: 2
+> Concluídos: 3
   
  Para rodar os dois scripts:
   
