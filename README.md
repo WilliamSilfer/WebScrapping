@@ -5,7 +5,7 @@
  
 > Concluídos: 3
   
- Para rodar os dois scripts:
+ Para rodar os scripts:
   
   ```
   python v 3.10
