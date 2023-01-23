@@ -8,5 +8,5 @@
  Para rodar os scripts:
   
   ```
-  python v 3.10
+  python v 3
   ```
