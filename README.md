@@ -1,6 +1,6 @@
 <h1> Scripts de WebScrapping para sites dinâmicos <h1>
  
-> Status do projeto: Buscando novas maneiras de raspagem de dados
+> Status do projeto: Em andamento Webscript + SQL
 
  
 > Concluídos: 3
