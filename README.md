@@ -1,9 +1,8 @@
-<h1> Scripts de WebScrapping para sites dinâmicos <h1>
-
-> Concluídos: 3
-  
+<h2> Scripts de WebScrapping para sites dinâmicos <h2>
  Para rodar os scripts:
   
   ```
-  python v 3
+  python 9.0
+  BeautifulSoup
+  Requests
   ```
